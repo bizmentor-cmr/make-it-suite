@@ -1,0 +1,225 @@
+- - - - - - - - - - - - - - - What to Do If Your Higgsfield Payment Failed- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Higgsfield- Explore
+- Image
+- Video
+- Audio
+- MCP
+- API
+-
+- GenjutsuNew
+- Content FactoryNew
+- PlayableNew
+- AI Influencer
+- AcademyNew
+- Katana
+- ChatGPT Plugin
+- Ads Studio
+- Effects
+- Cinema Studio
+- ContestsContests
+- Marketing Studio
+- Supercomputer
+- Edit
+- Community
+- Plugins
+- Canvas
+- Originals
+- - Creator Hub
+Creator HubHelp centerBlogChangelogCustomer StoriesSearch Creator HubOn this page
+- What should I try first?
+- My renewal payment failed, what happens now?
+- My Auto-Refill payment failed. What happens?
+- I received an email about a failed payment, is it legitimate?
+- I see a charge on my statement but my plan is not active, what do I do?
+- Help center
+- /
+- Billing
+- /
+- What should I do if my payment failed?
+BackCopy page
+What should I do if my payment failed?
+Copy page
+HiggsfieldAug 1, 20263 min
+Most payment failures come from one of a few causes: insufficient funds, a bank decline, an expired card, incorrect card details, or an incomplete 3D Secure verification. Try the steps below in order.
+What should I try first?
+Follow these in order:
+- Complete any bank verification prompt (3D Secure) if one appears.
+- Check your card details: expiry date, CVC, and available funds.
+- Try a different card or payment method (Apple Pay or bank payment).
+- Try incognito mode or a different browser.
+- Disable any VPN: some payment processors block VPN connections.
+- Contact your bank and ask them to authorize online or international payments.
+To update your payment method, open Manage Account → Subscription, scroll to Payment methods, and select Add new payment method. Adding a new card sets it as the default for future charges.
+My renewal payment failed, what happens now?
+If a renewal payment fails, your subscription is temporarily limited: generations are limited and Unlimited model access is restricted until the payment goes through. Stripe retries automatically, and you can also resolve it right away in either of two ways:
+- Pay the unpaid invoice with your existing payment method: open Manage Account → Subscription, scroll to the Upcoming Invoice section, and open All invoices: the unpaid invoice appears there and can be paid directly.
+- Add a new payment method and select Try to charge now: the new card is charged immediately.
+Once the payment succeeds, access is restored. If the payment isn't resolved after Stripe's automatic retries, the subscription is eventually canceled.
+My Auto-Refill payment failed. What happens?
+If an Auto-Refill payment fails, the credit top-up is paused: credits aren't added until a charge succeeds. Update your payment method to resume. See How does Auto-Refill work?
+I received an email about a failed payment, is it legitimate?
+Yes. If a subscription payment fails, Higgsfield sends an automated email with a Complete payment button that opens Stripe Checkout. Once the payment goes through, your subscription is restored automatically.
+Higgsfield will never ask for your card details by email. All payments go through Stripe Checkout only.
+I see a charge on my statement but my plan is not active, what do I do?
+Contact us with the payment date and amount: this is enough for the team to locate the charge. The last 4 digits of your card can help match it faster, but never share the full card number, expiry, or CVC with anyone. Don't repurchase before the issue is resolved.
+Got any questions left?
+My payment was declined, what is the most common fix?Complete any 3D Secure verification your bank sent, check card details, and ensure sufficient funds. If the issue persists, try a different payment method.
+My bank declined the payment but I have enough funds, why?Banks can decline transactions for security reasons, regional restrictions, or transaction limits unrelated to your balance. Contact your bank to authorize the payment.
+My renewal failed and I lost access to Unlimited models, how do I restore it?Either pay the unpaid invoice with your existing payment method (Manage Account → Subscription → Upcoming Invoice → All invoices), or add a new payment method and select Try to charge now. Access restores automatically once the payment succeeds.
+Where do I find my unpaid invoice?Open Manage Account → Subscription and scroll to the Upcoming Invoice section: All invoices opens the full list, where the unpaid invoice can be paid.
+I see two charges for the same amount, what do I do?Most often one of the two is a temporary authorization hold that disappears on its own. If both turn out to be real charges, contact Support with the payment date and amount, and don't cancel or repurchase while it's being reviewed: see How do I get a refund for an accidental charge?
+How long do I have to fix a failed payment?Typically 14 days from the failed payment, per the Terms of Use, before the subscription may be canceled. Update your payment method right away rather than waiting for an automatic retry.
+My VPN might be causing the issue, should I disable it?Yes. Some payment processors block transactions made through VPN connections.
+Share Feedback
+Was this article helpful?
+YesNo
+by Higgsfield
+Share Feedback
+Was this article helpful?
+YesNo
+How does billing work?How do I download my invoice or receipt?
+AI-native creative suite
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+535 Mission St, 14th floor, San Francisco, CA, 94105
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+© 2026 Higgsfield, Inc. All rights reserved.
+-
+- Help center
+- Cookie Notice
+- Terms
+- Privacy
+- Report a vulnerability

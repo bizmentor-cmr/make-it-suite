@@ -1,0 +1,136 @@
+{
+  "url": "https://higgsfield.ai/auth/email/sign-in",
+  "title": "Sign in with Email • Higgsfield",
+  "nav": [
+    {
+      "text": "Explore",
+      "href": "/"
+    },
+    {
+      "text": "Image",
+      "href": "/ai/image?model=gpt_image_2"
+    },
+    {
+      "text": "Video",
+      "href": "/ai/video"
+    },
+    {
+      "text": "Audio",
+      "href": "/audio"
+    },
+    {
+      "text": "MCP",
+      "href": "/mcp"
+    },
+    {
+      "text": "API",
+      "href": "https://console.higgsfield.ai"
+    },
+    {
+      "text": "GenjutsuNew",
+      "href": "/ai/video?model=genjutsu"
+    },
+    {
+      "text": "Content FactoryNew",
+      "href": "/content-factory"
+    },
+    {
+      "text": "PlayableNew",
+      "href": "/playable"
+    },
+    {
+      "text": "AI Influencer",
+      "href": "/ai-influencer-studio"
+    },
+    {
+      "text": "AcademyNew",
+      "href": "/academy"
+    },
+    {
+      "text": "Katana",
+      "href": "/katana"
+    },
+    {
+      "text": "ChatGPT Plugin",
+      "href": "/mcp?tab=chatgpt"
+    },
+    {
+      "text": "Ads Studio",
+      "href": "/ads-studio"
+    },
+    {
+      "text": "Effects",
+      "href": "/effects/use"
+    },
+    {
+      "text": "Cinema Studio",
+      "href": "/generate"
+    },
+    {
+      "text": "ContestsContests",
+      "href": "/community/contests"
+    },
+    {
+      "text": "Marketing Studio",
+      "href": "/marketing-studio"
+    },
+    {
+      "text": "Supercomputer",
+      "href": "/supercomputer"
+    },
+    {
+      "text": "Edit",
+      "href": "/layers"
+    },
+    {
+      "text": "Community",
+      "href": "/community"
+    },
+    {
+      "text": "Plugins",
+      "href": "/plugins/after-effects"
+    },
+    {
+      "text": "Canvas",
+      "href": "/canvas"
+    },
+    {
+      "text": "Originals",
+      "href": "/original-series"
+    },
+    {
+      "text": "Help center",
+      "href": "/creator-hub/help-center"
+    },
+    {
+      "text": "Cookie Notice",
+      "href": "/cookie-notice"
+    },
+    {
+      "text": "Terms",
+      "href": "/terms-of-use-agreement"
+    },
+    {
+      "text": "Privacy",
+      "href": "/privacy-policy"
+    },
+    {
+      "text": "Report a vulnerability",
+      "href": "https://bugcrowd.com/engagements/higgsfield-ai-vdp-pro"
+    }
+  ],
+  "buttons": [
+    "Seedance 4K",
+    "Nano Banana Pro",
+    "Higgsfield Soul",
+    "Cinematic App",
+    "← Back",
+    "Resend in 29"
+  ],
+  "headings": [
+    "SEEDANCE 4K",
+    "Verify your email"
+  ],
+  "credits": null,
+  "bodySnippet": "4K Resolution\nSEEDANCE 4K\n\nThe world’s most capable video model at full 4K\n\nSeedance 4K\nNano Banana Pro\nHiggsfield Soul\nCinematic App\nVerify your email\n\nA verification code has been sent to your email\n\nCode\n← Back\nResend in 29"
+}

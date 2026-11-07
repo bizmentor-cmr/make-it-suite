@@ -1,0 +1,908 @@
+{
+ "templates": {
+  "url": "https://higgsfield.ai/apps/trending-templates",
+  "headings": [
+   "Welcome to Higgsfield apps",
+   "Trending Templates",
+   "Yes Kiss",
+   "Latex",
+   "J-Magazine",
+   "Roller Coaster",
+   "60s Cafe",
+   "Victory Card",
+   "Sand Worm",
+   "Skibidi"
+  ],
+  "tabs": [],
+  "buttons": [
+   "Login",
+   "Sign up",
+   "English",
+   "Cookie Settings"
+  ],
+  "links": [
+   {
+    "t": "Higgsfield",
+    "h": "/"
+   },
+   {
+    "t": "Explore",
+    "h": "/"
+   },
+   {
+    "t": "Image",
+    "h": "/ai/image?model=gpt_image_2"
+   },
+   {
+    "t": "Video",
+    "h": "/ai/video"
+   },
+   {
+    "t": "Audio",
+    "h": "/audio"
+   },
+   {
+    "t": "MCP",
+    "h": "/mcp"
+   },
+   {
+    "t": "API",
+    "h": "https://console.higgsfield.ai"
+   },
+   {
+    "t": "GenjutsuNew",
+    "h": "/ai/video?model=genjutsu"
+   },
+   {
+    "t": "Content FactoryNew",
+    "h": "/content-factory"
+   },
+   {
+    "t": "PlayableNew",
+    "h": "/playable"
+   },
+   {
+    "t": "AI Influencer",
+    "h": "/ai-influencer-studio"
+   },
+   {
+    "t": "AcademyNew",
+    "h": "/academy"
+   },
+   {
+    "t": "Katana",
+    "h": "/katana"
+   },
+   {
+    "t": "ChatGPT Plugin",
+    "h": "/mcp?tab=chatgpt"
+   },
+   {
+    "t": "Ads Studio",
+    "h": "/ads-studio"
+   },
+   {
+    "t": "Effects",
+    "h": "/effects/use"
+   },
+   {
+    "t": "Cinema Studio",
+    "h": "/generate"
+   },
+   {
+    "t": "ContestsContests",
+    "h": "/community/contests"
+   },
+   {
+    "t": "Marketing Studio",
+    "h": "/marketing-studio"
+   },
+   {
+    "t": "Supercomputer",
+    "h": "/supercomputer"
+   },
+   {
+    "t": "Edit",
+    "h": "/layers"
+   },
+   {
+    "t": "Community",
+    "h": "/community"
+   },
+   {
+    "t": "Plugins",
+    "h": "/plugins/after-effects"
+   },
+   {
+    "t": "Canvas",
+    "h": "/canvas"
+   },
+   {
+    "t": "Originals",
+    "h": "/original-series"
+   },
+   {
+    "t": "Pricing30% OFF",
+    "h": "/pricing"
+   },
+   {
+    "t": "Enterprise",
+    "h": "https://higgsfield.ai/enterprise"
+   },
+   {
+    "t": "All",
+    "h": "/apps"
+   },
+   {
+    "t": "Professional",
+    "h": "/apps/camera-motion"
+   },
+   {
+    "t": "Enhance & Style",
+    "h": "/apps/enhance-style"
+   },
+   {
+    "t": "Face & Identity",
+    "h": "/apps/face-identity"
+   },
+   {
+    "t": "Video Editing",
+    "h": "/apps/video-editing"
+   },
+   {
+    "t": "Ads & Products",
+    "h": "/apps/ads-products"
+   },
+   {
+    "t": "Games & Characters",
+    "h": "/apps/games-characters"
+   },
+   {
+    "t": "Extras",
+    "h": "/apps/extras"
+   },
+   {
+    "t": "Trending Templates",
+    "h": "/apps/trending-templates"
+   },
+   {
+    "t": "Yes KissPerson in your image kissed",
+    "h": "/apps/yes-kiss"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/latex"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/j-magazine"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/roller-coaster"
+   }
+  ],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "ph": "Search"
+   }
+  ],
+  "uploads": [],
+  "bodySnippet": "Explore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nWELCOME TO HIGGSFIELD APPS\nOne-click AI effects that transform any content into professional ads, viral trends, or artistic masterpieces\nAll\nProfessional\nEnhance & Style\nFace & Identity\nVideo Editing\nAds & Products\nGames & Characters\nExtras\nTrending Templates\nTRENDING TEMPLATES\nCreate viral content with AI templates\nYes Kiss\nPerson in your image kissed in a surreal, meme-style moment\nLatex\nTransform your photo into sleek black latex style\nJ-Magazine\nTurn your photo into a Japanese magazine cover\nRoller Coaster\nPut your photo on a thrilling roller coaster ride\n60s Cafe\nTurn your photo into a vintage 60s cafe scene\nVictory Card\nTurn your photo into a poker winning card\nSand Worm\nTransform into a sand world character scene\nSkibidi\nTurn your photo into the Skibidi toilet meme\nJ-Poster\nTurn your photo into a Japanese style poster\nMascot\nTransform your photo into a football mascot character\nStorm Creat"
+ },
+ "relight": {
+  "url": "https://higgsfield.ai/apps/relight",
+  "headings": [
+   "Relight",
+   "Relight",
+   "Relight",
+   "Explore More Apps",
+   "Virality Predictor",
+   "Expand image",
+   "Angles 2.0",
+   "Shots",
+   "Transitions",
+   "Color grading"
+  ],
+  "tabs": [
+   "soft",
+   "hard"
+  ],
+  "buttons": [
+   "Login",
+   "Sign up",
+   "Upload media",
+   "Relight",
+   "Top",
+   "Front",
+   "Right",
+   "Left",
+   "Back",
+   "Bottom",
+   "soft",
+   "hard",
+   "Generate2",
+   "Cookie Settings"
+  ],
+  "links": [
+   {
+    "t": "Higgsfield",
+    "h": "/"
+   },
+   {
+    "t": "Explore",
+    "h": "/"
+   },
+   {
+    "t": "Image",
+    "h": "/ai/image?model=gpt_image_2"
+   },
+   {
+    "t": "Video",
+    "h": "/ai/video"
+   },
+   {
+    "t": "Audio",
+    "h": "/audio"
+   },
+   {
+    "t": "MCP",
+    "h": "/mcp"
+   },
+   {
+    "t": "API",
+    "h": "https://console.higgsfield.ai"
+   },
+   {
+    "t": "GenjutsuNew",
+    "h": "/ai/video?model=genjutsu"
+   },
+   {
+    "t": "Content FactoryNew",
+    "h": "/content-factory"
+   },
+   {
+    "t": "PlayableNew",
+    "h": "/playable"
+   },
+   {
+    "t": "AI Influencer",
+    "h": "/ai-influencer-studio"
+   },
+   {
+    "t": "AcademyNew",
+    "h": "/academy"
+   },
+   {
+    "t": "Katana",
+    "h": "/katana"
+   },
+   {
+    "t": "ChatGPT Plugin",
+    "h": "/mcp?tab=chatgpt"
+   },
+   {
+    "t": "Ads Studio",
+    "h": "/ads-studio"
+   },
+   {
+    "t": "Effects",
+    "h": "/effects/use"
+   },
+   {
+    "t": "Cinema Studio",
+    "h": "/generate"
+   },
+   {
+    "t": "ContestsContests",
+    "h": "/community/contests"
+   },
+   {
+    "t": "Marketing Studio",
+    "h": "/marketing-studio"
+   },
+   {
+    "t": "Supercomputer",
+    "h": "/supercomputer"
+   },
+   {
+    "t": "Edit",
+    "h": "/layers"
+   },
+   {
+    "t": "Community",
+    "h": "/community"
+   },
+   {
+    "t": "Plugins",
+    "h": "/plugins/after-effects"
+   },
+   {
+    "t": "Canvas",
+    "h": "/canvas"
+   },
+   {
+    "t": "Originals",
+    "h": "/original-series"
+   },
+   {
+    "t": "Pricing30% OFF",
+    "h": "/pricing"
+   },
+   {
+    "t": "Enterprise",
+    "h": "https://higgsfield.ai/enterprise"
+   },
+   {
+    "t": "Apps",
+    "h": "/apps"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/virality-predictor"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/expand-image"
+   },
+   {
+    "t": "ProYour browser does not support th",
+    "h": "/apps/angles"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/shots"
+   },
+   {
+    "t": "TrendingYour browser does not suppo",
+    "h": "/apps/transitions"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/color-grading"
+   },
+   {
+    "t": "NewYour browser does not support th",
+    "h": "/apps/whats-next"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/behind-the-scenes"
+   },
+   {
+    "t": "Your browser does not support the v",
+    "h": "/apps/zooms"
+   },
+   {
+    "t": "ProYour browser does not support th",
+    "h": "/apps/skin-enhancer"
+   },
+   {
+    "t": "AI Video",
+    "h": "/ai-video"
+   },
+   {
+    "t": "AI Video Effects",
+    "h": "/motion"
+   }
+  ],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "range",
+    "ph": ""
+   },
+   {
+    "tag": "INPUT",
+    "type": "color",
+    "ph": ""
+   }
+  ],
+  "uploads": [
+   {
+    "accept": "image/*",
+    "multiple": false
+   }
+  ],
+  "bodySnippet": "Explore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nApps\n/\nRelight\nRELIGHT\nAdjust lighting position, color temperature, and brightness to perfect any photo\nUpload media\nRelight\nQuick select\nTop\nFront\nRight\nLeft\nBack\nBottom\nHold and drag to change\nlight direction\nLight settings\nSoft\nHard\nBrightness\n50%\nColor\n#FFFFFF\nGenerate\n2\nEXPLORE MORE APPS\nDiscover more creative tools and effects across Higgsfield\nVirality Predictor\nPredict how viral your video hook is before you post\nExpand image\nExpand any image beyond its edges\nPRO\nAngles 2.0\nGenerate any angle view for any image in seconds\nShots\n9 unique shots from one image\nTRENDING\nTransitions\nCreate seamless transitions between any shots effortlessly\nColor grading\nProfessional color controls for any image - adjust temperature, contrast, grain, and mood in seconds for free\nNEW\nWhat's Next?\nExplore 8 narrative possibilities from 1 scene\nBehind the Scenes\nTurn photos into behind-the-scenes videos\nZooms\n9 z"
+ },
+ "soul": {
+  "url": "https://higgsfield.ai/soul",
+  "headings": [
+   "Higgsfield Soul"
+  ],
+  "tabs": [],
+  "buttons": [
+   "Login",
+   "Sign up",
+   "English",
+   "Cookie Settings"
+  ],
+  "links": [
+   {
+    "t": "Higgsfield",
+    "h": "/"
+   },
+   {
+    "t": "Explore",
+    "h": "/"
+   },
+   {
+    "t": "Image",
+    "h": "/ai/image?model=gpt_image_2"
+   },
+   {
+    "t": "Video",
+    "h": "/ai/video"
+   },
+   {
+    "t": "Audio",
+    "h": "/audio"
+   },
+   {
+    "t": "MCP",
+    "h": "/mcp"
+   },
+   {
+    "t": "API",
+    "h": "https://console.higgsfield.ai"
+   },
+   {
+    "t": "GenjutsuNew",
+    "h": "/ai/video?model=genjutsu"
+   },
+   {
+    "t": "Content FactoryNew",
+    "h": "/content-factory"
+   },
+   {
+    "t": "PlayableNew",
+    "h": "/playable"
+   },
+   {
+    "t": "AI Influencer",
+    "h": "/ai-influencer-studio"
+   },
+   {
+    "t": "AcademyNew",
+    "h": "/academy"
+   },
+   {
+    "t": "Katana",
+    "h": "/katana"
+   },
+   {
+    "t": "ChatGPT Plugin",
+    "h": "/mcp?tab=chatgpt"
+   },
+   {
+    "t": "Ads Studio",
+    "h": "/ads-studio"
+   },
+   {
+    "t": "Effects",
+    "h": "/effects/use"
+   },
+   {
+    "t": "Cinema Studio",
+    "h": "/generate"
+   },
+   {
+    "t": "ContestsContests",
+    "h": "/community/contests"
+   },
+   {
+    "t": "Marketing Studio",
+    "h": "/marketing-studio"
+   },
+   {
+    "t": "Supercomputer",
+    "h": "/supercomputer"
+   },
+   {
+    "t": "Edit",
+    "h": "/layers"
+   },
+   {
+    "t": "Community",
+    "h": "/community"
+   },
+   {
+    "t": "Plugins",
+    "h": "/plugins/after-effects"
+   },
+   {
+    "t": "Canvas",
+    "h": "/canvas"
+   },
+   {
+    "t": "Originals",
+    "h": "/original-series"
+   },
+   {
+    "t": "Pricing30% OFF",
+    "h": "/pricing"
+   },
+   {
+    "t": "Enterprise",
+    "h": "https://higgsfield.ai/enterprise"
+   },
+   {
+    "t": "General",
+    "h": "/soul/464ea177-8d40-4940-8d9d-b438bab269c7"
+   },
+   {
+    "t": "Duplicate",
+    "h": "/soul/88126a43-86fb-4047-a2d6-c9146d6ca6ce"
+   },
+   {
+    "t": "Bimbocore",
+    "h": "/soul/f96913e8-2fcf-4358-8545-75dd6c34c518"
+   },
+   {
+    "t": "0.5 Selfie",
+    "h": "/soul/8dd89de9-1cff-402e-88a8-580c29d91473"
+   },
+   {
+    "t": "Ring Selfie",
+    "h": "/soul/9de8ed26-c8dd-413c-a5e3-47eec97bc243"
+   },
+   {
+    "t": "Afterparty Cam",
+    "h": "/soul/5765d07d-1525-4d4d-ae06-9091e2bdac2d"
+   },
+   {
+    "t": "Amalfi Summer",
+    "h": "/soul/dab472a6-23f4-4cf8-98fe-f3e256f1b549"
+   },
+   {
+    "t": "Angel Wings",
+    "h": "/soul/4c24b43b-1984-407a-a0ae-c514f29b7e66"
+   },
+   {
+    "t": "Artwork",
+    "h": "/soul/b9e2d7dc-78e6-4f7d-95dd-b62690e7b200"
+   },
+   {
+    "t": "Avant-Garde",
+    "h": "/soul/0c636e12-3411-4a65-8d86-67858caf2fa7"
+   },
+   {
+    "t": "Babydoll Makeup",
+    "h": "/soul/b7c621b5-9d3c-46a3-8efb-4cdfbc592271"
+   },
+   {
+    "t": "Bike Mafia",
+    "h": "/soul/90df2935-3ded-477f-8253-1d67dd939cbe"
+   },
+   {
+    "t": "Birthday Mess",
+    "h": "/soul/2d47f079-c021-4b8e-b2c0-3b927a80fc31"
+   }
+  ],
+  "inputs": [],
+  "uploads": [],
+  "bodySnippet": "Explore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nHIGGSFIELD SOUL\nHiggsfield's first high-aesthetic photo model\nGENERAL\nDUPLICATE\nBIMBOCORE\n0.5 SELFIE\nRING SELFIE\nAFTERPARTY CAM\nAMALFI SUMMER\nANGEL WINGS\nARTWORK\nAVANT-GARDE\nBABYDOLL MAKEUP\nBIKE MAFIA\nBIRTHDAY MESS\nBLEACHED BROWS\nBURGUNDY SUIT\nCCTV\nCLOUDED DREAM\nCOQUETTE CORE\nCREATURES\nCROSSING THE STREET\nDIGITAL CAMERA\nDMV\nDOUBLE TAKE\nEATING FOOD\nELEVATOR MIRROR\nESCALATOR\nFAIRYCORE\nFASHION SHOW\nFIREPROOF\nFISH-EYE TWIN\nFISHEYE\nFLIGHT MODE\nFOGGY MORNING\nGALLERY\nGEOMINIMAL\nGIANT ACCESSORY\nGIANT PEOPLE\nGLAZED DOLL SKIN MAKEUP\nGLITCH\nGORPCORE\nGRAFFITI\nGREEN EDITORIAL\nGRILLZ SELFIE\nGRUNGE\nHAIR CLIPS\nHALLWAY NOIR\nHELP, IT’S TOO BIG\nINDIE SLEAZE\nINVERTETHEREAL\nIPHONE\nIT’S FRENCH\nJAPANDI\nLIBRARY\nLONG LEGS\nMEDIEVAL\nMIXED MEDIA\nMOVIE\nMT. FUJI\nNAIL CHECK\nNICOTINE GLOW\nNIGHT BEACH\nNIGHT RIDER\nOBJECT MAKEUP\nOFFICE BEACH\nOVEREXPOSED\nPAPER FACE\nPIXELATED FACE\nQUIET LUXURY\nRAINY DAY\nREALISTIC\nRED BALLOON\nRHYME &",
+  "actions": [
+   {
+    "t": "GenjutsuNew",
+    "h": "/ai/video?model=genjutsu"
+   },
+   {
+    "t": "Content FactoryNew",
+    "h": "/content-factory"
+   },
+   {
+    "t": "PlayableNew",
+    "h": "/playable"
+   },
+   {
+    "t": "AcademyNew",
+    "h": "/academy"
+   },
+   {
+    "t": "Cinema Studio",
+    "h": "/generate"
+   },
+   {
+    "t": "Vintage Photo Booth",
+    "h": "/soul/83caff04-691c-468c-b4a0-fd6bbabe062b"
+   },
+   {
+    "t": "View Caught in the cracked reflection of an old be",
+    "h": "/soul/job/a898694a-204e-4a41-81fe-bea0a156b327?styleId=6b9e6b4d-325a-4a78-a0fb-a00ddf612380"
+   },
+   {
+    "t": "View A bright iPhone photo taken in golden hour gl",
+    "h": "/soul/job/b258ad5f-e382-462a-9857-ac6dd18e5f7b?styleId=464ea177-8d40-4940-8d9d-b438bab269c7"
+   },
+   {
+    "t": "View Her face is dissected into overlapping layers",
+    "h": "/soul/job/cb69b55d-c9c1-4b42-8154-e15bff555eff?styleId=2fcf02e2-919a-4642-8b31-d58bde5e6bd9"
+   },
+   {
+    "t": "View A candid photo of a woman sitting at a tiny o",
+    "h": "/soul/job/b8463085-fc64-4cb0-845f-a7d592c37937?styleId=dab472a6-23f4-4cf8-98fe-f3e256f1b549"
+   },
+   {
+    "t": "View High-resolution iPhone photograph tightly com",
+    "h": "/soul/job/63838d69-5424-4b2f-b260-86af537cc501?styleId=36061eb7-4907-4cba-afb1-47afcf699873"
+   },
+   {
+    "t": "View A spontaneously captured iPhone-styled candid",
+    "h": "/soul/job/e4fa398f-d33d-4c0e-972e-8cd051ecacb1?styleId=7696fd45-6e67-47d7-b800-096ce21cd449"
+   },
+   {
+    "t": "View A naturally posed side profile of an individu",
+    "h": "/soul/job/e40e36fe-3890-47bf-a4d8-a298c9d991e4?styleId=96758335-d1d1-42b7-9c21-5ac38c433485"
+   },
+   {
+    "t": "View A high-resolution, vertically framed photo ca",
+    "h": "/soul/job/4f7307cd-f754-482f-9399-fdfe651fb5f4?styleId=bab6e4bd-9093-4bb5-a371-01ef6cbd58ad"
+   },
+   {
+    "t": "View A wide, full-body, eye-level shot from an ear",
+    "h": "/soul/job/3ad3e859-cf5b-44b1-b243-663f1cd18e42?styleId=1fc861ed-5923-41a6-9963-b9f04681dddd"
+   },
+   {
+    "t": "View A casually captured spontaneous iPhone photog",
+    "h": "/soul/job/a88412cb-5c13-4b85-8d13-2cb8d5219623?styleId=96758335-d1d1-42b7-9c21-5ac38c433485"
+   }
+  ]
+ },
+ "moodboard": {
+  "url": "https://higgsfield.ai/moodboard",
+  "headings": [],
+  "tabs": [],
+  "buttons": [
+   "Login",
+   "Sign up",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate",
+   "Generate"
+  ],
+  "links": [
+   {
+    "t": "Higgsfield",
+    "h": "/"
+   },
+   {
+    "t": "Explore",
+    "h": "/"
+   },
+   {
+    "t": "Image",
+    "h": "/ai/image?model=gpt_image_2"
+   },
+   {
+    "t": "Video",
+    "h": "/ai/video"
+   },
+   {
+    "t": "Audio",
+    "h": "/audio"
+   },
+   {
+    "t": "MCP",
+    "h": "/mcp"
+   },
+   {
+    "t": "API",
+    "h": "https://console.higgsfield.ai"
+   },
+   {
+    "t": "GenjutsuNew",
+    "h": "/ai/video?model=genjutsu"
+   },
+   {
+    "t": "Content FactoryNew",
+    "h": "/content-factory"
+   },
+   {
+    "t": "PlayableNew",
+    "h": "/playable"
+   },
+   {
+    "t": "AI Influencer",
+    "h": "/ai-influencer-studio"
+   },
+   {
+    "t": "AcademyNew",
+    "h": "/academy"
+   },
+   {
+    "t": "Katana",
+    "h": "/katana"
+   },
+   {
+    "t": "ChatGPT Plugin",
+    "h": "/mcp?tab=chatgpt"
+   },
+   {
+    "t": "Ads Studio",
+    "h": "/ads-studio"
+   },
+   {
+    "t": "Effects",
+    "h": "/effects/use"
+   },
+   {
+    "t": "Cinema Studio",
+    "h": "/generate"
+   },
+   {
+    "t": "ContestsContests",
+    "h": "/community/contests"
+   },
+   {
+    "t": "Marketing Studio",
+    "h": "/marketing-studio"
+   },
+   {
+    "t": "Supercomputer",
+    "h": "/supercomputer"
+   },
+   {
+    "t": "Edit",
+    "h": "/layers"
+   },
+   {
+    "t": "Community",
+    "h": "/community"
+   },
+   {
+    "t": "Plugins",
+    "h": "/plugins/after-effects"
+   },
+   {
+    "t": "Canvas",
+    "h": "/canvas"
+   },
+   {
+    "t": "Originals",
+    "h": "/original-series"
+   },
+   {
+    "t": "Pricing30% OFF",
+    "h": "/pricing"
+   },
+   {
+    "t": "Enterprise",
+    "h": "https://higgsfield.ai/enterprise"
+   },
+   {
+    "t": "Build your moodboard",
+    "h": "/moodboard/upload"
+   }
+  ],
+  "inputs": [],
+  "uploads": [],
+  "bodySnippet": "Explore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nCREATE YOUR MOODBOARD\nTurn your references into a focused moodboard that defines style, tone,\nconsistent details, and creative direction.\nBuild your moodboard\nGenerate\nWarm ambient\nGenerate\nY2K studio\nGenerate\nSwag era\nGenerate\nTheatrical light\nGenerate\nY2K street\nGenerate\nFlash editorial\nGenerate\nOld smartphone\nGenerate\nStreet photography\nGenerate\nRetro BW\nGenerate\nAsian nostalgia\nGenerate\nSurreal solarization\nGenerate\nSubtle flash\nGenerate\nDigital camera\nGenerate\nSiren\nGenerate\nMystique city\nGenerate\nCandy pop\nGenerate\nDouble exposure\nGenerate\n2000s band\nGenerate\nFrutiger aero\nGenerate\nDrain\nGenerate\nExtraterrestrial\nGenerate\nEditorial street style\nGenerate\nNature light\nGenerate\nNew Indie\nGenerate\nUnderwater\nGenerate\n80s horror\nGenerate\nDisposable camera\nGenerate\nNeutral pastel film\nGenerate\nWarm vivid film\nGenerate\nBW film\nGenerate\nWarm contrast film\nGenerate\nMuted cool film"
+ },
+ "cinemaAfterGenerate": {
+  "url": "https://higgsfield.ai/generate",
+  "dialogs": [],
+  "body": "Cinema Studio | Higgsfield AI | Home | My elements | My favorites | Community | Projects | New project | Learn to make movies | Practical workflows from working AI filmmakers | Learn more | Pricing | 30% OFF | Log in | Explore | BRING YOUR STORIES TO LIFE | Image | Video | References | 0/50 | Film s"
+ },
+ "pricingPlans": {
+  "planBlocks": [
+   "Enterprise",
+   "SEEDANCE 2.5, GPT IMAGE 2.5 & SEEDREAM 5.0 PRO UNLIMITED",
+   "Get Seedance 2.5, GPT Image 2.5 & Seedream 5.0 Pro Unlimited on Ultra plan for 7 days with Special 30% discount",
+   "For individual creators & Enterprises",
+   "Business plans",
+   "Starter\n$15\n$",
+   "Get Starter\n",
+   "100 images Nano Banana Pro",
+   "Nano Banana Pro",
+   "Seedream 5.0 Pro",
+   "Plus",
+   "Get Plus\n−20%",
+   "500 images Nano Banana Pro",
+   "Unlimited Nano Banana Pro",
+   "Unlimited Seedream 5.0 Pro",
+   "Ultra",
+   "Get Ultra\n−23%",
+   "1,500 images Nano Banana Pro",
+   "Unlimited Nano Banana Pro",
+   "Unlimited Seedream 5.0 Pro",
+   "Product photos & videos",
+   "Approximately 14 credits per video & 2 credits per image\n~50 Kling 3.0 videos",
+   "700 credits\n~60 Nano Banana Pro images",
+   "Starter",
+   "Plus\n$49\n$39\n$",
+   "Get Plus\n−20%",
+   "Starter\n\n$15/month\n",
+   "Plus\n\n$39/month\n",
+   "Ultra",
+   "Seedance Pro Fast 720p\n~4 credits/5s"
+  ],
+  "ctas": [
+   {
+    "text": "Get Starter",
+    "x": 120,
+    "y": 604,
+    "tag": "BUTTON",
+    "href": null
+   },
+   {
+    "text": "Get Plus−20%Save $120",
+    "x": 488,
+    "y": 604,
+    "tag": "BUTTON",
+    "href": null
+   },
+   {
+    "text": "Get Ultra−23%Save $360",
+    "x": 856,
+    "y": 604,
+    "tag": "BUTTON",
+    "href": null
+   },
+   {
+    "text": "Get Plus−20%Save $120",
+    "x": 760,
+    "y": 2142,
+    "tag": "BUTTON",
+    "href": null
+   },
+   {
+    "text": "Get Plan",
+    "x": 572,
+    "y": 3026,
+    "tag": "BUTTON",
+    "href": null
+   },
+   {
+    "text": "Get Plan",
+    "x": 770,
+    "y": 3026,
+    "tag": "BUTTON",
+    "href": null
+   },
+   {
+    "text": "Get Plan",
+    "x": 969,
+    "y": 3026,
+    "tag": "BUTTON",
+    "href": null
+   }
+  ]
+ },
+ "pricingAfterClick": {
+  "url": "https://higgsfield.ai/pricing",
+  "dialogs": [],
+  "body": "Explore | Image | Video | Audio | MCP | API | Genjutsu | New | Content Factory | New | Playable | New | AI Influencer | Academy | New | Katana | ChatGPT Plugin | Ads Studio | Effects | Cinema Studio | Contests | Contests | Marketing Studio | Supercomputer | Edit | Community | Plugins | Canvas | Orig"
+ }
+}

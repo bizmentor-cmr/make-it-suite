@@ -1,0 +1,3812 @@
+{
+ "total_events": 5473,
+ "unique_endpoints": 52,
+ "endpoints": {
+  "POST analytics.google.com/g/collect": {
+   "count": 6,
+   "statuses": [
+    204
+   ],
+   "phases": [
+    "gen-image",
+    "gen-video"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://analytics.google.com/g/collect?v=2&tid=G-THH13P18SS&gtm=45je6as1v9245202964za200zd9245202964xf1&_p=1793532501040&_gaz=1&gcs=G111&gcu=1&gcd=13r3r3r3p5l1&npa=1&dma=0&_eu=AAAAACQC&are=1&cid=1866286822.1793527337&frm=0&gcut=3&ibt=1&ngs=1&pscdl=noapi&rcb=12&sr=1440x900&uaa=x86&uab=64&uafvl=Headle",
+     "phase": "gen-image",
+     "status": 204,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": null,
+     "postData": null,
+     "contentType": "text/plain",
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://analytics.google.com/g/collect?v=2&tid=G-THH13P18SS&gtm=45je6as1v9245202964za200zd9245202964xf1&_p=1793532501040&gcs=G111&gcd=13r3r3r3p5l1&npa=1&dma=0&_eu=AAAAACQC&are=1&cid=1866286822.1793527337&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=12&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B143.0.749",
+     "phase": "gen-video",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": null,
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://analytics.google.com/g/collect?v=2&tid=G-THH13P18SS&gtm=45je6as1v9245202964za200zd9245202964xf1&_p=1793532538035&gcs=G111&gcd=13t3t3t3p5l1&npa=1&dma=0&_eu=AEAAACQC&ae=a&are=1&cid=1866286822.1793527337&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B143.0",
+     "phase": "gen-video",
+     "status": 204,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": null,
+     "postData": null,
+     "contentType": "text/plain",
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "POST app.securiti.ai/privaci/v1/consent/cookie/singleupload": {
+   "count": 1,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "gen-image"
+   ],
+   "resourceTypes": [
+    "xhr"
+   ],
+   "samples": [
+    {
+     "url": "https://app.securiti.ai/privaci/v1/consent/cookie/singleupload",
+     "phase": "gen-image",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/json",
+      "x-cmp-quill": "2d549f10-3f79-4f9b-9746-2bf2f405d607",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": null,
+     "postData": "{\"uuid\":\"32534244-8ff4-4dff-bbbf-96467b815b54\",\"domain_id\":1,\"policy_version\":30,\"captured_on\":\"https://higgsfield.ai/ai/image?model=gpt_image_2\",\"securiti_cookie_consents\":{\"consents\":[{\"cookie\":{\"property_id\":4666},\"granted\":true,\"is_essential\":true,\"stc\":0,\"timestamp\":1793532510},{\"cookie\":{\"property_id\":4629},\"granted\":true,\"is_essential\":true,\"stc\":0,\"timestamp\":1793532510},{\"cookie\":{\"property_id\":4726},\"granted\":true,\"is_essential\":true,\"stc\":0,\"timestamp\":1793532510},{\"cookie\":{\"property_id\":4776},\"granted\":true,\"is_essential\":false,\"stc\":0,\"timestamp\":1793532510},{\"cookie\":{\"property_id\":4736},\"granted\":true,\"is_essential\":false,\"stc\":0,\"timestamp\":1793532510}]},\"implicit_consent\":false,\"gpc_signal\":false,\"banner_action\":\"allow\"}",
+     "contentType": "application/json; charset=utf-8",
+     "respHeaders": {},
+     "body": "{\"status\":0,\"message\":\"Consent scheduled for Upload Successfully!\"}",
+     "jwt": null
+    }
+   ]
+  },
+  "POST dd.higgsfield.ai/js": {
+   "count": 37,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "final",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-password",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "ping",
+    "xhr"
+   ],
+   "samples": [
+    {
+     "url": "https://dd.higgsfield.ai/js",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "jspl=R8DeiFq9WZDvbeIwoZih0eRFvfiyQgL-HTK4Mq_LtNDvePTGSUzzUyDNN2uoglD_xinkuLc9P9vkvXIeWVsH9oBGrm6S3y3pHW4RIis7CKtxQ1TZTIGnmY2BYYqvELGGdD6yVSXCcyaaC7i9cf77_Vxcaiv__oc6bl7sGfdStOfZ8gEKoL7eIolC3B1ZKg604fbiv9l8-aUpBTMaq84ZPao4kk3C98ZFe1WOv_psU5by2WZ7ISgHZIl6ySaUn2fvi2Rm4UbeoVRbyZjs_QDlIA_njWbjc3FfBcGQVp1aoRcenXLqtUUT5j-ePrQn77VkIEHtJ_5PqY9RDudJu8Bit6QuxOl8iG6HOmkppXt2sC0LvvIfke2WrVO3JHOeakvpudzECj-nSJ0D3iXxbbYayez_e8Lh_5CPovZ-sPh0PCC8vj9_ELeSKGXNb3mfulx8NJgWFC8j9kYb5GbNnwIGakcUojm6T2ezG_MifNqXSOs1ytR-rd9_UBb-mSUucvoSCdmVxUYZaw_gCNSsBAMou1FG4pkcSithyLlBotlJeuSDNHRq36cQJ5GEtRzCpJYPlkQ3sikcJSqd7AWDOsDFtWo0GPtmjK5occ3rUtE_L-8aKe-TiIJzuWC12GiduJ2k1H7t8_MACMQroxOKmwMqAoK-WRWGl0S7biWvSGNfoKmf_n9GBpI4e86p9mt1mQ4_uzTnLpH4i-89yy_0ucPGnYh3Z3CLPh4upA_UvbnaYxg22x9Gzzj2iUWXVf2vSMbAfvkqGxgGBd0fwQua8-8V01nS1dEAfaRE1uX__BnceThHAnHm938JonBPn84JKvWz9ucf51AiUl-GTHXirkE_4V3hu7WEcX0uVO_ekOH7QoJePGYTTeAY5TiWE59cUQGcXdrgQwsfiXqgAq6kudnyDrs9rQQkMNNLSWzunOreF3Zdgj9K6Hf35fKVojjQMQp51i84SNQ-ykZH0OmyQJYi53JF4yKjOSorRoD95V5ooJycw6t4alBLzEz7jGy21_36PpwxioLsJv3GBUf2HJ4mDQJrAAk3SiG-GzdgaiuXPE1VNt7Kyn0oGxvHlQ1c-7RzlcLkcehFf7wOUC6PVTGJla6Ah5pDrVyKKPRzj19TqAZJwR7KAJQsmzZ8koD337oO7uN5cFXDmfGBpntY7ElmRhrBLgkfb2IHeHWnM6fQ0MxHsQo2im6aPUVTQF6gLBSNvncEt0Qr9z_5IJy60LwXM7shtWH0VCheU959KPjuKk5TeIJy8m_3gSn658AMtuOce4zjuu75IpYtFF7kjYjppB6bISBe0mQrHL7Xi2vu4TNqWuGdWjXD2agfdyKAb9EwH_2_vCwOM2EDAMboFk-PzRYSq36kmfv7N-WCybmzT6koyUfw_eXRZ85rnPP0v8BOyUP0WnPTLdQfu2pX-FYIC2wUR21lkIkx2MB266W55OHxtkQgTFraVhVnatQTigfffHdybvX4H6YsyIYEoMLcuZNR0dTqQJS3Mx9uHesRvUnHy6fpqqHqw9GGVsMIGA1yTerWnZM2rCFR_ExRsEQo4RFYrt2dnwBnYzN4T9D1EUghYUCvM7GhwGplmH8",
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://dd.higgsfield.ai/js",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "jspl=R8DeiFq9WZDvbeIwoZih0eRFvfiyQgL-HTK4Mq_LtNDvePTGSUzzUyDNN2uoglD_xinkuLc9P9vkvXIeWVsH9oBGrm6S3y3pHW4RIis7CKtxQ1TZTIGnmY2BYYqvELGGdD6yVSXCcyaaC7i9cf77_Vxcaiv__oc6bl7sGfdStOfZ8gEKoL7eIolC3B1ZKg604fbiv9l8-aUpBTMaq84ZPao4kk3C98ZFe1WOv_psU5by2WZ7ISgHZIl6ySaUn2fvi2Rm4UbeoVRbyZjs_QDlIA_njWbjc3FfBcGQVp1aoRcenXLqtUUT5j-ePrQn77VkIEHtJ_5PqY9RDudJu8Bit6QuxOl8iG6HOmkppXt2sC0LvvIfke2WrVO3JHOeakvpudzECj-nSJ0D3iXxbbYayez_e8Lh_5CPovZ-sPh0PCC8vj9_ELeSKGXNb3mfulx8NJgWFC8j9kYb5GbNnwIGakcUojm6T2ezG_MifNqXSOs1ytR-rd9_UBb-mSUucvoSCdmVxUYZaw_gCNSsBAMou1FG4pkcSithyLlBotlJeuSDNHRq36cQJ5GEtRzCpJYPlkQ3sikcJSqd7AWDOsDFtWo0GPtmjK5occ3rUtE_L-8aKe-TiIJzuWC12GiduJ2k1H7t8_MACMQroxOKmwMqAoK-WRWGl0S7biWvSGNfoKmf_n9GBpI4e86p9mt1mQ4_uzTnLpH4i-89yy_0ucPGnYh3Z3CLPh4upA_UvbnaYxg22x9Gzzj2iUWXVf2vSMbAfvkqGxgGBd0fwQua8-8V01nS1dEAfaRE1uX__BnceThHAnHm938JonBPn84JKvWz9ucf51AiUl-GTHXirkE_4V3hu7WEcX0uVO_ekOH7QoJePGYTTeAY5TiWE59cUQGcXdrgQwsfiXqgAq6kudnyDrs9rQQkMNNLSWzunOreF3Zdgj9K6Hf35fKVojjQMQp51i84SNQ-ykZH0OmyQJYi53JF4yKjOSorRoD95V5ooJycw6t4alBLzEz7jGy21_36PpwxioLsJv3GBUf2HJ4mDQJrAAk3SiG-GzdgaiuXPE1VNt7Kyn0oGxvHlQ1c-7RzlcLkcehFf7wOUC6PVTGJla6Ah5pDrVyKKPRzj19TqAZJwR7KAJQsmzZ8koD337oO7uN5cFXDmfGBpntY7ElmRhrBLgkfb2IHeHWnM6fQ0MxHsQo2im6aPUVTQF6gLBSNvncEt0Qr9z_5IJy60LwXM7shtWH0VCheU959KPjuKk5TeIJy8m_3gSn658AMtuOce4zjuu75IpYtFF7kjYjppB6bISBe0mQrHL7Xi2vu4TNqWuGdWjXD2agfdyKAb9EwH_2_vCwOM2EDAMboFk-PzRYSq36kmfv7N-WCybmzT6koyUfw_eXRZ85rnPP0v8BOyUP0WnPTLdQfu2pX-FYIC2wUR21lkIkx2MB266W55OHxtkQgTFraVhVnatQTigfffHdybvX4H6YsyIYEoMLcuZNR0dTqQJS3Mx9uHesRvUnHy6fpqqHqw9GGVsMIGA1yTerWnZM2rCFR_ExRsEQo4RFYrt2dnwBnYzN4T9D1EUghYUCvM7GhwGplmH8",
+     "contentType": "application/json;charset=utf-8",
+     "respHeaders": {
+      "access-control-allow-origin": "*",
+      "content-type": "application/json;charset=utf-8"
+     },
+     "body": "{\"status\":200,\"cookie\":\"datadome=HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM; Max-Age=31536000; Domain=.higgsfield.ai; Path=/; Secure; SameSite=Lax\"}",
+     "jwt": null
+    },
+    {
+     "url": "https://dd.higgsfield.ai/js",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "jspl=s3pYLEwb1XADKsAZ3RHriSARWO5DS3I35u38pgVSlxt6iwI95kmWLO31GnbcvC8zUfTqPc05RPNrr7v75LFL08QNdUo0rcG2pU6LYqUrxbBUWK8i9xAkAXsTnst269UwoCVePuZZbaLW8xFJKwQXpZEc9i5RcpxTG4KcnEdMWwG-oHGWZ5Tc0DIqxZPb7ztlU9oYVYRVzvyNBX-CkbOCNybGBcXnfNEBoklnmeiWlUzOmPwA7vZTJWrvedp7mTip5Yue61AweCf_wakNR8e8nLSbCLVcskSr3nXQ475mlNgUK0_aFSZRsNZBnlZxTdF86qYhUIdf3dkQgqByQ4Plf4NkcDhkG7AEV2cyCnfMH7DIfM2eE3J00220cyYy3TOXvgz2sjJ2pXj105-mRtjeFH7J-XIzf5HFj4ve8IH3JIrllJR_fOVnloPALM7kc2HQPgdcCzaICZNk3vJlc1KJ_giM6up3fDkqSVE5DOVl468YhU4x07JpgLFYvbwQ0lKt1SfsVCPWJ4CiRza_ZXHdDbNHF9UWRzucKO5WMSxBOloCjWobhZwrnSlxLu_vPUoQR87jyt4oFTOWUIUOhSdKqL4lwJJXqfL0A4rP6HE16Z-c0WUU1uAxdP3lyfbvuhtxey_lUDYwVLrJxgCyF0zl5YtcawLv0x1YW82cCLRJMyJICDOS21q4BzpwRqPzK3iCyA387EP1TlicDo8s1Kvv7DwDcNoq9C5hxyhMQ2rLLEx_DEr8TKwtcrC6sIsJJyN0Epc5r5hxBdGKfNvbKk8lXdcttgPFO421NiGk9EfrRr4gGFeQ76tGC3dMyMuspk0V_qxz3Q3AMeyedqM8FHbKOC065A_ebiwIqx2FBi3aZ10iIJw7Z2r56e1DLpmSLKWvzaZmzJZx-uqcfJ_Vhl6JV85oDQfrSpO_mLHqe2GhevodCjkXKHISOVFsQyJyjAlTBKC-nfIssluoMi8wgviQ9JliMMt2fibjmrzW3_qWO8ZA5cly2bPkPyZrw032C37hQIQuS2HtuIQ3pvLYuP_jlexD2P8VURPxEFiECQIDC3RQkNvfOja_HksLUmVvT-xQJa_WGkwEiyToifWY29lpW5zsxx43UlX55z6ZWkM9d-BBR2O1UZTbLS-hrasvFBhCcBGV-49Bq_8O-Gjj7C4U1z4OouuqnMQrF8IePkN-Lpxk_afkkmHB7yLyj_HeLj6-r7lhvWQQ7MdGYCVbSN2WtGqT9M7VGKAzcjsRH493HROFRdLeJfM3yYk0yKAY_xoa_62eKdPCx3JRDz-Hncs6aEQ9KiDeYohUSvOOpYI_rtzTk03APRCwr98PAUJr_vQ1bJG8GLrb5Ms6mG2h4vWzVpEDgP9eJRPr2hMHVSmeFCDF1K00YuA0WxA-g4LQdRZgeTSTM6e43_42Gd-utQOzvlTB0TXu-Hrc77FCAfq_nrYvbxVcIgZ-7qui0rAaCn3jnt9sFBwplOPhSWeAJvM5Y2ab5MNSGG8edgW-Ofeul-TE6NHlcwRRd_4S1AxGBw8-XGMbLkLvedDjpSOXZ_tGfdEvpgO5fnbycp3qCn2lfuJudiqGJpUOj60KnV8",
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "POST higgsfield.ai/_clerk/v1/client/sign_ins": {
+   "count": 1,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "login-password"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/_clerk/v1/client/sign_ins?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+     "phase": "login-password",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/auth/email/sign-in",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "identifier=charles.fabou%40yahoo.fr&password=U6B9iGs%2BquVj%2F79&locale=en-US&timezone=UTC&__clerk_protect_token=v1.eyJ0eXAiOiJzcGMiLCJpc3MiOiJzcGVjdGVyIiwiYXVkIjoid2FyZGVuIiwiaWF0IjoxNzkzNTI3MzM0LCJleHAiOjE3OTM1NzA1MzQsImp0aSI6ImZhY2RkYjUxNzAxN2ExZWNkZWQ3YTJjMWRkOGUzOWFiIiwiaW5zdGFuY2UiOiJpbnNfMnVvbTcwNHFxOTNrcGJ6VkxlUVdQMmx5Umg3IiwicGlkIjoiY2t6dzNveXpqNmJmYWRnZ2Q2bHJvdjNxd3UiLCJyaWQiOiJhdWtraG5laWVpeXFtNHR3bjR5ZndqaHNsYSIsIm9icyI6eyJkbnMiOmZhbHNlLCJlY3MiOmZhbHNlLCJoMyI6ZmFsc2UsInByb2JlcyI6MH19.ufPUqin7OEsQYdYXU9Vz-XFIbw8N_3cqqYsqBy34yk4&__clerk_protect_status=ok&__clerk_protect_cid=1-ckzw3oyzj6bfadggd6lrov3qwu-aukkhneieiyqm4twn4yfwjhsla",
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"response\":{\"object\":\"sign_in_attempt\",\"id\":\"sia_3LVHSMLQaQw6pixhcbzQXZndmh0\",\"status\":\"needs_second_factor\",\"supported_identifiers\":[\"email_address\"],\"supported_first_factors\":[{\"strategy\":\"password\"},{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true},{\"strategy\":\"reset_password_email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"supported_second_factors\":[{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"first_factor_verification\":{\"object\":\"verification_password\",\"status\":\"verified\",\"strategy\":\"password\",\"attempts\":1,\"expire_at\":null},\"second_factor_verification\":null,\"identifier\":\"charles.fabou@yahoo.fr\",\"user_data\":null,\"created_session_id\":null,\"abandon_at\":1793618713644,\"locale\":\"en-US\",\"timezone\":\"UTC\",\"client_trust_state\":\"new\"},\"client\":{\"object\":\"client\",\"id\":\"client_3LV7MUmSWE7NvpbQwMlCQtrDnxV\",\"sessions\":[],\"sign_in\":{\"object\":\"sign_in_attempt\",\"id\":\"sia_3LVHSMLQaQw6pixhcbzQXZndmh0\",\"status\":\"needs_second_factor\",\"supported_identifiers\":[\"email_address\"],\"supported_first_factors\":[{\"strategy\":\"password\"},{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true},{\"strategy\":\"reset_password_email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"supported_second_factors\":[{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"first_factor_verification\":{\"object\":\"verification_password\",\"status\":\"verified\",\"strategy\":\"password\",\"attempts\":1,\"expire_at\":null},\"second_factor_verification\":null,\"identifier\":\"charles.fabou@yahoo.fr\",\"user_data\":null,\"created_session_id\":null,\"abandon_at\":1793618713644,\"locale\":\"en-US\",\"timezone\":\"UTC\",\"client_trust_state\":\"new\"},\"sign_up\":null,\"last_active_session_id\":null,\"last_authentication_strategy\":null,\"cookie_expires_at\":1828087424501,\"captcha_bypass\":false,\"created_at\":1793527424415,\"updated_at\":1793532313777}}",
+     "jwt": null
+    }
+   ]
+  },
+  "POST higgsfield.ai/_clerk/v1/client/sign_ins/sia_3LVHSMLQaQw6pixhcbzQXZndmh0/prepare_second_factor": {
+   "count": 1,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "login-password"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/_clerk/v1/client/sign_ins/sia_3LVHSMLQaQw6pixhcbzQXZndmh0/prepare_second_factor?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+     "phase": "login-password",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/auth/email/sign-in",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "strategy=email_code&__clerk_protect_token=v1.eyJ0eXAiOiJzcGMiLCJpc3MiOiJzcGVjdGVyIiwiYXVkIjoid2FyZGVuIiwiaWF0IjoxNzkzNTI3MzM0LCJleHAiOjE3OTM1NzA1MzQsImp0aSI6ImZhY2RkYjUxNzAxN2ExZWNkZWQ3YTJjMWRkOGUzOWFiIiwiaW5zdGFuY2UiOiJpbnNfMnVvbTcwNHFxOTNrcGJ6VkxlUVdQMmx5Umg3IiwicGlkIjoiY2t6dzNveXpqNmJmYWRnZ2Q2bHJvdjNxd3UiLCJyaWQiOiJhdWtraG5laWVpeXFtNHR3bjR5ZndqaHNsYSIsIm9icyI6eyJkbnMiOmZhbHNlLCJlY3MiOmZhbHNlLCJoMyI6ZmFsc2UsInByb2JlcyI6MH19.ufPUqin7OEsQYdYXU9Vz-XFIbw8N_3cqqYsqBy34yk4&__clerk_protect_status=ok&__clerk_protect_cid=1-ckzw3oyzj6bfadggd6lrov3qwu-aukkhneieiyqm4twn4yfwjhsla",
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"response\":{\"object\":\"sign_in_attempt\",\"id\":\"sia_3LVHSMLQaQw6pixhcbzQXZndmh0\",\"status\":\"needs_second_factor\",\"supported_identifiers\":[\"email_address\"],\"supported_first_factors\":[{\"strategy\":\"password\"},{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true},{\"strategy\":\"reset_password_email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"supported_second_factors\":[{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"first_factor_verification\":{\"object\":\"verification_password\",\"status\":\"verified\",\"strategy\":\"password\",\"attempts\":1,\"expire_at\":null},\"second_factor_verification\":{\"object\":\"verification_otp\",\"status\":\"unverified\",\"strategy\":\"email_code\",\"attempts\":0,\"expire_at\":1793532914410},\"identifier\":\"charles.fabou@yahoo.fr\",\"user_data\":null,\"created_session_id\":null,\"abandon_at\":1793618713644,\"locale\":\"en-US\",\"timezone\":\"UTC\",\"client_trust_state\":\"new\"},\"client\":{\"object\":\"client\",\"id\":\"client_3LV7MUmSWE7NvpbQwMlCQtrDnxV\",\"sessions\":[],\"sign_in\":{\"object\":\"sign_in_attempt\",\"id\":\"sia_3LVHSMLQaQw6pixhcbzQXZndmh0\",\"status\":\"needs_second_factor\",\"supported_identifiers\":[\"email_address\"],\"supported_first_factors\":[{\"strategy\":\"password\"},{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true},{\"strategy\":\"reset_password_email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"supported_second_factors\":[{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"first_factor_verification\":{\"object\":\"verification_password\",\"status\":\"verified\",\"strategy\":\"password\",\"attempts\":1,\"expire_at\":null},\"second_factor_verification\":{\"object\":\"verification_otp\",\"status\":\"unverified\",\"strategy\":\"email_code\",\"attempts\":0,\"expire_at\":1793532914410},\"identifier\":\"charles.fabou@yahoo.fr\",\"user_data\":null,\"created_session_id\":null,\"abandon_at\":1793618713644,\"locale\":\"en-US\",\"timezone\":\"UTC\",\"client_trust_state\":\"new\"},\"sign_up\":null,\"last_active_session_id\":null,\"last_authentication_strategy\":null,\"cookie_expires_at\":1",
+     "jwt": null
+    }
+   ]
+  },
+  "POST higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951": {
+   "count": 109,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/x-tss-framed, application/x-ndjson, application/json",
+      "content-type": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "x-tsr-serverfn": "true"
+     },
+     "cookieNames": [],
+     "postData": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_1b55b6ca\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}",
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/x-tss-framed, application/x-ndjson, application/json",
+      "content-type": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "x-tsr-serverfn": "true"
+     },
+     "cookieNames": [],
+     "postData": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_1b55b6ca\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}",
+     "contentType": "application/json",
+     "respHeaders": {
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=1.0, cfExtPri",
+      "content-type": "application/json",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}",
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/x-tss-framed, application/x-ndjson, application/json",
+      "content-type": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "x-tsr-serverfn": "true"
+     },
+     "cookieNames": [],
+     "postData": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_3bdd30f5\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}",
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "POST higgsfield.ai/api/analytics/consent-decision": {
+   "count": 1,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "gen-image"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/api/analytics/consent-decision",
+     "phase": "gen-image",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/json",
+      "x-datadome-clientid": "MUtjuj75wEWRkoIT9ZMSM404SUPTP615vEw23hzW0T0DbHFNDT7iiz0sVQ7FR_REM2_SvGa0XR1PaYzIN8_UpORgmaDwz71CuARYYdLPbMp6h0d3XfErlbXddeuu06Uf",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": null,
+     "postData": "{\"event_properties\":{\"decision\":\"accepted\",\"analytics_granted\":true,\"functionality_granted\":true,\"advertising_granted\":true,\"source\":\"user\",\"cmp\":\"securiti\",\"previous_state\":\"accepted\",\"is_change\":false}}",
+     "contentType": "application/json",
+     "respHeaders": {},
+     "body": "{\"ok\":true}",
+     "jwt": null
+    }
+   ]
+  },
+  "POST higgsfield.ai/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.8337424824163199:1793528452:eF5iGcnj5U96bGOXlWPdpRmrvI8tUst-T6EfuZ0LBBg/a53a81559997b433": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "homepage"
+   ],
+   "resourceTypes": [
+    "xhr"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.8337424824163199:1793528452:eF5iGcnj5U96bGOXlWPdpRmrvI8tUst-T6EfuZ0LBBg/a53a81559997b433",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "eJCW5g2JVMR3-OJrHYM0Qv7OLcN1dVLXOF3zJyCCPWNmGItH80ZhTUg3XoHoX6NaZyzcFy+i+TlTrRMKuYGh1z8n30$cOeMxh-1daMZv0AucifiWGm9m4osqvlfTZaBM2bvfffdN6vT7hszg1OoPzi1ogD8J$IcyL5FP0jN3w1RFbxHoha+wSBVhlI1te14sJQyd$zy-s+Ig9Bitm7Lmhs9H7IOrwKL+wYBe-46SLSbppTmSSz3f1s3seHriVbMvaKqm1+UqhqnG+VwsAvCbCN-4cruwv9a3XBZdBLpgjf$TN+0c$kSC$YoHHHgDlii$l8m4rzb4bmj7KntoQtRQZavFeXS-bO0lW1dAbJ7NbMyOmUM0yu$pe4ABlaFMcdQPYqZzTY-M9jf5tGtt3mKovJzd+zZ4XF9DTld$OMutA7eX6VLYYDAfHCyHTGG$yBPNdTm5hGCituHoyFad3gHiwn5QS8jxK1bFXI7Y-P8ZQI0t1rdut7Rq3r54ffAXjyt874AQfld3qGKzTFddfBdyyGwrllSJrF8Vo2M2TY2oi7tFP--5ajLTvSDpjBCKYe16alCxsnnkgIZoo6oxCeoPzkAZnW09nFiLhtnOWuggG$iT$l9mvDfLAV3bgubwdCIKyS$b-bd9G9MXQvgClgvq8pX0K+pvHL327CbFH5rOCLuxeUWP1y9S7Bf2ewtYJdh8DWa9GTWnIaXqDlHy7Ud6U8wnPksnprUT55pH982npPZS3ChyHOAg5-yBPpyQIFHladOo0pyLga0gamcCLd4awRDvPUed2q6PiSKe$KCIBI9U+6spDUUHm89S70bRaFJP-cGelvW0BlHz68NpfkSo1i+SN77bKP43FGAzZHuyVYHBthc5-zCkVF2H-zypvQOxHcg8i+YJFgNLm6kbBmmIWNTp5K0A5cqlg5A9hrfUr5kU8ogGw$9k64tjX7ALUV-aa$g3u4CQIyPFTq7ARkJQo4LdhUxc8nCiux3vq-fbisqTyyLMzVaU-XlBRL4mMKIVt8myPpzsAwVqImmDUvzalPSn9zd2KI$pqX600jpUgA80i8vGqT6HlgFvIzqxSP4Z1gpkH0A48Z9psTl0XQ3Cs1qw2DSoTMKi9F+sa$6P1q1iwXcrnJhBHI74lPZceWp66$Ru-tIHXjNCpiF6OrplFlJlgT9QrSH9c2rs7+BdpQpFxrnKdt6C0shhu-DKKTLGn+RhoMmSbSNrbeDHenmxP9IAfpMgqFiQh4ncT3A4bnhllqjg4L3KrPC5lL1atNG3-KDDibqpel0pPv3PYjN7+Q0OA3HwW7W6k6tp75fB$r3fa2GWwNDPbTp$TALl1kmRKcjh$Fyu6aU2YMhJ2t4IJerbqM37f225YxFyl-Ix9GC+T2TrZCfG3V923TP8GpUKLNncX-XyhvrgdL$ptR5FUXoVdL8pzXsKxgCAMVsmyDKiO5rRfCdFw0oiIrgBJDh72rSDD8ddnKOUMfUAGb+FZzzHJqzuDF72mrvqIf0KPcUj7bSW0+Q8YUgJ1RJKwSnYwka4LJAyDJ2Tf-b6aFWNsdqtWV$afdv00$uOiWVFlpPrBlOlxNJrWUnzXfqVKvl+",
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.8337424824163199:1793528452:eF5iGcnj5U96bGOXlWPdpRmrvI8tUst-T6EfuZ0LBBg/a53a81559997b433",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "eJCW5g2JVMR3-OJrHYM0Qv7OLcN1dVLXOF3zJyCCPWNmGItH80ZhTUg3XoHoX6NaZyzcFy+i+TlTrRMKuYGh1z8n30$cOeMxh-1daMZv0AucifiWGm9m4osqvlfTZaBM2bvfffdN6vT7hszg1OoPzi1ogD8J$IcyL5FP0jN3w1RFbxHoha+wSBVhlI1te14sJQyd$zy-s+Ig9Bitm7Lmhs9H7IOrwKL+wYBe-46SLSbppTmSSz3f1s3seHriVbMvaKqm1+UqhqnG+VwsAvCbCN-4cruwv9a3XBZdBLpgjf$TN+0c$kSC$YoHHHgDlii$l8m4rzb4bmj7KntoQtRQZavFeXS-bO0lW1dAbJ7NbMyOmUM0yu$pe4ABlaFMcdQPYqZzTY-M9jf5tGtt3mKovJzd+zZ4XF9DTld$OMutA7eX6VLYYDAfHCyHTGG$yBPNdTm5hGCituHoyFad3gHiwn5QS8jxK1bFXI7Y-P8ZQI0t1rdut7Rq3r54ffAXjyt874AQfld3qGKzTFddfBdyyGwrllSJrF8Vo2M2TY2oi7tFP--5ajLTvSDpjBCKYe16alCxsnnkgIZoo6oxCeoPzkAZnW09nFiLhtnOWuggG$iT$l9mvDfLAV3bgubwdCIKyS$b-bd9G9MXQvgClgvq8pX0K+pvHL327CbFH5rOCLuxeUWP1y9S7Bf2ewtYJdh8DWa9GTWnIaXqDlHy7Ud6U8wnPksnprUT55pH982npPZS3ChyHOAg5-yBPpyQIFHladOo0pyLga0gamcCLd4awRDvPUed2q6PiSKe$KCIBI9U+6spDUUHm89S70bRaFJP-cGelvW0BlHz68NpfkSo1i+SN77bKP43FGAzZHuyVYHBthc5-zCkVF2H-zypvQOxHcg8i+YJFgNLm6kbBmmIWNTp5K0A5cqlg5A9hrfUr5kU8ogGw$9k64tjX7ALUV-aa$g3u4CQIyPFTq7ARkJQo4LdhUxc8nCiux3vq-fbisqTyyLMzVaU-XlBRL4mMKIVt8myPpzsAwVqImmDUvzalPSn9zd2KI$pqX600jpUgA80i8vGqT6HlgFvIzqxSP4Z1gpkH0A48Z9psTl0XQ3Cs1qw2DSoTMKi9F+sa$6P1q1iwXcrnJhBHI74lPZceWp66$Ru-tIHXjNCpiF6OrplFlJlgT9QrSH9c2rs7+BdpQpFxrnKdt6C0shhu-DKKTLGn+RhoMmSbSNrbeDHenmxP9IAfpMgqFiQh4ncT3A4bnhllqjg4L3KrPC5lL1atNG3-KDDibqpel0pPv3PYjN7+Q0OA3HwW7W6k6tp75fB$r3fa2GWwNDPbTp$TALl1kmRKcjh$Fyu6aU2YMhJ2t4IJerbqM37f225YxFyl-Ix9GC+T2TrZCfG3V923TP8GpUKLNncX-XyhvrgdL$ptR5FUXoVdL8pzXsKxgCAMVsmyDKiO5rRfCdFw0oiIrgBJDh72rSDD8ddnKOUMfUAGb+FZzzHJqzuDF72mrvqIf0KPcUj7bSW0+Q8YUgJ1RJKwSnYwka4LJAyDJ2Tf-b6aFWNsdqtWV$afdv00$uOiWVFlpPrBlOlxNJrWUnzXfqVKvl+",
+     "contentType": "text/plain; charset=UTF-8",
+     "respHeaders": {
+      "server-timing": "cfExtPri",
+      "content-type": "text/plain; charset=UTF-8"
+     },
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "POST higgsfield.ai/cdn-cgi/rum": {
+   "count": 53,
+   "statuses": [
+    204
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "ping",
+    "xhr"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/cdn-cgi/rum?",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "{\"startTime\":1793531973982,\"pageloadId\":\"835510f4-403e-4d49-98a9-70987f68611f\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://higgsfield.ai/\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"131\",\"bv\":\"131\",\"ov\":\"10.15\"},\"memory\":{\"totalJSHeapSize\":53500000,\"usedJSHeapSize\":47400000,\"jsHeapSizeLimit\":2330000000},\"firstPaint\":332,\"firstContentfulPaint\":612,\"timingsV2\":{\"nextHopProtocol\":\"h2\",\"domainLookupStart\":4,\"domainLookupEnd\":8,\"connectStart\":8,\"connectEnd\":30,\"secureConnectionStart\":14,\"requestStart\":30,\"responseStart\":77,\"responseEnd\":86,\"domInteractive\":463,\"domComplete\":2072,\"loadEventStart\":2073,\"loadEventEnd\":2073,\"finalResponseHeadersStart\":77,\"firstInterimResponseStart\":0,\"transferSize\":94791,\"decodedBodySize\":583946},\"siteToken\":\"642bb5f352304506ba1b738d9f26bd40\",\"st\":2}",
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/cdn-cgi/rum?",
+     "phase": "homepage",
+     "status": 204,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": "{\"startTime\":1793531973982,\"pageloadId\":\"835510f4-403e-4d49-98a9-70987f68611f\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://higgsfield.ai/\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"131\",\"bv\":\"131\",\"ov\":\"10.15\"},\"memory\":{\"totalJSHeapSize\":53500000,\"usedJSHeapSize\":47400000,\"jsHeapSizeLimit\":2330000000},\"firstPaint\":332,\"firstContentfulPaint\":612,\"timingsV2\":{\"nextHopProtocol\":\"h2\",\"domainLookupStart\":4,\"domainLookupEnd\":8,\"connectStart\":8,\"connectEnd\":30,\"secureConnectionStart\":14,\"requestStart\":30,\"responseStart\":77,\"responseEnd\":86,\"domInteractive\":463,\"domComplete\":2072,\"loadEventStart\":2073,\"loadEventEnd\":2073,\"finalResponseHeadersStart\":77,\"firstInterimResponseStart\":0,\"transferSize\":94791,\"decodedBodySize\":583946},\"siteToken\":\"642bb5f352304506ba1b738d9f26bd40\",\"st\":2}",
+     "contentType": "text/plain",
+     "respHeaders": {
+      "server-timing": "cfExtPri",
+      "content-type": "text/plain",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/cdn-cgi/rum?",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "en-US"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "POST www.google-analytics.com/g/collect": {
+   "count": 74,
+   "statuses": [
+    204
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "final-wait",
+    "gen-image",
+    "homepage",
+    "login-email",
+    "login-password",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-THH13P18SS&gtm=45je6as1v9245202964za200zd9245202964xf1&_p=1793531974285&gcs=G101&gcd=13q3r3q3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACQC&are=1&cid=1866286822.1793527337&frm=0&ibt=1&ngs=1&pscdl=denied&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChr",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-THH13P18SS&gtm=45je6as1v9245202964za200zd9245202964xf1&_p=1793531974285&gcs=G101&gcd=13q3r3q3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACQC&are=1&cid=1866286822.1793527337&frm=0&ibt=1&ngs=1&pscdl=denied&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChr",
+     "phase": "homepage",
+     "status": 204,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/plain",
+     "respHeaders": {
+      "access-control-allow-origin": "https://higgsfield.ai",
+      "content-type": "text/plain"
+     },
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-THH13P18SS&gtm=45je6as1v9245202964za200zd9245202964xf1&_p=1793531974285&gcs=G101&gcd=13q3r3q3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACQC&are=1&cid=1866286822.1793527337&frm=0&ibt=1&ngs=1&pscdl=denied&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChr",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET accounts.google.com/gsi/status": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "gen-image",
+    "gen-video"
+   ],
+   "resourceTypes": [
+    "xhr"
+   ],
+   "samples": [
+    {
+     "url": "https://accounts.google.com/gsi/status?client_id=565486769470-fhjhtkgh7hbrcsd4mt0632cmj0io1phm.apps.googleusercontent.com&cas=%2FR2sjZa5%2FTa73uOJi6%2FoER442qsqTVt6LfNya%2BKsQQE&bs=qa9OwM9Hsc7Tnkf5jdg%2B0hct%2FzpbbN8DWpCGRZUqLLM",
+     "phase": "gen-image",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": null,
+     "postData": null,
+     "contentType": "application/json; charset=utf-8",
+     "respHeaders": {},
+     "body": ")]}'\n[[\"8Y0TaPAYAm-tLoO5OkhxZn3PKOn1BmsbTvsD037kzlY\"],null,0,0,1,90,120,null,0]",
+     "jwt": null
+    },
+    {
+     "url": "https://accounts.google.com/gsi/status?client_id=565486769470-fhjhtkgh7hbrcsd4mt0632cmj0io1phm.apps.googleusercontent.com&cas=Y9su6Pz5exERx9%2BFuIh6Mp%2BeV0PZNmhzu6%2FupyactJU&bs=qa9OwM9Hsc7Tnkf5jdg%2B0hct%2FzpbbN8DWpCGRZUqLLM",
+     "phase": "gen-video",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": null,
+     "postData": null,
+     "contentType": "application/json; charset=utf-8",
+     "respHeaders": {},
+     "body": ")]}'\n[[\"Y0Yy3IzSgHJMXjIPPBO5DWzGEma_QSoQYY7rt6c7jNc\"],null,0,0,1,90,120,null,0]",
+     "jwt": null
+    }
+   ]
+  },
+  "GET app.securiti.ai/core/v1/utils/geo/location": {
+   "count": 25,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "xhr"
+   ],
+   "samples": [
+    {
+     "url": "https://app.securiti.ai/core/v1/utils/geo/location",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://app.securiti.ai/core/v1/utils/geo/location",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json; charset=utf-8",
+     "respHeaders": {
+      "x-ratelimit-remaining": "99999",
+      "access-control-allow-origin": "https://higgsfield.ai",
+      "x-ratelimit-limit": "100000",
+      "content-type": "application/json; charset=utf-8"
+     },
+     "body": "{\"status\":0,\"message\":\"\",\"data\":{\"City\":{\"de\":\"Hongkong\",\"en\":\"Hong Kong\",\"es\":\"Hong Kong\",\"fr\":\"Hong Kong\",\"ja\":\"香港\",\"pt-BR\":\"Victoria\",\"ru\":\"Гонконг\",\"zh-CN\":\"香港\"},\"Continent\":{\"de\":\"Asien\",\"en\":\"Asia\",\"es\":\"Asia\",\"fr\":\"Asie\",\"ja\":\"アジア\",\"pt-BR\":\"Ásia\",\"ru\":\"Азия\",\"zh-CN\":\"亚洲\"},\"Country\":{\"IsInEuropeanUnion\":\"false\",\"de\":\"Hongkong\",\"en\":\"Hong Kong\",\"es\":\"Hong Kong\",\"fr\":\"Hong Kong\",\"ja\":\"香港\",\"pt-BR\":\"Hong Kong\",\"ru\":\"Гонконг\",\"zh-CN\":\"香港\"},\"CountryISOCode\":{\"en\":\"HK\"},\"Language\":{\"Accept-Language\":\"en-US\"},\"Location\":{\"TimeZone\":\"Asia/Hong_Kong\"},\"RegisteredCountry\":{\"IsInEuropeanUnion\":\"false\"},\"State\":null,\"StateISOCode\":null}}",
+     "jwt": null
+    },
+    {
+     "url": "https://app.securiti.ai/core/v1/utils/geo/location",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET cms.higgsfield.ai/camera-movements": {
+   "count": 3,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "cinema-studio",
+    "upload-generate"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://cms.higgsfield.ai/camera-movements?lang=en&size=21",
+     "phase": "cinema-studio",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/camera-movements?lang=en&size=21",
+     "phase": "cinema-studio",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "access-control-allow-origin": "*",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json"
+     },
+     "body": "[corps de 718255 octets — tronqué] {\"has_more\":false,\"cursor\":null,\"items\":[{\"id\":\"9f7ccfa9-e5ef-4e09-9c6e-c24bcf56d977\",\"name\":\"Static\",\"description\":\"\",\"media\":{\"url\":\"https://cdn.higgsfield.ai/cinematic_studio_video/4363789d-70a1-43d0-81d9-b2eea7911975.mp4\",\"type\":\"video\",\"width\":600,\"height\":600,\"placeholder\":\"data:image/webp;base64,UklGRhA5AABXRUJQVlA4IAQ5AABw2wGdASpYAlgCPtFiqU6oKjWsqTO6WrAaCWVLwHg3Ceu2W7OfsvwvDk2C/89gYlxSfROhVuzdNJoiBKKlWR9d/0tRzzT8/f+f5vrQZ23ReEpf/8v+/zpMasQ/MP8v/9/8zvb/u//r/h+vljfqKP//Tzt5//fm//971qpy/1UjF/w7G/tb/q6B…",
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/camera-movements?lang=en&size=21",
+     "phase": "upload-generate",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "access-control-allow-origin": "*",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json"
+     },
+     "body": "[718255o tronqué] {\"has_more\":false,\"cursor\":null,\"items\":[{\"id\":\"9f7ccfa9-e5ef-4e09-9c6e-c24bcf56d977\",\"name\":\"Static\",\"description\":\"\",\"media\":{\"url\":\"https://cdn.higgsfield.ai/cinematic_studio_video/4363789d-70a1-43d0-81d9-b2eea7911975.mp4\",\"type\":\"video\",\"width\":600,\"height\":600,\"placeholder\":\"data:image/webp;base64,UklGRhA5AABXRUJQVlA4IAQ5AABw2wGdASpYAlgCPtFiqU6oKjWsqTO6WrAaCWVLwHg3Ceu2W7OfsvwvDk2C/89gYlxSfROh",
+     "jwt": null
+    }
+   ]
+  },
+  "GET cms.higgsfield.ai/camera-settings": {
+   "count": 3,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "cinema-studio",
+    "upload-generate"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://cms.higgsfield.ai/camera-settings?lang=en",
+     "phase": "cinema-studio",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/camera-settings?lang=en",
+     "phase": "cinema-studio",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "access-control-allow-origin": "*",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json"
+     },
+     "body": "[corps de 13809 octets — tronqué] {\"camera\":[{\"id\":\"b52d724b-9bb4-4ac9-8b98-86f9b78e1b1a\",\"name\":\"Modular 8K Digital\",\"tag\":\"Digital\",\"description\":\"\",\"media\":{\"url\":\"https://cdn.higgsfield.ai/cinematic_studio_image_settings/ca7e007e-ad7f-4d90-8d19-dad19bb587aa.webp\",\"type\":\"static\",\"width\":1080,\"height\":1080},\"main_media\":{\"url\":\"https://cdn.higgsfield.ai/cinematic_studio_image_settings/2cf95d30-3503-43dd-bd7f-80e63825a61a.webp\",\"type\":\"static\",\"width\":1080,\"height\":1080},\"media_description\":\"\",\"priority\":1,\"url\":\"https://cdn.higgsfield.ai…",
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/camera-settings?lang=en",
+     "phase": "upload-generate",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "access-control-allow-origin": "*",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json"
+     },
+     "body": "[13809o tronqué] {\"camera\":[{\"id\":\"b52d724b-9bb4-4ac9-8b98-86f9b78e1b1a\",\"name\":\"Modular 8K Digital\",\"tag\":\"Digital\",\"description\":\"\",\"media\":{\"url\":\"https://cdn.higgsfield.ai/cinematic_studio_image_settings/ca7e007e-ad7f-4d90-8d19-dad19bb587aa.webp\",\"type\":\"static\",\"width\":1080,\"height\":1080},\"main_media\":{\"url\":\"https://cdn.higgsfield.ai/cinematic_studio_image_settings/2cf95d30-3503-43dd-bd7f-80e63825a61a.webp\",",
+     "jwt": null
+    }
+   ]
+  },
+  "GET cms.higgsfield.ai/cinema-studio-4-0/creative-controls": {
+   "count": 19,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "cinema-studio",
+    "upload-generate"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://cms.higgsfield.ai/cinema-studio-4-0/creative-controls?lang=en&type=camera_movement",
+     "phase": "cinema-studio",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/cinema-studio-4-0/creative-controls?lang=en&type=camera_movement",
+     "phase": "cinema-studio",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "access-control-allow-origin": "*",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json"
+     },
+     "body": "[corps de 636857 octets — tronqué] {\"camera_movement\":[{\"id\":\"5bcccae9-f86d-42a9-9e38-64b703f605a7\",\"name\":\"Snorricam\",\"tag\":\"\",\"description\":\"\",\"media\":{\"url\":\"https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/41f533bc-e56a-4807-9966-1b7f487a6fa4.mp4\",\"type\":\"video\",\"width\":600,\"height\":600,\"placeholder\":\"data:image/webp;base64,UklGRvosAABXRUJQVlA4IO4sAAAQpAGdASpYAlgCPtFgpk6oNDAsqfUa2oAaCWdLUXdHEOtSVjt+oob0TzlmJKf/qwynMBh8U+H/+f0ffIv8r9x/O/3yFN02s0P/noqtAhN2GyYIX6WakwKDX8wq9L0BqohfAdFqD6eCQaEknS2jictWzu2tauanZhNzo8noSmZoATGUPsSOy…",
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/cinema-studio-4-0/creative-controls?lang=en&type=genre",
+     "phase": "cinema-studio",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "hf-env": "prod",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET cms.higgsfield.ai/higgsfield-multiplier/video-explore/v2": {
+   "count": 4,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "homepage"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://cms.higgsfield.ai/higgsfield-multiplier/video-explore/v2?lang=en&source=community&size=20&cursor=1&sort=trending&view=v2",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "cache-control": "no-store",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/higgsfield-multiplier/video-explore/v2?lang=en&source=community&size=20&cursor=1&sort=trending&view=v2",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "cache-control": "no-store",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "access-control-allow-origin": "*",
+      "content-type": "application/json"
+     },
+     "body": "[corps de 106340 octets — tronqué] {\"cursor\":\"MjQyNGM0YTQtNTQxOS00MTIzLTkzYjgtZmFjMmM4NzQzYThjOmNsdXN0ZXJzLWFiMi1ISzoyMDowMWExOTZkNi0xZGZhLTdjMmMtYjMwMy0yOGRiYTdhZTM2YjQ\",\"request_id\":\"01a196d6-1dfa-7c2c-b303-28dba7ae36b4\",\"feed_session_id\":\"01a196d6-1dfa-7c2c-b303-28dba7ae36b4\",\"items\":[{\"id\":\"8ce317b8-7e7e-4c53-a30d-387047677877\",\"source\":\"community\",\"title\":\"Overhead Performance\",\"description\":\"Recreate an overhead close-up with expressive head turns and arm movements using your own character reference.\",\"job_set_type\":\"hf_mult_motion_con…",
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/higgsfield-multiplier/video-explore/v2?lang=en&source=community&size=20&cursor=MjQyNGM0YTQtNTQxOS00MTIzLTkzYjgtZmFjMmM4NzQzYThjOmNsdXN0ZXJzLWFiMi1ISzoyMDowMWExOTZkNi0xZGZhLTdjMmMtYjMwMy0yOGRiYTdhZTM2YjQ&sort=trending&view=v2",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "cache-control": "no-store",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET cms.higgsfield.ai/notices": {
+   "count": 52,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://cms.higgsfield.ai/notices?lang=en",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/notices?lang=en",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "access-control-allow-origin": "*",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json"
+     },
+     "body": "{\"header_notices\":[],\"job_set_notices\":[{\"job_set_types\":[\"seedance1_5\"],\"params\":{},\"variant\":\"info\",\"badge\":{\"label\":\"Seedance 1.5 Pro is being retired\",\"tooltip\":\"This model is outdated and will no longer be available after 11 November. We recommend switching to Seedance 2.0, Seedance 2.0 Mini — it's faster and delivers better results.\"},\"popup\":{\"title\":\"Seedance 1.5 Pro is being retired\",\"description\":\"This model is outdated and will no longer be available after 11 November. We recommend switching to Seedance 2.0, Seedance 2.0 Mini — it's faster and delivers better results.\"}},{\"job_set_types\":[\"ai_influencer\"],\"params\":{},\"variant\":\"warning\",\"badge\":{\"label\":\"Temporary Issues\",\"tooltip\":\"AI Influencer is facing issues due to high user load. Generation may fail, credits auto-refunded.\"},\"popup\":{\"title\":\"Temporary Issues\",\"description\":\"AI Influencer is facing issues due to high user load. Generation may fail, credits auto-refunded.\"}},{\"job_set_types\":[\"wan2_2_animate_faceswap\"],\"params\":{},\"variant\":\"warning\",\"badge\":{\"label\":\"Temporary Issues\",\"tooltip\":\"Video Face Swap is experiencing temporary issues. Generation may fail, credits auto-refunded.\"},\"popup\":{\"title\":\"Temporary Issues\",\"description\":\"Video Face Swap is experiencing temporary issues. Generation may fail, credits auto-refunded.\"}},{\"job_set_types\":[\"veo3\",\"veo3_speak\"],\"params\":{},\"variant\":\"info\",\"badge\":{\"label\":\"Veo 3 is being retired\",\"tooltip\":\"This model is outdated and will no longer be available after 30 Sept. We recommend switching to Veo 3.1 — it's faster and delivers better results.\"},\"popup\":{\"title\":\"Veo 3 is being retired\",\"description\":\"This model is outdated and will no longer be available after 30 Sept. We recommend switching to Veo 3.1 — it's faster and delivers better results.\"}},{\"job_set_types\":[\"gemini_omni\"],\"params\":{},\"variant\":\"info\",\"badge\":{\"label\":\"Gemini Omni Flash 1.0 is being retired\",\"tooltip\":\"This model is outdated and will no longer be available after 30 Sept. We recommend switching to Gemini Omni Flash 1.1 — it's faster and delivers better results.\"},\"popup\":{\"title\":\"Gemini Omni Flash 1.0 is being retired\",\"description\":\"This model is outdated and will no longer be available after 30 Sept. We recommend switching to Gemini Omni Flash 1.1 — it's faster and delivers better results.\"}},{\"job_set_types\":[\"sora2_video\",\"sora2_video_deflicker\",\"sora2_video_",
+     "jwt": null
+    },
+    {
+     "url": "https://cms.higgsfield.ai/notices?lang=en",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf-community/generations/feed": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "community"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf-community/generations/feed?limit=50",
+     "phase": "community",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf-community/generations/feed?limit=50",
+     "phase": "community",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json; charset=utf-8",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json; charset=utf-8",
+      "access-control-allow-origin": "*"
+     },
+     "body": "[corps de 48283 octets — tronqué] {\"items\":[{\"id\":\"fcf4b61e-46c4-4651-b40b-28b5b6a8da5e\",\"author_id\":\"user_38mXkU11bIaDIKLQJUCrb7kniJ9\",\"published_at\":\"2026-10-23T15:31:22.396002Z\",\"media_type\":\"image\",\"model\":\"text2image_soul\",\"like_count\":26,\"view_count\":5565,\"comment_count\":0,\"aesthetic_score\":0.9046505093574524,\"aesthetic_label\":true,\"job_id\":\"272eb2a3-148e-4c9b-a3b2-6da0c4b30d66\",\"media_url\":\"https://d8j0ntlcm91z4.cloudfront.net/user_38mXkU11bIaDIKLQJUCrb7kniJ9/hf_20261023_152734_272eb2a3-148e-4c9b-a3b2-6da0c4b30d66_min.webp\",\"thumbnai…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/business-unlim/state": {
+   "count": 26,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/business-unlim/state",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/business-unlim/state",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"held_offer\":null,\"verification\":null,\"window\":null,\"plan_cards\":{\"monthly\":[{\"plan_type\":\"team\",\"billing_period\":\"monthly\",\"duration_days\":7,\"headline\":{\"model\":\"Seedance 2.0\",\"max_duration_seconds\":15,\"max_resolution\":\"720p\",\"requires_business_verification\":true,\"duration_days\":7},\"models\":[{\"model\":\"Nano Banana Pro\",\"quality\":\"2K\",\"included\":true,\"duration_days\":7,\"requires_business_verification\":false},{\"model\":\"Seedream 5.0 Pro\",\"quality\":\"2K\",\"included\":true,\"duration_days\":7,\"requires_business_verification\":false},{\"model\":\"Kling 3.0\",\"quality\":null,\"included\":false,\"duration_days\":null,\"requires_business_verification\":false}]},{\"plan_type\":\"scale\",\"billing_period\":\"monthly\",\"duration_days\":7,\"headline\":{\"model\":\"Seedance 2.5\",\"max_duration_seconds\":25,\"max_resolution\":\"720p\",\"requires_business_verification\":true,\"duration_days\":7},\"models\":[{\"model\":\"Nano Banana Pro\",\"quality\":\"2K\",\"included\":true,\"duration_days\":7,\"requires_business_verification\":false},{\"model\":\"Seedream 5.0 Pro\",\"quality\":\"2K\",\"included\":true,\"duration_days\":7,\"requires_business_verification\":false},{\"model\":\"Kling 3.0\",\"quality\":null,\"included\":false,\"duration_days\":null,\"requires_business_verification\":false}]}],\"annual\":[{\"plan_type\":\"team\",\"billing_period\":\"annual\",\"duration_days\":14,\"headline\":{\"model\":\"Seedance 2.0\",\"max_duration_seconds\":15,\"max_resolution\":\"720p\",\"requires_business_verification\":true,\"duration_days\":14},\"models\":[{\"model\":\"Nano Banana Pro\",\"quality\":\"2K\",\"included\":true,\"duration_days\":7,\"requires_business_verification\":false},{\"model\":\"Seedream 5.0 Pro\",\"quality\":\"2K\",\"included\":true,\"duration_days\":7,\"requires_business_verification\":false},{\"model\":\"Kling 3.0\",\"quality\":null,\"included\":false,\"duration_days\":null,\"requires_business_verification\":false}]},{\"plan_type\":\"scale\",\"billing_period\":\"annual\",\"duration_days\":30,\"headline\":{\"model\":\"Seedance 2.5\",\"max_duration_seconds\":25,\"max_resolution\":\"720p\",\"requires_business_verification\":true,\"duration_days\":30},\"models\":[{\"model\":\"Nano Banana Pro\",\"quality\":\"4K\",\"included\":true,\"duration_days\":7,\"requires_business_verification\":false},{\"model\":\"Seedream 5.0 Pro\",\"quality\":\"2K\",\"included\":true,\"duration_days\":7,\"requires_business_verification\":false},{\"model\":\"Kling 3.0\",\"quality\":null,\"included\":true,\"duration_days\":7,\"requires_business_verification\":false}]}]},\"pricing_banner\":{\"show\":true,\"duration_days\"",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/business-unlim/state",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "g6jWvyDH~9oqQ1jiW9R4zApyg3KdWgJyx_T0t_1hvA25XV3T25DoyeCOg23fzOq_6PgAIa2b1ur1zDCAxY25thS44oF8K3HCwFxJ5RFhi5ul9X8t8C3Px35VoAyE2Hww"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/community/discovery/header": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "community"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/community/discovery/header",
+     "phase": "community",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/community/discovery/header",
+     "phase": "community",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"items\":[{\"publication_id\":\"7ac7c69f-eaa5-4cf2-8bc3-5b55ed07def5\",\"duration_seconds\":138.805333,\"state\":\"published\",\"type\":\"film\",\"is_ongoing\":false,\"project_id\":\"7ac7c69f-eaa5-4cf2-8bc3-5b55ed07def5\",\"snapshot_folder_id\":\"a95e798c-417e-4588-8066-007b96f45409\",\"has_changes_since_publish\":false,\"project_updated_at\":\"2026-10-14T21:10:53.987337+00:00\",\"final_submitted_at\":null,\"is_open_source\":false,\"name\":\"KAI CENAT \\\"SU2\\\" VFX \",\"slug\":\"kai-streamer-university-trailer-vfx\",\"description\":\"Some hardest shots were done with Seedance 2.0 and here they are:\",\"cover\":{\"id\":\"3315c3e4-8f51-4409-87ff-9d5d2b35ad3b\",\"url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_2vXWHqHVtNVlKTey8FQHzStgrcP/3315c3e4-8f51-4409-87ff-9d5d2b35ad3b.jpg\",\"name\":null,\"type\":\"media\",\"width\":807,\"height\":585,\"min_url\":null,\"duration\":null,\"object_fit\":\"cover\",\"thumbnail_url\":null},\"gallery_media\":[{\"id\":\"ae3e4266-4ec6-42ab-a20d-8a5733bb1052\",\"url\":\"https://cdn.higgsfield.ai/hls/video_input/ae3e4266-4ec6-42ab-a20d-8a5733bb1052/index.m3u8\",\"name\":\"ae3e4266-4ec6-42ab-a20d-8a5733bb1052.mp4\",\"type\":\"video\",\"width\":3654,\"height\":2664,\"min_url\":null,\"duration\":138.805333,\"object_fit\":\"contain\",\"thumbnail_url\":\"https://cdn.higgsfield.ai/hls/video_input/ae3e4266-4ec6-42ab-a20d-8a5733bb1052/thumbnail.webp\",\"original_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_2vXWHqHVtNVlKTey8FQHzStgrcP/ae3e4266-4ec6-42ab-a20d-8a5733bb1052.mp4\",\"preview_url\":\"https://cdn.higgsfield.ai/card_preview/video_input/ae3e4266-4ec6-42ab-a20d-8a5733bb1052/compressed_hq.mp4\"}],\"author_user_ids\":[\"user_2vXWHqHVtNVlKTey8FQHzStgrcP\"],\"tags\":[],\"categories\":[],\"show_prompts\":true,\"show_canvas\":true,\"is_discoverable\":true,\"featured_episode_id\":null,\"is_featured\":false,\"created_at\":\"2026-10-13T21:24:12.377270Z\",\"authors\":[{\"id\":\"user_2vXWHqHVtNVlKTey8FQHzStgrcP\",\"full_name\":null,\"username\":\"buralqy\",\"avatar_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_2vXWHqHVtNVlKTey8FQHzStgrcP/80b54daf-ce4e-4d7a-8551-7b0086b6b92a.webp\",\"headline\":\"Green guys\",\"location\":\"Almaty\",\"is_owner\":true,\"is_followed\":false,\"total_projects_views\":24509,\"total_projects_likes\":323,\"followers_count\":87,\"badges\":[{\"id\":\"5d70214e-054a-4821-89ff-46436958541d\",\"name\":\"Higgsfield Creative Partner\",\"icon_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/729b114d-1c55-48f4-9b21-c6c003582c39.png\",\"description\":null}]}],\"team\":null,\"views\":24747,\"likes\"",
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/community/discovery/v2/creators": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "community"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/community/discovery/v2/creators",
+     "phase": "community",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/community/discovery/v2/creators",
+     "phase": "community",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"users\":[{\"id\":\"user_331f3fS1QFk3dF3AmXGIp1vAryH\",\"rating_points\":252,\"username\":\"joeysnoisygroup\",\"avatar_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_331f3fS1QFk3dF3AmXGIp1vAryH/e6abc6c4-56f3-4694-974a-ccd98d834fb2.png\",\"bio\":\"I'm building the CTRL WORLD in public, an AI K-Pop Industry, and building claude skills for better prompting – sharing everything I learn for free because if u can dream it, u can build it.\\n\\npeace, love, and ai\",\"headline\":\"hi, it's JOEY\",\"location\":\"\",\"background_image_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_331f3fS1QFk3dF3AmXGIp1vAryH/33f1e1f0-57b9-472b-9175-0ed06946a20d.webp\",\"badge\":null,\"badges\":[],\"full_name\":null,\"verified_projects_count\":2,\"latest_verified_at\":\"2026-10-12T20:08:30.662147+00:00\",\"is_pinned\":true},{\"id\":\"user_2xdiw8IW37OCm6TuCa6cAwS8416\",\"rating_points\":158,\"username\":\"tambv\",\"avatar_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_2xdiw8IW37OCm6TuCa6cAwS8416/e14e66d0-9d75-4d1a-919b-4f546a17b896.jpg\",\"bio\":\"I’m a visual artist pioneering AI filmmaking, creating full-length music videos and major projects for brands and productions including CUPRA, BYD, THE WILD PROJECT, and LA VELADA VI. I’ve built a community around my visual work, and I’m excited to push Higgsfield’s creative possibilities further th\",\"headline\":\"ARTIST\",\"location\":\"Barcelona\",\"background_image_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_2xdiw8IW37OCm6TuCa6cAwS8416/793379d5-9590-4614-903c-e2fee6a83ac8.webp\",\"badge\":null,\"badges\":[{\"id\":\"5d70214e-054a-4821-89ff-46436958541d\",\"name\":\"Higgsfield Creative Partner\",\"icon_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/729b114d-1c55-48f4-9b21-c6c003582c39.png\",\"description\":null}],\"full_name\":null,\"verified_projects_count\":1,\"latest_verified_at\":\"2026-10-12T18:27:42.655005+00:00\",\"is_pinned\":true},{\"id\":\"user_36NPmTyNOoerEFm7CSZwcs4DNVG\",\"rating_points\":78,\"username\":\"avaren\",\"avatar_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_36NPmTyNOoerEFm7CSZwcs4DNVG/a7301ebf-0f80-4ea8-b380-0562cd0c926f.webp\",\"bio\":\"I'm a French filmmaker and storyteller, driven by one simple passion: making people feel something. I believe emotions are what truly connect us, and that's why I create. Exploring imagination, bringing stories to life, and sharing something meaningful. After all, everything you can imagine is real.\",\"headline\":\"Film Creator\",\"location\":\"Paris\",\"background_image",
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/contests": {
+   "count": 4,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "community"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/contests?size=50&contest_type=global",
+     "phase": "community",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/contests?size=50&contest_type=global",
+     "phase": "community",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"items\":[{\"contest_type\":\"global\",\"submissions_close_at\":null,\"id\":\"4263b5fb-fead-441d-aa37-62f8aa367aa1\",\"slug\":\"higgsfield-global-film-festival\",\"title\":\"Higgsfield Festival\",\"description\":\"Higgsfield AI Film Festival — $1,000,000 Prize Pool\",\"start_at\":\"2026-07-16T00:00:00Z\",\"end_at\":\"2026-07-30T23:59:00Z\",\"status\":\"open\",\"preview_image\":\"https://static.higgsfield.ai/contest/festival-hero/higgs_6_fix_v2-poster.webp\",\"preview_video\":\"https://static.higgsfield.ai/contest/festival-hero/higgs_6_fix_v2-optimized-1.mp4\",\"logo_url\":null,\"redirect_url\":null,\"prize_pool\":1000000,\"submissions_count\":0,\"winner\":null,\"some_contestants\":[],\"judges\":[],\"is_trending\":true},{\"contest_type\":\"global\",\"submissions_close_at\":null,\"id\":\"78c11281-082a-415e-a950-d5793d6101f6\",\"slug\":\"higgsfield-seedance-2-contest\",\"title\":\"Higgsfield Seedance 2.0 Contest\",\"description\":\"Higgsfield Seedance 2.0 Contest\",\"start_at\":\"2026-04-07T12:00:00Z\",\"end_at\":\"2026-04-14T12:00:00Z\",\"status\":\"created\",\"preview_image\":\"https://static.higgsfield.ai/contests/seedance-contest/banner.webp\",\"preview_video\":null,\"logo_url\":null,\"redirect_url\":null,\"prize_pool\":50000,\"submissions_count\":0,\"winner\":null,\"some_contestants\":[],\"judges\":[],\"is_trending\":false},{\"contest_type\":\"global\",\"submissions_close_at\":null,\"id\":\"98d90e17-8e95-4a7f-b9db-633ebb4aea44\",\"slug\":\"make-your-action-scene\",\"title\":\"Make Your Action Scene\",\"description\":\"Build a world, pick your hero, raise the stakes, and cut a scene that makes people wish your film was real.\",\"start_at\":\"2026-02-09T19:00:00Z\",\"end_at\":\"2026-03-01T08:00:00Z\",\"status\":\"finished\",\"preview_image\":\"https://static.higgsfield.ai/contests/banner-mini-thumbnail.webp\",\"preview_video\":\"https://cdn.higgsfield.ai/uploads/f5f9f5df-e72c-472d-af5f-4d49a6365a53.mp4\",\"logo_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/093ae60a-5121-424d-b69d-f2218bb5b85e.webp\",\"redirect_url\":null,\"prize_pool\":500000,\"submissions_count\":8752,\"winner\":{\"id\":\"user_2wC4cmbjNFlqEz3cX7be7cO9GDv\",\"username\":\"mrabujoe\",\"avatar_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_2wC4cmbjNFlqEz3cX7be7cO9GDv/2c041173-8c71-4c46-9e73-21d45ef8900d.png\"},\"some_contestants\":[{\"id\":\"user_2v6VgaMnJ5GyJeBVqK7RHExAAc6\",\"username\":\"deepframelabs\",\"avatar_url\":\"https://d2ol7oe51mr4n9.cloudfront.net/user_2v6VgaMnJ5GyJeBVqK7RHExAAc6/17ee8356-28d1-44e0-a1c0-14ff2f1262da.jpg\"},{\"id\":\"user_2v5lW6QMh8Qe2ErA",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/contests?contest_type=weekly&size=100",
+     "phase": "community",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/datetime-settings": {
+   "count": 26,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/datetime-settings",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/datetime-settings",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "[{\"source\":\"free_trial_all_unlim\",\"datetimes\":{\"starts_at\":\"2026-07-28T13:30:00Z\",\"ends_at\":\"2026-07-31T00:00:00Z\"},\"params\":null},{\"source\":\"plan_all_unlims\",\"datetimes\":{\"starts_at\":\"2026-07-28T13:30:00Z\",\"ends_at\":\"2026-07-31T00:00:00Z\"},\"params\":null},{\"source\":\"unlim_trial_in_mcp\",\"datetimes\":{\"starts_at\":\"2026-07-29T15:30:00Z\",\"ends_at\":\"2026-07-31T00:00:00Z\"},\"params\":null},{\"source\":\"freegens_seedance_4k\",\"datetimes\":{\"starts_at\":\"2026-08-03T11:15:00Z\",\"ends_at\":\"2026-08-04T11:15:00Z\"},\"params\":null},{\"source\":\"freegens_seedance_4k_new_users\",\"datetimes\":{\"starts_at\":\"2026-08-04T11:15:00Z\",\"ends_at\":\"2026-08-07T00:00:00Z\"},\"params\":null},{\"source\":\"freegens_seedance_2_5_1080p\",\"datetimes\":{\"starts_at\":\"2026-08-14T06:00:00Z\",\"ends_at\":\"2026-08-19T00:00:00Z\"},\"params\":null},{\"source\":\"exclusive_seedance_2_5_1080p\",\"datetimes\":{\"starts_at\":\"2026-08-14T06:00:00Z\",\"ends_at\":\"2026-08-19T00:00:00Z\"},\"params\":null},{\"source\":\"unlim_marketplace_bundles\",\"datetimes\":{\"starts_at\":\"2026-08-07T00:00:00Z\",\"ends_at\":\"2026-08-09T00:00:00Z\"},\"params\":null},{\"source\":\"seedance_2_5_sale\",\"datetimes\":{\"starts_at\":\"2026-08-10T13:00:00Z\",\"ends_at\":\"2026-08-12T00:00:00Z\"},\"params\":{\"stage1_days\":null,\"stage2_days\":null,\"unlim_starts_at\":null,\"unlim_ends_at\":null,\"unlim_days\":null,\"status\":\"active\",\"phase\":\"plan_ladder\",\"credits\":null,\"credits_expire_days\":null,\"max_bonus_credits\":null,\"max_free_gens\":null,\"plan_free_gens\":null}},{\"source\":\"generation_seconds_sale\",\"datetimes\":{\"starts_at\":\"2026-08-14T06:00:00Z\",\"ends_at\":\"2026-08-18T00:00:00Z\"},\"params\":null},{\"source\":\"kling_4_release\",\"datetimes\":{\"starts_at\":\"2026-10-21T15:00:00Z\",\"ends_at\":\"2026-10-29T00:00:00Z\"},\"params\":{\"stage1_days\":null,\"stage2_days\":null,\"unlim_starts_at\":null,\"unlim_ends_at\":null,\"unlim_days\":null,\"status\":null,\"phase\":null,\"credits\":null,\"credits_expire_days\":null,\"max_bonus_credits\":null,\"max_free_gens\":null,\"plan_free_gens\":null}},{\"source\":\"genjutsu_lite_release\",\"datetimes\":{\"starts_at\":\"2026-10-22T00:00:00Z\",\"ends_at\":\"2026-11-01T00:00:00Z\"},\"params\":null},{\"source\":\"plan_free_gens\",\"datetimes\":{\"starts_at\":\"2026-10-22T00:00:00Z\",\"ends_at\":\"2026-11-01T00:00:00Z\"},\"params\":{\"stage1_days\":null,\"stage2_days\":null,\"unlim_starts_at\":null,\"unlim_ends_at\":null,\"unlim_days\":null,\"status\":null,\"phase\":null,\"credits\":null,\"credits_expire_days\":null,\"max_bonus_credits\":null,\"max_free_gens\":null,\"plan",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/datetime-settings",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/feature": {
+   "count": 3,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "cinema-studio",
+    "upload-generate"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/feature",
+     "phase": "cinema-studio",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "yPG8K4p8wcbmDRDvMHXd0qRuz1dOiHRf5hghb7H5WT9BuLtEIaIu1W~xZqjg_S3hMClFKn0lJCk1ZAEz1ExzRrSwPkYooqE4eIi_odV~scHI2fiUxWTnxhwdoyJCmhlm",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/feature",
+     "phase": "cinema-studio",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "yPG8K4p8wcbmDRDvMHXd0qRuz1dOiHRf5hghb7H5WT9BuLtEIaIu1W~xZqjg_S3hMClFKn0lJCk1ZAEz1ExzRrSwPkYooqE4eIi_odV~scHI2fiUxWTnxhwdoyJCmhlm",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"ZGV5a2hhbg\":false}",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/feature",
+     "phase": "upload-generate",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "VflrGrdNjxBBuAdink7AJTbqCvGxLOpS8Az_UJgjlhgu2lU8dZElGSRS7Pm8Zp55Aevfx4yXrAsnvo3T0zgYB6Z7TobVxjTp8cTywn8fK1QeKzdzhboWtiqje3Z81Ix5",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"ZGV5a2hhbg\":false}",
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/job-sets/costs": {
+   "count": 13,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "ai-image",
+    "ai-video",
+    "cinema-studio",
+    "gen-image",
+    "gen-video",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/job-sets/costs",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/job-sets/costs",
+     "phase": "ai-image",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "[corps de 38624 octets — tronqué] {\"data\":[{\"job_set_type\":\"flux_3_video\",\"cost\":[{\"resolution\":\"720p\",\"video\":{\"without_video\":{\"cost_per_second\":6.0,\"original_cost_per_second\":6.0},\"with_video\":{\"cost_per_second\":6.0,\"original_cost_per_second\":6.0}}},{\"resolution\":\"1080p\",\"video\":{\"without_video\":{\"cost_per_second\":8.0,\"original_cost_per_second\":8.0},\"with_video\":{\"cost_per_second\":8.0,\"original_cost_per_second\":8.0}}},{\"resolution\":\"2k\",\"video\":{\"without_video\":{\"cost_per_second\":10.0,\"original_cost_per_second\":10.0},\"with_video\":{\"cost_…",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/job-sets/costs",
+     "phase": "upload-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "fR0pCiOgSKaPsrCPspeUOwxGv0Y2VQ_K~OSm3RqVSOCQM848fsafR8CRExaIY1acPLTdNZshb9PEuDQ3MwXUUHlO261IdqVMvubS4bZbSEQWa3LWiVkar4OWiHrxc0sY",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/project-publications/trending": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "community"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/project-publications/trending?limit=32&sort=most_viewed",
+     "phase": "community",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/project-publications/trending?limit=32&sort=most_viewed",
+     "phase": "community",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "eto_OkxlrZsM2ci58_n42qJC3wKKR_N_HRZGUZsYQcllwTVHLfWnBR4_wVNyULOaj~jMV0t7cVANJz~fBsNVUhZwjR6hcCCsVlPwPDe4_OAlRtOXKTd4Nz5VLba4GZcs",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "[corps de 80557 octets — tronqué] {\"items\":[{\"publication_id\":\"a00ee314-bd2e-4c07-9aa0-a51fd32fc8c9\",\"duration_seconds\":288.266009,\"state\":\"published\",\"type\":\"film\",\"is_ongoing\":false,\"project_id\":\"a00ee314-bd2e-4c07-9aa0-a51fd32fc8c9\",\"snapshot_folder_id\":\"06dd8bf6-b282-47a7-a254-3b5245936fd3\",\"has_changes_since_publish\":false,\"project_updated_at\":\"2026-09-09T06:45:21.745332+00:00\",\"final_submitted_at\":\"2026-09-09T06:45:21.704599+00:00\",\"is_open_source\":true,\"name\":\"Racer18\",\"slug\":\"racer-18\",\"description\":\"Racer 18: Leo turns childhood ra…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/reference-elements/voices": {
+   "count": 6,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "ai-video",
+    "cinema-studio",
+    "gen-video",
+    "upload-generate"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/reference-elements/voices?size=33",
+     "phase": "ai-video",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "K7x~8ZKxjV1E8WeyJlfHC023kaZROwg7TpNDorgsEax7rTw6OVzCPy1YwdU64~IQDPFaqK8iqcYoxIlfihjg31KPabM3M7cDXvAcNMFxqfs81FF2ZY4VcSy66WJ85bhX",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/reference-elements/voices?size=33",
+     "phase": "ai-video",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "K7x~8ZKxjV1E8WeyJlfHC023kaZROwg7TpNDorgsEax7rTw6OVzCPy1YwdU64~IQDPFaqK8iqcYoxIlfihjg31KPabM3M7cDXvAcNMFxqfs81FF2ZY4VcSy66WJ85bhX",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "[corps de 17699 octets — tronqué] {\"user_cursor\":null,\"preset_cursor\":32,\"has_more\":true,\"items\":[{\"id\":\"e2a2d2e6-9ed2-59cd-82af-feaa27f8a678\",\"name\":\"Grady\",\"gender\":\"male\",\"age\":\"middle_aged\",\"source\":\"https://d1xarpci4ikg0w.cloudfront.net/audio_voice/e2a2d2e6-9ed2-59cd-82af-feaa27f8a678/preview-c07e730034d0926d.mp3\",\"thumbnail_url\":\"https://d1xarpci4ikg0w.cloudfront.net/audio_voice/e2a2d2e6-9ed2-59cd-82af-feaa27f8a678/thumbnail-42a7c60501e92f87.webp\",\"waveform_url\":\"https://d1xarpci4ikg0w.cloudfront.net/waveform/3e6474b7-1c47-4ad7-b773-a…",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/reference-elements/voices?size=33",
+     "phase": "cinema-studio",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "i2R7qEto_6kIlsCuTsiN_02GD2sxu6hhlENGeNNo_PSu13ML9dSvDfeHCFstAbxmXxHnC8ZvKuaJ_Ig_woCqsQp4WRKcK1icf8UVpIkXQsb0AopIQtr3qE~xT9nSwK_x",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/sso/check": {
+   "count": 1,
+   "statuses": [
+    403
+   ],
+   "phases": [
+    "login-email"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/sso/check?email=charles.fabou%40yahoo.fr",
+     "phase": "login-email",
+     "status": 403,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "i5FPdKskFpynMRkWj6sxbTT4WbmQRigygCYaVTTQnl~3rVS9XlDN4y606It771pAYjTqsuQAFiVQ~3AN5ysZCCFtmkohDEx0R5xTZUR7vnH1cLOWvyW6I~u6wypIOAwz",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"detail\":{\"error_type\":\"sso_not_available\"}}",
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/subscriptions/bundle/unlim-catalog": {
+   "count": 22,
+   "statuses": [
+    401
+   ],
+   "phases": [
+    "ai-image",
+    "cinema-studio",
+    "gen-image",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/bundle/unlim-catalog",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/bundle/unlim-catalog",
+     "phase": "ai-image",
+     "status": 401,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"detail\":\"Invalid or expired token\"}",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/bundle/unlim-catalog",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "g6jWvyDH~9oqQ1jiW9R4zApyg3KdWgJyx_T0t_1hvA25XV3T25DoyeCOg23fzOq_6PgAIa2b1ur1zDCAxY25thS44oF8K3HCwFxJ5RFhi5ul9X8t8C3Px35VoAyE2Hww",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/compare": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "pricing"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/compare?plan_set_key=default&billing_period=annual&with_localization=true",
+     "phase": "pricing",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "x-datadome-clientid": "i2R7qEto_6kIlsCuTsiN_02GD2sxu6hhlENGeNNo_PSu13ML9dSvDfeHCFstAbxmXxHnC8ZvKuaJ_Ig_woCqsQp4WRKcK1icf8UVpIkXQsb0AopIQtr3qE~xT9nSwK_x",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/compare?plan_set_key=default&billing_period=annual&with_localization=true",
+     "phase": "pricing",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "x-datadome-clientid": "i2R7qEto_6kIlsCuTsiN_02GD2sxu6hhlENGeNNo_PSu13ML9dSvDfeHCFstAbxmXxHnC8ZvKuaJ_Ig_woCqsQp4WRKcK1icf8UVpIkXQsb0AopIQtr3qE~xT9nSwK_x",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "[corps de 47321 octets — tronqué] {\"plan_set_key\":\"default\",\"plans\":[{\"id\":\"294f0023-0ece-4129-b2f6-1709f69be67c\",\"plan_type\":\"free\",\"name\":\"Free\",\"credits\":0,\"billing_period\":\"annual\",\"product_id\":\"prod_S2xmRIOaWs973C\",\"price_id\":\"price_1R8rqbCmk0pn4HuHi0nab0I8\",\"original_price\":0,\"original_monthly_price\":0,\"final_price\":0,\"final_monthly_price\":0,\"renew_price\":0,\"renew_monthly_price\":0,\"currency\":\"usd\",\"discount\":null,\"purchased\":false,\"seats\":1},{\"id\":\"9adee0f0-0545-41bb-ab38-ed430d13a5e4\",\"plan_type\":\"free\",\"name\":\"Free\",\"credits\":0,\"bil…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/plan-benefits": {
+   "count": 4,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "homepage",
+    "pricing"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/plan-benefits",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/plan-benefits",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "[corps de 103632 octets — tronqué] {\"schema_version\":1,\"locale\":\"en\",\"valid_until\":null,\"tab_badges\":{\"individual\":{\"label\":\"30-day unlimited Seedance 2.5\",\"icon\":\"infinity\",\"theme\":\"business\"},\"business\":{\"label\":\"30-day unlimited Seedance 2.5\",\"icon\":\"infinity\",\"theme\":\"business\"}},\"cards\":{\"monthly\":[{\"plan_type\":\"starter\",\"tab\":\"individual\",\"experiment\":null,\"campaign\":null,\"sections\":[{\"id\":\"free_gens\",\"kind\":\"list\",\"slot\":\"after_cta\",\"title\":\"Free generations\",\"subtitle\":null,\"icon\":\"gift\",\"theme\":\"exclusive\",\"info\":{\"text\":\"Included f…",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/plan-benefits",
+     "phase": "pricing",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "x-datadome-clientid": "i2R7qEto_6kIlsCuTsiN_02GD2sxu6hhlENGeNNo_PSu13ML9dSvDfeHCFstAbxmXxHnC8ZvKuaJ_Ig_woCqsQp4WRKcK1icf8UVpIkXQsb0AopIQtr3qE~xT9nSwK_x"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/plans": {
+   "count": 26,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/plans?plan_set_key=default&with_localization=true",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/plans?plan_set_key=default&with_localization=true",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"plans\":[{\"id\":\"8b52f333-0c16-4dd5-a7d6-eaa35865879f\",\"plan_type\":\"starter\",\"name\":\"Starter\",\"credits\":200,\"billing_period\":\"monthly\",\"product_id\":\"prod_UBpEPiZy7OZggS\",\"price_id\":\"price_1TDRaKCmk0pn4HuHk3dzxwQj\",\"original_price\":1500,\"original_monthly_price\":1500,\"final_price\":1500,\"final_monthly_price\":1500,\"renew_price\":1500,\"renew_monthly_price\":1500,\"currency\":\"usd\",\"discount\":null},{\"id\":\"c888e821-9b8e-47e8-9efc-65a2bb76a10c\",\"plan_type\":\"starter\",\"name\":\"Starter\",\"credits\":200,\"billing_period\":\"annual\",\"product_id\":\"prod_UBpGmQEfCZSeiu\",\"price_id\":\"price_1TDRbqCmk0pn4HuHTk2GFUY0\",\"original_price\":18000,\"original_monthly_price\":1500,\"final_price\":18000,\"final_monthly_price\":1500,\"renew_price\":18000,\"renew_monthly_price\":1500,\"currency\":\"usd\",\"discount\":null},{\"id\":\"b2d9227e-c173-49ff-bbc3-82de2556d5db\",\"plan_type\":\"plus\",\"name\":\"Plus\",\"credits\":1000,\"billing_period\":\"monthly\",\"product_id\":\"prod_UBpHfgE0euqLQ9\",\"price_id\":\"price_1TDRcSCmk0pn4HuHEt8JWwgs\",\"original_price\":4900,\"original_monthly_price\":4900,\"final_price\":4900,\"final_monthly_price\":4900,\"renew_price\":4900,\"renew_monthly_price\":4900,\"currency\":\"usd\",\"discount\":null},{\"id\":\"530a4de7-d0ca-4d8c-b26d-84dc23d3833c\",\"plan_type\":\"plus\",\"name\":\"Plus\",\"credits\":1000,\"billing_period\":\"annual\",\"product_id\":\"prod_UBpIQ04Yh2Pj1h\",\"price_id\":\"price_1TDRddCmk0pn4HuHzmd59zw3\",\"original_price\":58800,\"original_monthly_price\":4900,\"final_price\":46800,\"final_monthly_price\":3900,\"renew_price\":46800,\"renew_monthly_price\":3900,\"currency\":\"usd\",\"discount\":{\"percent_off\":20,\"duration_months\":null,\"duration\":\"forever\"}},{\"id\":\"44821016-a687-4c84-b72a-5d73a39d6945\",\"plan_type\":\"ultra\",\"name\":\"Ultra\",\"credits\":3000,\"billing_period\":\"monthly\",\"product_id\":\"prod_UBpJRQ5fnHCix9\",\"price_id\":\"price_1TDRfBCmk0pn4HuH6dkdybvV\",\"original_price\":12900,\"original_monthly_price\":12900,\"final_price\":12900,\"final_monthly_price\":12900,\"renew_price\":12900,\"renew_monthly_price\":12900,\"currency\":\"usd\",\"discount\":null},{\"id\":\"d16abc46-5bf7-4467-9176-eef866f7df40\",\"plan_type\":\"ultra\",\"name\":\"Ultra\",\"credits\":6000,\"billing_period\":\"monthly\",\"product_id\":\"prod_UBpJRQ5fnHCix9\",\"price_id\":\"price_1TDRfBCmk0pn4HuHoHcVrK6i\",\"original_price\":25000,\"original_monthly_price\":25000,\"final_price\":22000,\"final_monthly_price\":22000,\"renew_price\":25000,\"renew_monthly_price\":25000,\"currency\":\"usd\",\"discount\":{\"percent_off\":12,\"duration_months\":1,\"duratio",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/subscriptions/v2/plans?plan_set_key=default&with_localization=true",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/user": {
+   "count": 26,
+   "statuses": [
+    401
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user",
+     "phase": "homepage",
+     "status": 401,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"detail\":\"Invalid or expired token\"}",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/user/features": {
+   "count": 3,
+   "statuses": [
+    401
+   ],
+   "phases": [
+    "cinema-studio",
+    "upload-generate"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user/features",
+     "phase": "cinema-studio",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "yPG8K4p8wcbmDRDvMHXd0qRuz1dOiHRf5hghb7H5WT9BuLtEIaIu1W~xZqjg_S3hMClFKn0lJCk1ZAEz1ExzRrSwPkYooqE4eIi_odV~scHI2fiUxWTnxhwdoyJCmhlm"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user/features",
+     "phase": "cinema-studio",
+     "status": 401,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "yPG8K4p8wcbmDRDvMHXd0qRuz1dOiHRf5hghb7H5WT9BuLtEIaIu1W~xZqjg_S3hMClFKn0lJCk1ZAEz1ExzRrSwPkYooqE4eIi_odV~scHI2fiUxWTnxhwdoyJCmhlm"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"detail\":\"Invalid or expired token\"}",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user/features",
+     "phase": "upload-generate",
+     "status": 401,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "VflrGrdNjxBBuAdink7AJTbqCvGxLOpS8Az_UJgjlhgu2lU8dZElGSRS7Pm8Zp55Aevfx4yXrAsnvo3T0zgYB6Z7TobVxjTp8cTywn8fK1QeKzdzhboWtiqje3Z81Ix5"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"detail\":\"Invalid or expired token\"}",
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/user/meta": {
+   "count": 28,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user/meta",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user/meta",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"country_code\":\"HK\",\"region_code\":null,\"cohort\":\"tier_1\"}",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/user/meta",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/workspaces/settings": {
+   "count": 13,
+   "statuses": [
+    401
+   ],
+   "phases": [
+    "ai-image",
+    "ai-video",
+    "cinema-studio",
+    "gen-image",
+    "gen-video",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/settings",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/settings",
+     "phase": "ai-image",
+     "status": 401,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"detail\":\"Invalid or expired token\"}",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/settings",
+     "phase": "upload-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "fR0pCiOgSKaPsrCPspeUOwxGv0Y2VQ_K~OSm3RqVSOCQM848fsafR8CRExaIY1acPLTdNZshb9PEuDQ3MwXUUHlO261IdqVMvubS4bZbSEQWa3LWiVkar4OWiHrxc0sY",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET fnf-api-gw.higgsfield.ai/fnf/workspaces/subscription": {
+   "count": 14,
+   "statuses": [
+    401
+   ],
+   "phases": [
+    "ai-image",
+    "gen-image",
+    "upload-ai-image",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/subscription",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/subscription",
+     "phase": "ai-image",
+     "status": 401,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json",
+      "access-control-allow-origin": "https://higgsfield.ai"
+     },
+     "body": "{\"detail\":\"Invalid or expired token\"}",
+     "jwt": null
+    },
+    {
+     "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/subscription",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "authorization": "B***",
+      "referer": "https://higgsfield.ai/",
+      "accept-language": "en",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "x-datadome-clientid": "g6jWvyDH~9oqQ1jiW9R4zApyg3KdWgJyx_T0t_1hvA25XV3T25DoyeCOg23fzOq_6PgAIa2b1ur1zDCAxY25thS44oF8K3HCwFxJ5RFhi5ul9X8t8C3Px35VoAyE2Hww"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "homepage"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "cf-cache-status": "HIT",
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfCacheStatus;desc=\"HIT\"\ncfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=22",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 583946 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=384,quality=85/https://cdn.higgsfield.ai/card/9c6affe8-03a8-4434-97ef-2fc476f7a71e.webp 384w, https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=640,quality=85/https://cdn.higgsfield.ai/…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/_clerk/v1/client": {
+   "count": 26,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/_clerk/v1/client?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/_clerk/v1/client?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json"
+     },
+     "body": "{\"response\":{\"object\":\"client\",\"id\":\"client_3LV7MUmSWE7NvpbQwMlCQtrDnxV\",\"sessions\":[],\"sign_in\":{\"object\":\"sign_in_attempt\",\"id\":\"sia_3LV8Yk42zEUIErhjAlNlJHlE7QB\",\"status\":\"needs_second_factor\",\"supported_identifiers\":[\"email_address\"],\"supported_first_factors\":[{\"strategy\":\"password\"},{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true},{\"strategy\":\"reset_password_email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"supported_second_factors\":[{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true}],\"first_factor_verification\":{\"object\":\"verification_password\",\"status\":\"verified\",\"strategy\":\"password\",\"attempts\":1,\"expire_at\":null},\"second_factor_verification\":{\"object\":\"verification_otp\",\"status\":\"expired\",\"strategy\":\"email_code\",\"attempts\":0,\"expire_at\":1793528523881},\"identifier\":\"charles.fabou@yahoo.fr\",\"user_data\":null,\"created_session_id\":null,\"abandon_at\":1793614323128,\"locale\":\"en-US\",\"timezone\":\"UTC\",\"client_trust_state\":\"new\"},\"sign_up\":null,\"last_active_session_id\":null,\"last_authentication_strategy\":null,\"cookie_expires_at\":1828087424501,\"captcha_bypass\":false,\"created_at\":1793527424415,\"updated_at\":1793527923279},\"client\":null}",
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/_clerk/v1/client?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/_clerk/v1/environment": {
+   "count": 26,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/_clerk/v1/environment?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/_clerk/v1/environment?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "cf-cache-status": "DYNAMIC",
+      "server-timing": "cfExtPri",
+      "content-type": "application/json"
+     },
+     "body": "[corps de 10139 octets — tronqué] {\"auth_config\":{\"object\":\"auth_config\",\"id\":\"aac_2uom6qDcFvZt3hlqpJzqRXm7vCX\",\"first_name\":\"on\",\"last_name\":\"on\",\"email_address\":\"on\",\"phone_number\":\"off\",\"username\":\"off\",\"password\":\"required\",\"identification_requirements\":[[\"email_address\",\"oauth_apple\",\"oauth_github\",\"oauth_google\",\"oauth_microsoft\",\"oauth_token_apple\"],[]],\"identification_strategies\":[\"email_address\",\"oauth_apple\",\"oauth_github\",\"oauth_google\",\"oauth_microsoft\"],\"first_factors\":[\"email_code\",\"enterprise_sso\",\"google_one_tap\",\"oauth_appl…",
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/_clerk/v1/environment?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/_serverFn/4dd92214ea1fcdb782328d2057058320672b45b67832bc72ff3bc57d1773cd66": {
+   "count": 17,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "ai-image",
+    "ai-video",
+    "cinema-studio",
+    "final",
+    "gen-image",
+    "gen-video",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/_serverFn/4dd92214ea1fcdb782328d2057058320672b45b67832bc72ff3bc57d1773cd66",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/x-tss-framed, application/x-ndjson, application/json",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "x-tsr-serverfn": "true"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/_serverFn/4dd92214ea1fcdb782328d2057058320672b45b67832bc72ff3bc57d1773cd66",
+     "phase": "ai-image",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/x-tss-framed, application/x-ndjson, application/json",
+      "x-datadome-clientid": "HMddEHLVix5GI9hLry~qQvgCsyaf2HQcwqd0~gyrhxhBkt8NFayuBBMRKynu4l4kdR8A8r1eZRRa5P6YSwbLcJGpx06aoYJHVepD3LIqfLjrHHamkFUYxXqqBg8P9qAM",
+      "x-tsr-serverfn": "true"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0, cfExtPri",
+      "content-type": "application/json",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":3},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}",
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/_serverFn/4dd92214ea1fcdb782328d2057058320672b45b67832bc72ff3bc57d1773cd66",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+      "accept-language": "en-US",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/x-tss-framed, application/x-ndjson, application/json",
+      "x-datadome-clientid": "fR0pCiOgSKaPsrCPspeUOwxGv0Y2VQ_K~OSm3RqVSOCQM848fsafR8CRExaIY1acPLTdNZshb9PEuDQ3MwXUUHlO261IdqVMvubS4bZbSEQWa3LWiVkar4OWiHrxc0sY",
+      "x-tsr-serverfn": "true"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/academy": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/academy",
+     "phase": "academy",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/academy",
+     "phase": "academy",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=345\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 346411 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"preload\" as=\"image\" href=\"https://static.higgsfield.ai/community/discovery-20261010/cpp-overlay-bottom.webp\"/><link rel=\"preload\" as=\"image\" href=\"https://static.higgsfield.ai/community/discovery-20261010/cpp-badge-bg.svg\"/><link rel=\"preload\" as=\"image\" href=\"https://static.higgsfield.ai/community/discovery-20261010/cpp-badge-overlay.web…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/ai/image": {
+   "count": 5,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "ai-image",
+    "upload-ai-image",
+    "upload-image"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+     "phase": "ai-image",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=10,cfOrigin;dur=0,cfWorker;dur=193\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 110800 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-Q51Jxujai3czI5Nb.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1--IfbbzNPboRgNAUK.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zM9Q…",
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+     "phase": "upload-image",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/ai/video": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "ai-video"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/ai/video",
+     "phase": "ai-video",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/ai/video",
+     "phase": "ai-video",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=33\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 103384 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-Q51Jxujai3czI5Nb.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1--IfbbzNPboRgNAUK.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zM9Q…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/api/route-preload-manifest": {
+   "count": 26,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "academy",
+    "ai-image",
+    "ai-video",
+    "apps",
+    "cinema-studio",
+    "community",
+    "effects",
+    "gen-image",
+    "gen-video",
+    "homepage",
+    "login-start",
+    "pricing",
+    "upload-ai-image",
+    "upload-generate",
+    "upload-image",
+    "upload-refs"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/api/route-preload-manifest?v=187ac5b1-6O_dqDK1cBncYvZz.js",
+     "phase": "homepage",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/api/route-preload-manifest?v=187ac5b1-6O_dqDK1cBncYvZz.js",
+     "phase": "homepage",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "b7~JuKwoXRigtluWCwm3rsmxz6FAD112vP1gjxioKdmokPhMA7vIAxdAgKl5mfhhFkrpSbQHSOAb25PB4G2IFC5Gwudy_KN4JCjUWBmLrNnilgTIbvVlahNGJzVrSOLM",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0, cfExtPri",
+      "content-type": "application/json",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 399280 octets — tronqué] {\"/_private\":[\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-JoQQjOYtF3PV3-96.js\",\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-ogOdE30g8Jc45kfx.js\",\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-xj0Z71q7fm4iwTwV.js\",\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-iRrIe5E1dwAsq01Y.js\",\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-YJOT_UT0YvVNmZgy.js\",\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-PF6NOslSYAudZYY7.js\"],\"/academy\":[\"https://assets.higgsfield.ai…",
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/api/route-preload-manifest?v=187ac5b1-6O_dqDK1cBncYvZz.js",
+     "phase": "ai-image",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "x-datadome-clientid": "g6jWvyDH~9oqQ1jiW9R4zApyg3KdWgJyx_T0t_1hvA25XV3T25DoyeCOg23fzOq_6PgAIa2b1ur1zDCAxY25thS44oF8K3HCwFxJ5RFhi5ul9X8t8C3Px35VoAyE2Hww",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/apps": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "apps"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/apps",
+     "phase": "apps",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/apps",
+     "phase": "apps",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=1326\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 332799 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-Q51Jxujai3czI5Nb.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1--IfbbzNPboRgNAUK.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zM9Q…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/auth/email/sign-in": {
+   "count": 1,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "login-start"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/auth/email/sign-in",
+     "phase": "login-start",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=8,cfOrigin;dur=0,cfWorker;dur=59",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[85079o tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-Q51Jxujai3czI5Nb.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1--IfbbzNPboRgNAUK.css\" da",
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/community": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "community"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/community",
+     "phase": "community",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/community",
+     "phase": "community",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=8,cfOrigin;dur=0,cfWorker;dur=251\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 552984 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"preload\" as=\"image\" href=\"/community-v4/community-wordmark.svg\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=384,quality=85/https://cdn.higgsfield.ai/hls/video_input/ae3e4266-4ec6-42ab-a20d-8a5733bb1052/thumbnail.webp 384w, https://higgsfield.ai/cdn-cgi/…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/effects": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "effects"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/effects",
+     "phase": "effects",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/effects",
+     "phase": "effects",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=794\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 643190 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=384,quality=85/https://cdn.higgsfield.ai/viral_hub/151664fa-7f7f-43d6-80fa-4683104a3c02.webp 384w, https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=640,quality=85/https://cdn.higgsfiel…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/generate": {
+   "count": 3,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "cinema-studio",
+    "upload-generate"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/generate",
+     "phase": "cinema-studio",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/generate",
+     "phase": "cinema-studio",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=76\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 127639 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-Q51Jxujai3czI5Nb.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1--IfbbzNPboRgNAUK.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zM9Q…",
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/generate",
+     "phase": "upload-generate",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfEdge;dur=8,cfOrigin;dur=0,cfWorker;dur=219\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[127639o tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-Q51Jxujai3czI5Nb.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1--IfbbzNPboRgNAUK.css\" da",
+     "jwt": null
+    }
+   ]
+  },
+  "GET higgsfield.ai/pricing": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "pricing"
+   ],
+   "resourceTypes": [
+    "document"
+   ],
+   "samples": [
+    {
+     "url": "https://higgsfield.ai/pricing",
+     "phase": "pricing",
+     "status": null,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://higgsfield.ai/pricing",
+     "phase": "pricing",
+     "status": 200,
+     "reqHeaders": {
+      "accept-language": "en-US",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "text/html; charset=utf-8",
+     "respHeaders": {
+      "cf-cache-status": "HIT",
+      "content-type": "text/html; charset=utf-8",
+      "server-timing": "i18n;dur=0.0, middleware_total;dur=0.0\ncfCacheStatus;desc=\"HIT\"\ncfEdge;dur=27,cfOrigin;dur=0,cfWorker;dur=11\ncfExtPri",
+      "x-hf-worker": "tanstack"
+     },
+     "body": "[corps de 113299 octets — tronqué] <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-Q51Jxujai3czI5Nb.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1--IfbbzNPboRgNAUK.css\" data-precedence=\"default\"/><link rel=\"stylesheet\" href=\"https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zM9Q…",
+     "jwt": null
+    }
+   ]
+  },
+  "GET pricing.higgsfield.ai/v2/pricing-config": {
+   "count": 2,
+   "statuses": [
+    200
+   ],
+   "phases": [
+    "pricing"
+   ],
+   "resourceTypes": [
+    "fetch"
+   ],
+   "samples": [
+    {
+     "url": "https://pricing.higgsfield.ai/v2/pricing-config?planVersion=latest&locale=en",
+     "phase": "pricing",
+     "status": null,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": null,
+     "respHeaders": {},
+     "body": null,
+     "jwt": null
+    },
+    {
+     "url": "https://pricing.higgsfield.ai/v2/pricing-config?planVersion=latest&locale=en",
+     "phase": "pricing",
+     "status": 200,
+     "reqHeaders": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://higgsfield.ai/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "accept-language": "en-US",
+      "sec-ch-ua-mobile": "?0"
+     },
+     "cookieNames": [],
+     "postData": null,
+     "contentType": "application/json",
+     "respHeaders": {
+      "content-type": "application/json",
+      "access-control-allow-origin": "*"
+     },
+     "body": "[corps de 96784 octets — tronqué] {\"versions\":{\"v47.0.0\":{\"monthly\":{\"plans\":{\"free\":{\"tagline\":\"Get started with AI content creation\",\"credits\":{\"amount\":0,\"label\":\"Limited daily credits\"},\"mainFeatures\":[{\"id\":\"access-models\",\"text\":\"Access to selected models only\",\"status\":\"limited\",\"tooltip\":\"Access to selected video and image models\"},{\"id\":\"concurrent\",\"text\":\"Concurrent generations\",\"status\":\"excluded\"},{\"id\":\"all-features\",\"text\":\"Access to all features\",\"status\":\"excluded\"},{\"id\":\"early-access\",\"text\":\"Early access to advanced AI f…",
+     "jwt": null
+    }
+   ]
+  }
+ }
+}

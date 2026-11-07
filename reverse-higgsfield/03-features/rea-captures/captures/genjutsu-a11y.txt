@@ -1,0 +1,915 @@
+- document:
+  - dialog "cookieconsent":
+    - paragraph:
+      - text: We use cookies and similar technologies to run Higgsfield and understand how you use it. Product analytics helps us improve Higgsfield, may be linked to your account, and stays on when you decline advertising. With your permission, we and third-party providers use device and activity information to measure the effectiveness of our advertising and improve our campaigns. Manage your choices in Cookie Preferences. See our
+      - link "Cookie Notice":
+        - /url: https://higgsfield.ai/cookie-notice
+    - link "Cookie Notice visit this link to learn more about cookies. Opens in new window":
+      - /url: https://higgsfield.ai/cookie-notice
+      - text: Cookie Notice
+    - button "Accept All Cookies"
+    - button "Reject Advertising Cookies"
+    - button "Cookie Preferences"
+  - banner:
+    - link "Higgsfield":
+      - /url: /
+      - img "Higgsfield"
+    - navigation "Main":
+      - list:
+        - listitem:
+          - link "Explore":
+            - /url: /
+        - listitem:
+          - link "Image":
+            - /url: /ai/image?model=gpt_image_2
+        - listitem:
+          - link "Video":
+            - /url: /ai/video
+        - listitem:
+          - link "Audio":
+            - /url: /audio
+        - listitem:
+          - link "MCP":
+            - /url: /mcp
+        - listitem:
+          - link "API":
+            - /url: https://console.higgsfield.ai
+        - separator
+        - listitem:
+          - link "Genjutsu New":
+            - /url: /ai/video?model=genjutsu
+        - listitem:
+          - link "Content Factory New":
+            - /url: /content-factory
+        - listitem:
+          - link "Playable New":
+            - /url: /playable
+        - listitem:
+          - link "AI Influencer":
+            - /url: /ai-influencer-studio
+        - listitem:
+          - link "Academy New":
+            - /url: /academy
+        - listitem:
+          - link "Katana":
+            - /url: /katana
+        - listitem:
+          - link "ChatGPT Plugin":
+            - /url: /mcp?tab=chatgpt
+        - listitem:
+          - link "Ads Studio":
+            - /url: /ads-studio
+        - listitem:
+          - link "Effects":
+            - /url: /effects/use
+        - listitem:
+          - link "Cinema Studio":
+            - /url: /generate
+        - listitem:
+          - link "Contests":
+            - /url: /community/contests
+        - listitem:
+          - link "Marketing Studio":
+            - /url: /marketing-studio
+        - listitem:
+          - link "Supercomputer":
+            - /url: /supercomputer
+        - listitem:
+          - link "Edit":
+            - /url: /layers
+        - listitem:
+          - link "Community":
+            - /url: /community
+        - listitem:
+          - link "Plugins":
+            - /url: /plugins/after-effects
+        - listitem:
+          - link "Canvas":
+            - /url: /canvas
+        - listitem:
+          - link "Originals":
+            - /url: /original-series
+    - link "Pricing 30% OFF":
+      - /url: /pricing
+    - link "Enterprise":
+      - /url: https://higgsfield.ai/enterprise
+      - img
+      - text: Enterprise
+    - button "Change language"
+    - button "Login"
+    - button "Sign up"
+  - main:
+    - heading "Higgsfield Genjutsu" [level=1]:
+      - img "Higgsfield Genjutsu"
+    - paragraph: Recast any motion with your characters, locations and products or swap specific elements and keep the rest
+    - link "Generate now":
+      - /url: /ai/video?model=genjutsu
+    - button "Watch how it works"
+    - region "Genjutsu Lite":
+      - text: Your browser does not support the video.
+      - button "Unmute Genjutsu Lite launch video"
+      - text: New
+      - paragraph: Genjutsu Lite. Faster and cheaper. Up to 30s, 720p/1080p, for everyday trends
+      - link "Try it now":
+        - /url: /ai/video?model=genjutsu-lite
+    - region "Higgsfield Genjutsu":
+      - heading "Higgsfield Genjutsu" [level=2]:
+        - img "Higgsfield Genjutsu"
+      - tabpanel "Higgsfield":
+        - link "Try it now":
+          - /url: /ai/video?model=genjutsu
+    - region "One skill, many jobs":
+      - paragraph: What it's for
+      - heading "One skill, many jobs" [level=2]
+      - region "Reality Manipulation use cases":
+        - article "Music videos":
+          - img "Music videos — Result"
+          - img "Music videos — V1"
+          - img "Music videos — V2"
+          - img "Music videos — V3"
+          - button "Unmute video"
+          - text: Object Swap
+          - button "Result" [pressed]
+          - button "V1"
+          - button "V2"
+          - button "V3"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Change the details":
+          - img "Change the details — Result"
+          - img "Change the details — V1"
+          - img "Change the details — V2"
+          - button "Unmute video"
+          - text: Motion transfer
+          - button "Result" [pressed]
+          - button "V1"
+          - button "V2"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "One ad, every market":
+          - img "One ad, every market — Result"
+          - img "One ad, every market — V1"
+          - img "One ad, every market — V2"
+          - button "Unmute video"
+          - text: Object Swap
+          - button "Result" [pressed]
+          - button "V1"
+          - button "V2"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+      - button "Show previous Reality Manipulation use case" [disabled]
+      - button "Show next Reality Manipulation use case"
+    - region "Motion Transfer":
+      - paragraph: How it works
+      - heading "Motion Transfer" [level=2]
+      - button "Motion Transfer" [pressed]
+      - button "Object swap"
+      - button "Batch"
+      - button "Previous technique"
+      - button "Next technique"
+      - figure "Before"
+      - figure "After"
+      - group "Choose a technique":
+        - button "Motion Transfer" [pressed]
+        - button "Object swap"
+        - button "References"
+        - button "Batch"
+      - paragraph: The movement and camera stay exactly as filmed. Everything performing it is yours.
+    - region "Total control, zero reshoots":
+      - paragraph: CLOSER LOOK
+      - heading "Total control, zero reshoots" [level=2]
+      - heading "Keep only the motion" [level=3]
+      - paragraph: The motion, camera, and timing stay the same, everything else is rebuilt from your references
+      - figure "Keep only the motion — Original": Your browser does not support the video.
+      - group "Recast examples":
+        - button "Original" [pressed]
+        - button "New character"
+        - button "New world"
+      - heading "Keep your character in every video" [level=3]
+      - paragraph: "Shoot on your phone, Genjutsu does the production: wardrobe, set, grade"
+      - link "Generate now":
+        - /url: /ai/video?model=genjutsu
+      - figure "Keep your character in every video — Rooftop": Your browser does not support the video.
+      - group "Recast examples":
+        - button "Rooftop" [pressed]
+        - button "Dreamland"
+        - button "Park"
+      - heading "Same take, two realities" [level=3]
+      - paragraph: Drag the handle to compare the original and the new version. The motion and cuts stay in sync, only the scene changes
+      - figure "Same take, two realities before": Your browser does not support the video.
+      - figure "Same take, two realities after": Your browser does not support the video.
+      - slider "Same take, two realities comparison position": "50"
+    - region "Turn one video into any reality":
+      - paragraph: PROMPT & RESULT
+      - heading "Turn one video into any reality" [level=2]
+      - region "Turn one video into any reality":
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - img "Turn one video into any reality — Output 2"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - button "Output 2"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - img "Turn one video into any reality — Output 2"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - button "Output 2"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - img "Turn one video into any reality — Output 2"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - button "Output 2"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - img "Turn one video into any reality — Output 2"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - button "Output 2"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - img "Turn one video into any reality — Output 2"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - button "Output 2"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - img "Turn one video into any reality — Output 2"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - button "Output 2"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Object Swap
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - article "Turn one video into any reality":
+          - img "Turn one video into any reality — Original"
+          - img "Turn one video into any reality — Output 1"
+          - text: Motion Control
+          - button "Original" [pressed]
+          - button "Output 1"
+          - link "Recreate":
+            - /url: /ai/video?model=genjutsu
+        - list "Slideshow timeline":
+          - listitem
+          - listitem
+          - listitem
+    - heading "Community over 25 MILLION USERS" [level=2]
+    - paragraph: Join a global creative network where people generate AI images, share ideas, and inspire each other every day.
+    - article:
+      - text: A Alexandre
+      - paragraph: I've been using Higgsfield for my creative work for a while now and, honestly, it's one of the best platforms out there - the tools are powerful and the results speak for themselves. But what made me write this was the support. I had a question about my credits, and Tim handled everything with a transparency and care you rarely see.
+    - article:
+      - text: S Spock
+      - paragraph: Im a new customer of Higgsfield and enjoying it! I'm making some cool videos. I look forward to the advances on the platform! Oh, the support service is excellent!
+    - article:
+      - text: R Rha
+      - paragraph: Higgsfield A.I. has been the best and most exciting tool I've used since I first started editing back in 2008! I still can't believe we live in a time where we can type a sentence; prompt, on one end and get a blockbuster video that comes out on the other end! The site can feel overwhelming at times, but in a good way.
+    - article:
+      - text: AS Akun Suliman
+      - paragraph: I am an Indonesian content creator based on my experience, I feel helped by the presence of this AI Agent higgsfield I say honestly and swear also thank you.. Because AI Agent Higgsfield has helped a lot, especially for creators in the form of our full support to create. In addition to this support, there are many other supports that are very helpful, especially the Higgsfield team
+    - article:
+      - text: SJ Shatanu Jachak
+      - paragraph: What Higgsfield is doing really well is making high-quality AI creation feel smooth, fast, and inspiring. I also appreciate how the company supports its creative community and gives artists the freedom to experiment, grow, and push visual storytelling to the next level.
+    - article:
+      - text: FM Freissy Mediaart
+      - paragraph: The user interface (UI) is highly intuitive and beginner-friendly. Additionally, the cloud rendering speed for generating both images and videos is exceptionally fast, and the AI tools menu is very well-organized. I have completed numerous projects using Higgsfield, and every single one of them turned out perfectly.
+    - article:
+      - text: LE Ls estúdios
+      - paragraph: For a long time, I have seen it as a useful and well-optimized tool, designed to help creators in the best possible way. I like that it constantly introduces updates and interesting features that improve the experience. That is why it has always been a platform that has caught my attention and that I have enjoyed using compared to others.
+    - article:
+      - text: RR Rian Rizky Ananta
+      - paragraph: Honestly one of the best AI creative platforms out there. The credit pricing is surprisingly affordable compared to similar platforms, and what impresses me most is how consistently they keep shipping new features. You can tell the team actually listens and keeps pushing the product forward.
+    - article:
+      - text: DD Deyo D
+      - paragraph: The Most Powerful AI Creative Platform for Creators. What impressed me the most is the level of support around the creator program. The team is helpful, professional, and always there when you need assistance or have questions. It really feels like they care about creators and want to help them grow.
+    - button "Previous":
+      - img
+    - button "Next":
+      - img
+    - paragraph: Trusted by 5.000+ people worldwide
+    - heading "Pick your plan" [level=2]
+    - paragraph: Get access to more generations and priority access to new features
+    - paragraph: Monthly
+    - switch "Toggle between monthly and annual billing" [checked]
+    - paragraph: Annual
+    - text: 30% OFF Basic
+    - paragraph: For first-time AI content creators
+    - img
+    - text: 1 2 0 credits/mo. = 60 Nano Banana Pro Generations ~ 7 Seedance 2.0 Fast videos Fixed amount of 120 credits/mo $9 per month, billed annually
+    - button "Get Plan"
+    - text: No difference compared to monthly
+    - heading "Free generations" [level=3]:
+      - img
+      - text: Free generations
+    - button "Learn more"
+    - list:
+      - listitem:
+        - img
+        - text: Genjutsu Lite 1080p 5 free gens
+      - listitem:
+        - img
+        - text: Higgsfield AI Influencer 10 free gens
+      - listitem:
+        - img
+        - text: Higgsfield Genjutsu No free gens
+    - img
+    - text: Unlimited & free gens
+    - button "Learn more"
+    - img
+    - text: Nano Banana Pro No unlimited
+    - img
+    - text: Seedream 5.0 Pro No unlimited
+    - img
+    - text: GPT Image 2.5 No unlimited
+    - img
+    - text: Seedance 2.5 No unlimited
+    - img
+    - text: "No other unlimited models Parallel generations: up to 2 Videos, 2 Images"
+    - button
+    - text: Access to Seedance 2.0 Fast & 2.0 Mini Access to selected models & features
+    - button
+    - text: Early access to advanced AI features Access to unlimited marketplace Lowest cost per credit 365-DAY UNLIMITED & FREE GENS Soul V2 & Cinema Seedream 5.0 Lite Flux.2 Pro (1K) Seedream 4.5 Nano Banana Kling O1 Image GPT Image Pro
+    - paragraph: 21% OFF
+    - paragraph: For consistent and easy AI content creation
+    - img
+    - text: 6 0 0 credits/mo. = 300 Nano Banana Pro Generations
+    - button "~ 40 Seedance 2.5 videos"
+    - button "600"
+    - button "900"
+    - text: $29 $23 per month, billed annually
+    - button "Get Plan"
+    - text: Save $72 compared to monthly
+    - heading "Free generations" [level=3]:
+      - img
+      - text: Free generations
+    - button "Learn more"
+    - list:
+      - listitem:
+        - img
+        - text: Genjutsu Lite 1080p 5 free gens
+      - listitem:
+        - img
+        - text: Higgsfield AI Influencer 30 free gens
+      - listitem:
+        - img
+        - text: Higgsfield Genjutsu 720p 3 free gens
+    - img
+    - text: Unlimited & free gens
+    - button "Learn more"
+    - img
+    - button "Nano Banana Pro"
+    - text: 2K 7-day unlimited
+    - img
+    - button "Seedream 5.0 Pro"
+    - text: 2K 7-day unlimited
+    - img
+    - button "GPT Image 2.5"
+    - text: 2K 7-day unlimited
+    - img
+    - button "Seedance 2.5"
+    - text: 720p 7-day unlimited
+    - button "7 unlimited & free generation models":
+      - img
+      - text: 7 unlimited & free generation models
+      - img
+    - text: Unlimited paid parallel generations
+    - button
+    - text: New Access to all Seedance models Access to all models & features
+    - button
+    - text: Early access to advanced AI features
+    - button
+    - text: Access to unlimited marketplace Lowest cost per credit 365-DAY UNLIMITED & FREE GENS Soul V2 & Cinema
+    - button
+    - text: 5,000 FREE GENS Seedream 5.0 Lite
+    - button
+    - text: 365 UNLIMITED Flux.2 Pro (1K)
+    - button
+    - text: 365 UNLIMITED Seedream 4.5
+    - button
+    - text: 365 UNLIMITED Nano Banana
+    - button
+    - text: 365 UNLIMITED Kling O1 Image
+    - button
+    - text: 365 UNLIMITED GPT Image
+    - button
+    - text: 365 UNLIMITED Most popular Max
+    - paragraph: 25% OFF
+    - paragraph:
+      - img
+      - text: Seedance 2.0
+    - paragraph: For creators building AI projects
+    - img
+    - text: 1 , 8 0 0 credits/mo. = 900 Nano Banana Pro Generations
+    - button "~ 120 Seedance 2.5 videos"
+    - button "1,800"
+    - button "3,600"
+    - button "5,400"
+    - text: $79 $59 per month, billed annually
+    - button "Get Plan"
+    - text: Save $240 compared to monthly
+    - heading "Free generations" [level=3]:
+      - img
+      - text: Free generations
+    - button "Learn more"
+    - list:
+      - listitem:
+        - img
+        - text: Genjutsu Lite 1080p 5 free gens
+      - listitem:
+        - img
+        - text: Higgsfield AI Influencer 30 free gens
+      - listitem:
+        - img
+        - text: Higgsfield Genjutsu 720p 3 free gens
+    - img
+    - text: Unlimited & free gens
+    - button "Learn more"
+    - img
+    - button "Nano Banana Pro"
+    - text: 2K 7-day unlimited
+    - img
+    - button "Seedream 5.0 Pro"
+    - text: 2K 7-day unlimited
+    - img
+    - button "GPT Image 2.5"
+    - text: 2K 7-day unlimited
+    - img
+    - button "Seedance 2.5"
+    - text: 720p 7-day unlimited
+    - button "6 unlimited & free generation models":
+      - img
+      - text: 6 unlimited & free generation models
+      - img
+    - text: Unlimited paid parallel generations
+    - button
+    - text: New Access to all Seedance models Access to all models & features
+    - button
+    - text: Early access to advanced AI features
+    - button
+    - text: Access to unlimited marketplace Lowest cost per credit 60% cheaper 365-DAY UNLIMITED & FREE GENS Soul V2 & Cinema
+    - button
+    - text: 10,000 FREE GENS Seedream 5.0 Lite
+    - button
+    - text: 365 UNLIMITED Flux.2 Pro (1K)
+    - button
+    - text: 365 UNLIMITED Seedream 4.5
+    - button
+    - text: 4K 365 UNLIMITED Nano Banana
+    - button
+    - text: 365 UNLIMITED Kling O1 Image
+    - button
+    - text: 365 UNLIMITED GPT Image
+    - button
+    - text: 365 UNLIMITED BEST VALUE Team
+    - paragraph: 18% OFF
+    - paragraph:
+      - img
+      - text: Seedance 2.0
+    - paragraph: For agencies and small teams to create faster
+    - img
+    - text: 2 , 0 0 0 credits in total/mo
+    - list:
+      - listitem: = 1,000 credits per seat/mo
+      - listitem: = 1,000 Nano Banana Pro images
+      - listitem:
+        - text: ~ 133
+        - button "Seedance 2.5 videos"
+    - text: $79 $65 per seat/mo, billed annually
+    - button "Get Plan"
+    - text: Save $168 compared to monthly
+    - button "Decrease team size" [disabled]:
+      - img
+    - paragraph: 2 seats
+    - button "Increase team size":
+      - img
+    - text: "Workspace & Collaboration 2 to 9 members in one shared workspace Parallel generations: up to 16 video & 16 image Access to all features & models Shared credit pool Shared workspace for your team Early access to advanced AI features Access to Seedance 2.0 Analytics & Support Basic analytics Priority support Admin & Control SSO Admin spend control Priority queue Security & Compliance Delegated top-up access Indemnification No training on your data SOC 2 security AI Educator & Slack support Unlimited models and Free Generations on plans are accessible only via higgsfield.ai and are not accessible on MCP/CLI, Canvas or Supercomputer. Prices exclude VAT and local taxes, calculated at checkout. Unlimited usage may be subject to dynamic speed adjustments during high-traffic periods. Learn more Access to new models and advanced features may be done on a rolling basis and not available to all users at launch."
+    - heading "Still have questions?" [level=2]
+    - paragraph: We’ve answered the most frequently asked questions
+    - group: "What is Higgsfield Genjutsu? Genjutsu lets you transform an existing video in two ways: transfer its motion into a new cast, location or look, or swap selected elements while keeping the rest of the shot intact."
+    - group:
+      - text: What's the difference between Motion Transfer and Object Swap?
+      - img
+    - group:
+      - text: What can I change with Genjutsu?
+      - img
+    - group:
+      - text: How long can my reference video be?
+      - img
+    - group:
+      - text: How many reference images can I add?
+      - img
+    - group:
+      - text: Do I need video editing experience?
+      - img
+    - group:
+      - text: How does pricing work?
+      - img
+    - group:
+      - text: Can I use the results commercially?
+      - img
+    - heading "AI-native creative suite" [level=2]
+    - heading "Create" [level=3]
+    - list:
+      - listitem:
+        - link "AI Video":
+          - /url: /ai-video
+      - listitem:
+        - link "AI Video Effects":
+          - /url: /motion
+      - listitem:
+        - link "AI Image":
+          - /url: /ai-image
+      - listitem:
+        - link "Edit Image":
+          - /url: /layers?model=nano_banana_pro_inpaint
+      - listitem:
+        - link "Inpaint":
+          - /url: /image-editing
+      - listitem:
+        - link "Upscale":
+          - /url: /upscale
+      - listitem:
+        - link "Sora 2 Upscale":
+          - /url: /sora-2-upscale
+      - listitem:
+        - link "Mixed Media":
+          - /url: /mixed-media-intro
+      - listitem:
+        - link "AI Face Swap":
+          - /url: /apps/face-swap
+      - listitem:
+        - link "AI Influencer":
+          - /url: /ai-influencer
+      - listitem:
+        - link "Apps":
+          - /url: /apps
+    - heading "Video Models" [level=3]
+    - list:
+      - listitem:
+        - link "Seedance 2.5":
+          - /url: /seedance/2.5
+      - listitem:
+        - link "Seedance 2.0":
+          - /url: /seedance/2.0
+      - listitem:
+        - link "Kling 3.0":
+          - /url: /kling-3.0
+      - listitem:
+        - link "Sora 2 Introduction":
+          - /url: /sora-2
+      - listitem:
+        - link "Veo 3.1 Introduction":
+          - /url: /veo3.1
+      - listitem:
+        - link "WAN 2.6":
+          - /url: /wan-2.6
+      - listitem:
+        - link "Grok Imagine 1.5":
+          - /url: /grok-imagine-1.5
+      - listitem:
+        - link "Gemini Omni Flash":
+          - /url: /gemini-omni-flash
+    - heading "Image Models" [level=3]
+    - list:
+      - listitem:
+        - link "Nano Banana":
+          - /url: /nano-banana-intro
+      - listitem:
+        - link "Flux 2":
+          - /url: /flux-2-intro
+      - listitem:
+        - link "Seedream 5":
+          - /url: /seedream-5.0
+      - listitem:
+        - link "GPT Image 2":
+          - /url: /gpt-2
+      - listitem:
+        - link "Ideogram 4.5":
+          - /url: /ideogram-4-5-intro
+    - heading "Studios" [level=3]
+    - list:
+      - listitem:
+        - link "Cinema Studio":
+          - /url: /cinematic-video-generator
+      - listitem:
+        - link "Marketing Studio":
+          - /url: /marketing-studio-intro
+      - listitem:
+        - link "Lipsync Studio":
+          - /url: /lipsync-studio
+      - listitem:
+        - link "Higgsfield Popcorn":
+          - /url: /storyboard-generator
+      - listitem:
+        - link "Higgsfield Canvas":
+          - /url: /canvas-intro
+    - heading "Soul" [level=3]
+    - list:
+      - listitem:
+        - link "Soul 2.0":
+          - /url: /soul-intro
+      - listitem:
+        - link "Soul ID Character":
+          - /url: /character
+      - listitem:
+        - link "Soul Cinema":
+          - /url: /soul-cinema
+    - heading "Platform" [level=3]
+    - list:
+      - listitem:
+        - link "Supercomputer":
+          - /url: /supercomputer-intro
+      - listitem:
+        - link "AI Motion Designer":
+          - /url: /ai-motion-designer
+      - listitem:
+        - link "MCP/CLI":
+          - /url: /mcp
+      - listitem:
+        - link "API":
+          - /url: https://higgsfield.ai/higgsfield-api
+      - listitem:
+        - link "Collab":
+          - /url: /chat-intro
+      - listitem:
+        - link "Games":
+          - /url: /games-intro
+      - listitem:
+        - link "Reference Extension":
+          - /url: https://chromewebstore.google.com/detail/higgsfield-reference/oohmjaflbknghbidmaoonmchcodhmkgj
+    - heading "Resources" [level=3]
+    - list:
+      - listitem:
+        - link "Blog":
+          - /url: /blog
+      - listitem:
+        - link "Help Center":
+          - /url: /creator-hub/help-center
+      - listitem:
+        - link "Academy":
+          - /url: /academy
+      - listitem:
+        - link "Prompt Guide":
+          - /url: /nano-banana-pro-prompt-guide
+    - heading "Company" [level=3]
+    - list:
+      - listitem:
+        - link "About":
+          - /url: /about
+      - listitem:
+        - link "Trust":
+          - /url: /trust
+      - listitem:
+        - link "Report a vulnerability":
+          - /url: https://bugcrowd.com/engagements/higgsfield-ai-vdp-pro
+      - listitem:
+        - link "Enterprise":
+          - /url: /enterprise
+      - listitem:
+        - link "Team":
+          - /url: /team-plan
+      - listitem:
+        - link "Pricing":
+          - /url: /pricing
+      - listitem:
+        - link "Careers":
+          - /url: https://jobs.ashbyhq.com/higgsfieldai
+      - listitem:
+        - link "Contact":
+          - /url: /contact
+    - heading "Community" [level=3]
+    - list:
+      - listitem:
+        - link "Community":
+          - /url: /community
+      - listitem:
+        - link "Contests":
+          - /url: /community/contests
+      - listitem:
+        - link "Creative Partners":
+          - /url: https://higgsfield.ai/creator-partnership-program
+    - paragraph: 535 Mission St, 14th floor, San Francisco, CA, 94105
+    - list:
+      - listitem:
+        - link "X / Twitter":
+          - /url: https://x.com/higgsfield
+      - listitem:
+        - link "Youtube":
+          - /url: https://www.youtube.com/@HiggsfieldAI
+      - listitem:
+        - link "LinkedIn":
+          - /url: https://www.linkedin.com/company/higgsfield
+      - listitem:
+        - link "Tiktok":
+          - /url: https://www.tiktok.com/@higgsfield.ai90
+      - listitem:
+        - link "Discord":
+          - /url: https://discord.com/invite/higgsfield
+  - contentinfo:
+    - navigation:
+      - paragraph: © 2026 Higgsfield, Inc. All rights reserved.
+      - list:
+        - listitem:
+          - button "Change language":
+            - img "English flag"
+            - text: English
+            - img
+        - listitem:
+          - link "Help center":
+            - /url: /creator-hub/help-center
+        - listitem:
+          - link "Cookie Notice":
+            - /url: /cookie-notice
+        - listitem:
+          - button "Cookie Settings"
+        - listitem:
+          - link "Terms":
+            - /url: /terms-of-use-agreement
+        - listitem:
+          - link "Privacy":
+            - /url: /privacy-policy
+        - listitem:
+          - link "Report a vulnerability":
+            - /url: https://bugcrowd.com/engagements/higgsfield-ai-vdp-pro

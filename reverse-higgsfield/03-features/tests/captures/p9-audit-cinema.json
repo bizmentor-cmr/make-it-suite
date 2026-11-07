@@ -1,0 +1,150 @@
+{
+  "loadMs": 13035,
+  "url": "https://higgsfield.ai/generate",
+  "headings": [
+    "BRING YOUR STORIES TO LIFE"
+  ],
+  "prompts": [
+    {
+      "ph": "",
+      "ce": true
+    }
+  ],
+  "selects": [],
+  "radios": [],
+  "tabs": [
+    "Image",
+    "Video"
+  ],
+  "costs": [],
+  "genBtns": [
+    "GENERATE80"
+  ],
+  "sliders": [],
+  "btns": [
+    {
+      "t": "Cinema Studio",
+      "d": false
+    },
+    {
+      "t": "Higgsfield AI",
+      "d": false
+    },
+    {
+      "t": "Home",
+      "d": false
+    },
+    {
+      "t": "My generations",
+      "d": false
+    },
+    {
+      "t": "My elements",
+      "d": false
+    },
+    {
+      "t": "My favorites",
+      "d": false
+    },
+    {
+      "t": "Community",
+      "d": false
+    },
+    {
+      "t": "New project",
+      "d": false
+    },
+    {
+      "t": "Learn more",
+      "d": false
+    },
+    {
+      "t": "All projects",
+      "d": false
+    },
+    {
+      "t": "holographictomato2094",
+      "d": false
+    },
+    {
+      "t": "Image",
+      "d": false
+    },
+    {
+      "t": "Video",
+      "d": false
+    },
+    {
+      "t": "References0/50",
+      "d": false
+    },
+    {
+      "t": "Film setupAuto",
+      "d": false
+    },
+    {
+      "t": "CameraAuto",
+      "d": false
+    },
+    {
+      "t": "Color paletteAuto",
+      "d": false
+    },
+    {
+      "t": "LightingAuto",
+      "d": false
+    },
+    {
+      "t": "Cinema Studio 4.0",
+      "d": false
+    },
+    {
+      "t": "1080p",
+      "d": false
+    },
+    {
+      "t": "16:9",
+      "d": false
+    },
+    {
+      "t": "5s",
+      "d": false
+    },
+    {
+      "t": "On",
+      "d": false
+    },
+    {
+      "t": "GENERATE80",
+      "d": false
+    },
+    {
+      "t": "Describe the scene you imagine...",
+      "d": false
+    },
+    {
+      "t": "Go PremiumUpgrade",
+      "d": false
+    },
+    {
+      "t": "Manage Account",
+      "d": false
+    },
+    {
+      "t": "Affiliate program",
+      "d": false
+    },
+    {
+      "t": "LanguageEnglish",
+      "d": false
+    }
+  ],
+  "creditTexts": [
+    "Credits10 leftGo PremiumUpgrade",
+    "Credits10 leftGo PremiumUpgrade",
+    "Credits10 left",
+    "Credits10 left",
+    "Credits"
+  ],
+  "bodyText": "Cinema Studio Higgsfield AI Home My generations My elements My favorites Community Projects New project Learn to make movies Practical workflows from working AI filmmakers Learn more All projects Pricing 30% OFF holographictomato2094 Explore BRING YOUR STORIES TO LIFE Image Video References 0/50 Film setup Auto Camera Auto Color palette Auto Lighting Auto Describe your scene - use @ to add characters & locations Cinema Studio 4.0 1080p 16:9 5s On 1/4 GENERATE 80 Describe the scene you imagine... holographictomato2094 Free Plan Credits 10 left Go Premium Upgrade View profile Manage Account Affiliate program Join Community Language English Sign Out"
+}

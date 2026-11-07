@@ -1,0 +1,243 @@
+- - - - - - - - - - - - - - - What Are Unlimited Models on Higgsfield?- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Higgsfield- Explore
+- Image
+- Video
+- Audio
+- MCP
+- API
+-
+- GenjutsuNew
+- Content FactoryNew
+- PlayableNew
+- AI Influencer
+- AcademyNew
+- Katana
+- ChatGPT Plugin
+- Ads Studio
+- Effects
+- Cinema Studio
+- ContestsContests
+- Marketing Studio
+- Supercomputer
+- Edit
+- Community
+- Plugins
+- Canvas
+- Originals
+- - Creator Hub
+Creator HubHelp centerBlogChangelogCustomer StoriesSearch Creator HubOn this page
+- What does Unlimited model access mean?
+- Which plans include Unlimited access?
+- How do I turn Unlimited on for a generation?
+- How does the 365 Unlimited promo work?
+- How fast are Unlimited generations?
+- Can I buy Unlimited access separately?
+- What is time-limited Unlimited access from promo offers?
+- What are the fair use rules for Unlimited?
+- Does Unlimited work through MCP?
+- Help center
+- /
+- Credits
+- /
+- What are Unlimited models, and which plans include them?
+BackCopy page
+What are Unlimited models, and which plans include them?
+Copy page
+HiggsfieldAug 3, 20264 min
+Unlimited models are specific models where generations don't deduct credits for a set period. Mid and top plans include Unlimited models: the exact list and period for each model are shown on the plan's card on the Pricing page, and higher plans include more models. You can also buy Unlimited access to individual models through the Unlimited Models Marketplace. Unlimited access applies only on higgsfield.ai: outside it, generations always deduct credits.
+What does Unlimited model access mean?
+Unlimited model access means generations on specific models don't deduct credits while the access is active. You can generate as many times as you want on those models without affecting your credit balance.
+Unlimited access is model-specific: it applies only to the models included in your plan or purchased bundle, for the period stated. All other models still deduct credits.
+Which plans include Unlimited access?
+Mid and top plans include a set of Unlimited models, and higher plans include more of them. To check a specific plan, open the Unlimited & Free Gens section on its card on the Pricing page: it shows every included model with its Unlimited period. Most included models come with 365-day Unlimited access, the newest flagship models may have shorter windows (for example, 7 days), and some models come with a pool of free generations instead.
+How do I turn Unlimited on for a generation?
+If the model you've selected is covered by your Unlimited access, the generation panel shows an Unlimited toggle. Switch it on, and generations on that model don't deduct credits. Switch it off to use Credit Mode: the generation deducts credits and runs in the priority queue at maximum speed. If you don't see the toggle, the selected model isn't covered by your current Unlimited access: check Manage Account → Subscription, where the Active unlimited models table shows each model with its start date, expiry date, and status.
+How does the 365 Unlimited promo work?
+Unlimited access is a one-time purchase for a set period (for example, one year on the 365 Unlimited offer), but it only works while your subscription is active. The two go together:
+- The access is not a separate recurring charge: you get it once, for the period stated at purchase.
+- It stays usable every day for that period, as long as your subscription stays active.
+- If your subscription ends, Unlimited access stops working, even if its period hasn't finished yet. It becomes usable again when you have an active subscription, if the period hasn't expired.
+- If you switch to a lower plan that doesn't include that Unlimited access, it stops applying.
+How fast are Unlimited generations?
+Unlimited generations run in the standard queue, while credit-based generations always run in the priority queue. During peak traffic hours, generation speed and concurrency on Unlimited may temporarily vary: the system adjusts processing limits dynamically to keep the platform stable for everyone.
+Can I buy Unlimited access separately?
+Yes. The Unlimited Models Marketplace sells Unlimited access to individual models as bundles, separately from your plan. Open it from Buy Credits → the Unlimited Models tab, or via the Get Unlimited option in Manage Account → Subscription.
+Each bundle is priced per model and resolution tier: use the quality toggle to set your maximum output resolution, and the price updates automatically. The highest plan includes all lower resolutions in that bundle.
+Concurrency limits apply to bundle generations:
+Can I buy Unlimited access separately?Bundle type
+| Concurrency
+|
+Video models
+| 1 generation at a time, up to 15 seconds
+|
+Image models
+| 2 generations at a time
+|
+All Models bundle
+| 2 image + 1 video at a time
+|
+You can hold bundles for different models simultaneously: each runs independently for its own duration.
+What is time-limited Unlimited access from promo offers?
+Some Exclusive Offers include temporary Unlimited access for a fixed period. This is separate from the Unlimited included in your plan and doesn't renew after the period ends. When an offer expires, your plan's own Unlimited access is not affected. See What are Exclusive Offers?
+What are the fair use rules for Unlimited?
+Unlimited is designed for personal, human use only. Automation tools, scripting, credential sharing, and reselling access are strictly prohibited. If unusual activity is detected, generations may be slowed or moved to a lower-priority queue, and Unlimited access may be temporarily paused for manual review by the Support team. Access is restored once normal usage is confirmed.
+Does Unlimited work through MCP?
+No. Unlimited access applies only on higgsfield.ai. Any generation made outside it, including through MCP, CLI, Canvas, Supercomputer, and other automated tools, always deducts credits, regardless of your Unlimited status. See What is Higgsfield MCP, and how is it different from the web?
+Got any questions left?
+Do Unlimited model generations cost any credits?Not on higgsfield.ai. The same models used through MCP, CLI, Canvas, or Supercomputer always deduct credits.
+How is Unlimited speed different from credit generations?Unlimited runs in the standard queue, so speed can vary during peak hours. Credit-based generations, including Credit Mode, run in the priority queue at maximum speed.
+Does Unlimited access reset when my subscription renews?No. The period runs from when the access was activated and doesn't restart at renewal.
+My promo Unlimited access expired. Did I lose my plan Unlimited too?No. Promo Unlimited access is separate: the plan's own Unlimited is not affected.
+Share Feedback
+Was this article helpful?
+YesNo
+by Higgsfield
+Share Feedback
+Was this article helpful?
+YesNo
+Do my top-up credits expire, and what happens if I cancel?Why is there a watermark, and how do I remove it?
+AI-native creative suite
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+535 Mission St, 14th floor, San Francisco, CA, 94105
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+© 2026 Higgsfield, Inc. All rights reserved.
+-
+- Help center
+- Cookie Notice
+- Terms
+- Privacy
+- Report a vulnerability

@@ -1,0 +1,66 @@
+{
+  "forms": [
+    {
+      "idx": 0,
+      "visible": true,
+      "cls": "w-full",
+      "novalidate": true,
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "name": "email",
+          "required": true,
+          "checked": false,
+          "disabled": false,
+          "visible": true,
+          "value": "higgsp9xwxmojv@fldubai.com",
+          "ariaReq": null,
+          "ariaCheck": null
+        },
+        {
+          "tag": "INPUT",
+          "type": "password",
+          "name": "password",
+          "required": true,
+          "checked": false,
+          "disabled": false,
+          "visible": true,
+          "value": "(masked 18)",
+          "ariaReq": null,
+          "ariaCheck": null
+        },
+        {
+          "tag": "INPUT",
+          "type": "submit",
+          "name": "(anon)",
+          "required": false,
+          "checked": false,
+          "disabled": false,
+          "visible": true,
+          "value": "Sign up",
+          "ariaReq": null,
+          "ariaCheck": null
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "text": "",
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "submit",
+          "text": "Sign up",
+          "disabled": false,
+          "visible": true
+        }
+      ]
+    }
+  ],
+  "anyCb": [],
+  "validity": []
+}

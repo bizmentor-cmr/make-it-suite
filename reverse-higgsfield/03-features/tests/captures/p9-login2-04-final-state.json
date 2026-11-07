@@ -1,0 +1,165 @@
+{
+  "url": "https://higgsfield.ai/auth/email/sign-in",
+  "title": "Sign in with Email • Higgsfield",
+  "inputs": [
+    {
+      "type": "email",
+      "name": "email",
+      "id": "_r_0_",
+      "placeholder": "Email",
+      "visible": true
+    },
+    {
+      "type": "password",
+      "name": "password",
+      "id": "_r_1_",
+      "placeholder": "Password",
+      "visible": true
+    },
+    {
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "visible": true
+    }
+  ],
+  "buttons": [
+    "Seedance 4K",
+    "Nano Banana Pro",
+    "Higgsfield Soul",
+    "Cinematic App"
+  ],
+  "headings": [
+    "NANO BANANA PRO 4K",
+    "Log in to Higgsfield AI"
+  ],
+  "bodySnippet": "4K Resolution NANO BANANA PRO 4K The best image model, for the best price in the industry, only on Higgsfield Seedance 4K Nano Banana Pro Higgsfield Soul Cinematic App Log in to Higgsfield AI Enter your account and continue creating Email Password ← Back Forgot password? Don't have an account? Sign up",
+  "nav": [
+    {
+      "text": "Explore",
+      "href": "/"
+    },
+    {
+      "text": "Image",
+      "href": "/ai/image?model=gpt_image_2"
+    },
+    {
+      "text": "Video",
+      "href": "/ai/video"
+    },
+    {
+      "text": "Audio",
+      "href": "/audio"
+    },
+    {
+      "text": "MCP",
+      "href": "/mcp"
+    },
+    {
+      "text": "API",
+      "href": "https://console.higgsfield.ai"
+    },
+    {
+      "text": "GenjutsuNew",
+      "href": "/ai/video?model=genjutsu"
+    },
+    {
+      "text": "Content FactoryNew",
+      "href": "/content-factory"
+    },
+    {
+      "text": "PlayableNew",
+      "href": "/playable"
+    },
+    {
+      "text": "AI Influencer",
+      "href": "/ai-influencer-studio"
+    },
+    {
+      "text": "AcademyNew",
+      "href": "/academy"
+    },
+    {
+      "text": "Katana",
+      "href": "/katana"
+    },
+    {
+      "text": "ChatGPT Plugin",
+      "href": "/mcp?tab=chatgpt"
+    },
+    {
+      "text": "Ads Studio",
+      "href": "/ads-studio"
+    },
+    {
+      "text": "Effects",
+      "href": "/effects/use"
+    },
+    {
+      "text": "Cinema Studio",
+      "href": "/generate"
+    },
+    {
+      "text": "ContestsContests",
+      "href": "/community/contests"
+    },
+    {
+      "text": "Marketing Studio",
+      "href": "/marketing-studio"
+    },
+    {
+      "text": "Supercomputer",
+      "href": "/supercomputer"
+    },
+    {
+      "text": "Edit",
+      "href": "/layers"
+    },
+    {
+      "text": "Community",
+      "href": "/community"
+    },
+    {
+      "text": "Plugins",
+      "href": "/plugins/after-effects"
+    },
+    {
+      "text": "Canvas",
+      "href": "/canvas"
+    },
+    {
+      "text": "Originals",
+      "href": "/original-series"
+    },
+    {
+      "text": "Help center",
+      "href": "/creator-hub/help-center"
+    },
+    {
+      "text": "Cookie Notice",
+      "href": "/cookie-notice"
+    },
+    {
+      "text": "Terms",
+      "href": "/terms-of-use-agreement"
+    },
+    {
+      "text": "Privacy",
+      "href": "/privacy-policy"
+    },
+    {
+      "text": "Report a vulnerability",
+      "href": "https://bugcrowd.com/engagements/higgsfield-ai-vdp-pro"
+    }
+  ],
+  "credits": null,
+  "userBtn": [
+    "Seedance 4K",
+    "Nano Banana Pro",
+    "Higgsfield Soul",
+    "Cinematic App"
+  ],
+  "bodyText": "4K Resolution NANO BANANA PRO 4K The best image model, for the best price in the industry, only on Higgsfield Seedance 4K Nano Banana Pro Higgsfield Soul Cinematic App Log in to Higgsfield AI Enter your account and continue creating Email Password ← Back Forgot password? Don't have an account? Sign up",
+  "loggedIn": false
+}

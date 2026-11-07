@@ -1,0 +1,27 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "/home/z/.cache/ms-playwright/chromium_headless_shell-1200/chrome-headless-shell-linux64/chrome-headless-shell",
+    "headless": true
+  },
+  "start_url": { "url": "https://higgsfield.ai/ai/image?model=gpt_image_2" },
+  "actions": [
+    { "step_id": "goto.ai-image", "action": "goto", "destination": { "url": "https://higgsfield.ai/ai/image?model=gpt_image_2" }, "wait_until": "domcontentloaded", "timeout_ms": 60000 },
+    { "step_id": "wait.load", "action": "wait_for_timeout", "duration_ms": 10000 }
+  ],
+  "capture": {
+    "events": ["network", "websockets", "console", "page-errors"],
+    "network": {
+      "request_body": true,
+      "response_body": true,
+      "header_values": true
+    },
+    "after_each_step": ["url"],
+    "at_end": ["url", "screenshot"],
+    "limits": {
+      "max_events": 8000,
+      "max_network_transactions": 3000
+    }
+  },
+  "command_timeout_ms": 180000
+}

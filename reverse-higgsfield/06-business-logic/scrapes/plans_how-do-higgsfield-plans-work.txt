@@ -1,0 +1,220 @@
+- - - - - - - - - - - - - - - How Do Higgsfield Plans Work?- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Higgsfield- Explore
+- Image
+- Video
+- Audio
+- MCP
+- API
+-
+- GenjutsuNew
+- Content FactoryNew
+- PlayableNew
+- AI Influencer
+- AcademyNew
+- Katana
+- ChatGPT Plugin
+- Ads Studio
+- Effects
+- Cinema Studio
+- ContestsContests
+- Marketing Studio
+- Supercomputer
+- Edit
+- Community
+- Plugins
+- Canvas
+- Originals
+- - Creator Hub
+Creator HubHelp centerBlogChangelogCustomer StoriesSearch Creator HubOn this page
+- What do individual plans include?
+- What do business plans include?
+- Can I use it without a subscription?
+- How do I choose?
+- Help center
+- /
+- Plans
+- /
+- How do Higgsfield plans work?
+BackCopy page
+How do Higgsfield plans work?
+Copy page
+HiggsfieldAug 1, 20263 min
+Higgsfield offers two types of plans: individual and business (Team, Scale, and Enterprise). All available plans and their current prices are on the Pricing page. Individual plans are for solo creators and freelancers, business plans are for teams that need a shared workspace and pooled credits. Plans differ in which models you can access, how many credits you get per month, and how many generations you can run at once.
+What do individual plans include?
+Individual plans are for solo creators, freelancers, and anyone working on their own projects. They differ in four main ways.
+Model access. Entry-level plans include core generation models. Higher plans unlock every model on the platform, including the latest releases. Access to new models and advanced features may roll out gradually and may not be available to all users at launch.
+Credits. Every plan includes a monthly credit allowance that resets at renewal. Higher plans come with more credits per month. You can also top up with Credit Packs or set up Auto-Refill at any time. See How do credits work?
+Parallel generation. Higher plans let you run several generations at the same time, so you can iterate on one idea while another is still rendering instead of waiting in line for each result.
+Unlimited model access. Mid and top plans include Unlimited access to selected models: generations on those models don't deduct credits. Unlimited access is a one-time purchase, not a recurring subscription, and the models included and how long access lasts depend on your plan. See What are Unlimited models and which plans include them?
+All individual plans are available on monthly or annual billing, and annual billing costs less per month. See Can I switch between monthly and annual billing?
+What do business plans include?
+Business plans (Team, Scale, and Enterprise) are for teams that need a shared workspace, pooled credits, and collaborative tools. Credits are shared across all seats, and everyone on the team generates from one combined balance.
+Scale adds more credits per seat, priority queue access, SSO, and admin spend controls. Enterprise covers larger organizations with custom credit volumes, volume rollover credits, dedicated capacity, and compliance requirements, and lets you tailor the workspace to how your organization works, including user groups with their own limits set by workspace admins.
+You can subscribe to Team or Scale directly from the Pricing page. For Enterprise, contact the sales team.
+For the full comparison, see What team and business plans does Higgsfield offer?
+Can I use it without a subscription?
+You can generate without a paid plan, but access is limited to a small set of models and doesn't include credits. A subscription unlocks the full model library, credit allowances, parallel generation, and Unlimited access on supported plans.
+How do I choose?
+If you're a solo creator, freelancer, or someone building their own projects, an individual plan is the right fit. Start with the entry plan if you want to explore the platform, and move up when you need more models or higher output volume.
+If you're working with a team and need shared credits, a joint library, and collaborative tools, a business plan is the right fit. The right tier depends on your team size and how much you generate each month.
+The Pricing page has an interactive plan picker: set what matters to you, and it suggests the plan that fits. There's also a full side-by-side comparison table of everything each plan includes.
+Got any questions left?
+Where do I see the actual plan prices?At higgsfield.ai/pricing. The page always shows the current plans and prices.
+Can I buy multiple subscriptions for one account?No. Each account supports one active subscription at a time. If you need more credits or access to more models, upgrade your plan or add Credit Packs instead.
+Is there a free trial before buying a subscription?There's no trial period. You can explore the platform on the free tier with a limited set of models, and upgrade when you're ready.
+Do credits roll over?On individual plans, no: subscription credits reset each billing cycle. Enterprise is the exception, with volume rollover credits. Credit Packs and Auto-Refill credits follow their own rules. See How do credits work?
+Can I upgrade mid-cycle?Yes. Upgrades take effect immediately with a prorated charge. See How do I upgrade or downgrade my plan?
+Does Higgsfield offer refunds?Within 7 days of your initial purchase, or as permitted by the law in your jurisdiction, if no credits have been used, with a service fee up to 6%. Renewals are non-refundable. See How do I request a refund?
+Share Feedback
+Was this article helpful?
+YesNo
+by Higgsfield
+Share Feedback
+Was this article helpful?
+YesNo
+How do I upgrade or downgrade my plan?
+AI-native creative suite
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+535 Mission St, 14th floor, San Francisco, CA, 94105
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+© 2026 Higgsfield, Inc. All rights reserved.
+-
+- Help center
+- Cookie Notice
+- Terms
+- Privacy
+- Report a vulnerability

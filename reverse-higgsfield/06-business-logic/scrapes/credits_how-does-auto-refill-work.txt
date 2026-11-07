@@ -1,0 +1,238 @@
+- - - - - - - - - - - - - - - How Does Auto-Refill Work on Higgsfield?- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Higgsfield- Explore
+- Image
+- Video
+- Audio
+- MCP
+- API
+-
+- GenjutsuNew
+- Content FactoryNew
+- PlayableNew
+- AI Influencer
+- AcademyNew
+- Katana
+- ChatGPT Plugin
+- Ads Studio
+- Effects
+- Cinema Studio
+- ContestsContests
+- Marketing Studio
+- Supercomputer
+- Edit
+- Community
+- Plugins
+- Canvas
+- Originals
+- - Creator Hub
+Creator HubHelp centerBlogChangelogCustomer StoriesSearch Creator HubOn this page
+- What is Auto-Refill?
+- How do I set up Auto-Refill?
+- How do I turn Auto-Refill off?
+- When exactly am I charged?
+- Do Auto-Refill credits expire, and what happens if I cancel?
+- Can I get a refund for an Auto-Refill charge?
+- Help center
+- /
+- Credits
+- /
+- How Does Auto-Refill Work?
+BackCopy page
+How Does Auto-Refill Work?
+Copy page
+HiggsfieldAug 3, 20263 min
+Auto-Refill is an optional top-up that's off by default: you enable it yourself and can turn it off at any time. Once enabled, whenever your credits drop below your plan's refill threshold, Higgsfield charges your saved payment method for the amount you chose and adds the credits instantly, at a rate of $1 = 18 credits, so your workflow doesn't get interrupted.
+What is Auto-Refill?
+Auto-Refill is a prepaid top-up system: instead of manually buying a Credit Pack every time you run low, you set a refill amount once, and the system purchases credits automatically when your balance drops below the threshold.
+How do I set up Auto-Refill?
+- Click your avatar and select Manage Account.
+- Open Subscription and find the Credits auto-refill section.
+- Select Set-up & Enable and choose your refill amount.
+How do I set up Auto-Refill?Setting
+| Value
+|
+Refill amount
+| $20, $40, $90, $150, or $300, your choice
+|
+Triggers when balance drops below
+| Your plan's refill threshold, shown in the set-up window
+|
+Rate
+| $1 = 18 credits
+|
+Requirement
+| A valid saved payment method
+|
+Availability
+| Not available on entry-level plans
+|
+Once enabled, a separate Auto-refill credits counter appears in the Credits block, next to your monthly credits.
+How do I turn Auto-Refill off?
+From the same place: Manage Account → Subscription → Credits auto-refill. Once disabled, your balance no longer tops up automatically, and you buy credits manually when you run low.
+When exactly am I charged?
+The charge happens automatically each time your credit balance drops below your plan's threshold: the system charges your chosen amount and adds the credits immediately, so you keep generating without a break. The exact threshold and amount are stated in the set-up window and in the confirmation when you enable Auto-Refill.
+If the automatic charge fails, for example because the card was declined, credits simply aren't added. The balance won't top up until a charge succeeds: check or update your payment method to resume.
+Do Auto-Refill credits expire, and what happens if I cancel?
+Auto-Refill credits are valid for 90 days from the date of purchase. If you cancel your subscription, they stay available on the free plan: you can spend them on the models the free plan includes until the 90-day window ends. See Do my top-up credits expire, and what happens if I cancel?
+Can I get a refund for an Auto-Refill charge?
+Yes, under the same conditions as Credit Packs: the credits from that charge haven't been spent, and the request is made within 7 days of the charge or as permitted by the law in your jurisdiction. See How do I request a refund?
+Got any questions left?
+Does Auto-Refill change my subscription plan?No. It only adds credits automatically when your balance is low. Your plan stays the same.
+Will I be charged without warning?Auto-Refill charges automatically once you've enabled it. The confirmation at set-up states the exact amount and your plan's threshold. If you'd rather approve each purchase, keep it off and buy Credit Packs manually.
+What is my refill threshold?It depends on your plan and is shown in the Auto-Refill set-up window in Manage Account → Subscription → Credits auto-refill.
+What happens if the Auto-Refill payment fails?Credits aren't added, and the balance won't top up until a charge succeeds. Update your payment method to resume.
+In what order are Auto-Refill credits spent?Subscription credits always go first. After that, credits are spent by expiration date: if your Auto-Refill credits expire sooner than your other balances, they're used first. The system switches between credit types automatically. See How do credits work?
+Do Auto-Refill credits expire?Yes. Auto-Refill credits are valid for 90 days from purchase. They carry across billing cycles but expire at the end of that 90-day window if unused.
+Share Feedback
+Was this article helpful?
+YesNo
+by Higgsfield
+Share Feedback
+Was this article helpful?
+YesNo
+Why is there a watermark, and how do I remove it?How do Credit Packs work?
+AI-native creative suite
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+535 Mission St, 14th floor, San Francisco, CA, 94105
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+© 2026 Higgsfield, Inc. All rights reserved.
+-
+- Help center
+- Cookie Notice
+- Terms
+- Privacy
+- Report a vulnerability

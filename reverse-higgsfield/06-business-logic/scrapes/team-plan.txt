@@ -1,0 +1,266 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - AI Team Plan — AI Video & Image Generation Workspace | Higgsfield- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Higgsfield- Explore
+- Image
+- Video
+- Audio
+- MCP
+- API
+-
+- GenjutsuNew
+- Content FactoryNew
+- PlayableNew
+- AI Influencer
+- AcademyNew
+- Katana
+- ChatGPT Plugin
+- Ads Studio
+- Effects
+- Cinema Studio
+- ContestsContests
+- Marketing Studio
+- Supercomputer
+- Edit
+- Community
+- Plugins
+- Canvas
+- Originals
+Place for creative collaboration
+THE AI WORKSPACE FOR
+CREATIVE TEAMS
+Collaborate on prompts, refine visuals together, and turn collective imagination into high-impact visuals and videos.
+Start Your Team Plan
+Partnering with global industry leaders to power your creativity output
+Our Impact Statistics
+Your browser does not support the video.
+10XFaster production
+$12kSaved per created content
+40%Higher engagement
+Private & Secure | SOC2 & ISO42001 aligned | GDPR compliant
+WORLD LEADING COMPANIES ABOUT US
+Higgsfield is pushing the frontier of AI-generated video. They're building boldly on our Sora API to unlock powerful new creative workflows, and we're excited to support their launch.
+Marc Manara · Head of Startups at OpenAI
+How to start your team work
+Create or join a team
+Create a new workspace or join an existing one to get started
+Invite your team
+Bring all your colleagues and partners into your creative space
+Start sharing
+Keep all your content organized and accessible to everyone
+Start Now!
+ALL YOUR TEAM'S CREATIONS CONNECTED
+Structured workspaceORGANIZE YOUR CREATIVE ASSETS
+Structure your videos, images, and projects into personal or shared folders. Manage your workspace the way your team works best, with searchable, versioned assets always at hand.
+Organize Your Creative Assets
+Structured workspaceORGANIZE YOUR CREATIVE ASSETS
+Structure your videos, images, and projects into personal or shared folders. Manage your workspace the way your team works best, with searchable, versioned assets always at hand.
+Organize Your Creative Assets
+shareSpace for everyone
+Configure teams to perfectly mirror your organization's structure. Easily manage users, roles, and access permissions from one central admin dashboard.
+Create and store together
+shareSpace for everyone
+Configure teams to perfectly mirror your organization's structure. Easily manage users, roles, and access permissions from one central admin dashboard.
+Create and store together
+Work as teamCOLLABORATE IN REAL TIME
+Share prompts, review generations, and build on each other's work in real time. Your whole team, working side by side inside one platform.
+Start Now!
+Collaborate in Real Time
+Work as teamCOLLABORATE IN REAL TIME
+Share prompts, review generations, and build on each other's work in real time. Your whole team, working side by side inside one platform.
+Start Now!
+Collaborate in Real Time
+Create together with shared projects, built-in chat, video calls, and community spaces designed for modern AI workflows
+Get Started
+Edit and Refine
+Flexible project groups
+Create a group for your team, your friends, or your community. Every project is a shared creative project
+Edit and Refine
+Video calls, built into the workflow
+Talk face to face, review ideas live, and move projects forward without switching tools
+Edit and Refine
+Chat and comment inside the project
+Discuss ideas, drop feedback, and react in real time without leaving the project
+Edit and Refine
+Set access control
+Set permissions down to the smallest details, manage access for every user, and shape each project exactly the way you need
+Join 100,000+ teams already collaborating
+Explore how teams create, share, and grow together with AI-powered image and video generation.
+Start Now!
+Marketing
+Generate and A/B test hundreds of high-performing ads in minutes. Instantly scale your content for marketing channels to drive demand and build your brand.
+Design
+Automate routine video production and asset generation at scale. Free your creative team from routine and focus on high-impact, strategic work.
+Sales
+Close deals faster, by instantly generating personalized video outreach, compelling product demos and drive higher reply rates.
+Learning & development
+Create, update, and localize your entire content library of knowledge. Scale  across your organization and get new hires up to speed faster.
+Your Complete Generative AI Toolkit
+Advanced Editing
+Soul
+Ultra-Realistic Image Generations
+500mCreations we made
+50+
+State-of-the-art Models
+SSOOne login for your whole team
+Consistent
+Characters
+Your browser does not support the video.Camera Control
+Text-to-Audio
+Storyboard
+25MCreators
+Asset Management
+250+VFX presets
+Still have questions?
+We’ve answered the most frequently asked questions
+What makes this platform different from other AI video tools?Our platform unites all leading generative models in one secure space built for enterprise use. Teams can manage content, collaborate, and scale production safely with full control over data and permissions.
+Do I need technical expertise to use the platform?Not at all. The platform is designed for creators, marketers, and enterprises alike. Intuitive workflows and guided onboarding make it easy to start producing videos right away.
+Can multiple teams collaborate in real time?Yes. You can assign roles, leave comments, track approvals, and manage multiple projects simultaneously, all within shared folders and structured teams.
+How secure is the platform?Security is enterprise-grade. We're SOC 2 - aligned, ensuring your data, assets, and AI workflows are protected under the highest standards.
+What happens after I request a demo?Once you request a demo, our team will reach out to schedule a personalized session. We'll walk you through key features, use cases, and help tailor the setup to your organization's needs.
+Can we influence product updates or request new features?Yes. As part of our continuous partnership model, enterprise clients can provide feedback, join roadmap discussions, and get early access to upcoming capabilities.
+Explore more AI features
+EnterpriseMarketing Studio IntroMarketing AutomationChat IntroAI Ad GeneratorAI Avatar GeneratorCreator Partnership ProgramUGCAI Video GeneratorAI Image GeneratorCinematic Video GeneratorSora 2Veo 3.1SoulMixed Media IntroEffectsSeedance 2.0SeedanceKling 3.0Wan 2.6Grok ImagineCommunityCharacterTrending TemplatesGPT Image 2Nano Banana Pro Intro
+AI-native creative suite
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+535 Mission St, 14th floor, San Francisco, CA, 94105
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+© 2026 Higgsfield, Inc. All rights reserved.
+-
+- Help center
+- Cookie Notice
+- Terms
+- Privacy
+- Report a vulnerability

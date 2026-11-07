@@ -1,0 +1,14 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "/home/z/.cache/ms-playwright/chromium_headless_shell-1200/chrome-headless-shell-linux64/chrome-headless-shell",
+    "headless": true
+  },
+  "start_url": { "url": "https://higgsfield.ai/" },
+  "actions": [
+    { "step_id": "goto.homepage", "action": "goto", "destination": { "url": "https://higgsfield.ai/" }, "wait_until": "domcontentloaded", "timeout_ms": 60000 },
+    { "step_id": "wait.settle", "action": "wait_for_timeout", "duration_ms": 14000 }
+  ],
+  "capture": { "events": ["network", "page-errors"], "at_end": ["url", "screenshot", "dom", "accessibility", "storage"] },
+  "command_timeout_ms": 90000
+}

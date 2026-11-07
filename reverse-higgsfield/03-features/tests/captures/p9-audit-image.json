@@ -1,0 +1,47 @@
+{
+  "loadMs": 13910,
+  "url": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+  "headings": [],
+  "prompts": [
+    {
+      "ph": "",
+      "ce": true
+    }
+  ],
+  "selects": [],
+  "radios": [],
+  "tabs": [],
+  "costs": [],
+  "genBtns": [
+    "Generate8.56.5"
+  ],
+  "sliders": [],
+  "btns": [
+    {
+      "t": "GPT Image 2",
+      "d": false
+    },
+    {
+      "t": "Auto",
+      "d": false
+    },
+    {
+      "t": "High",
+      "d": false
+    },
+    {
+      "t": "2K",
+      "d": false
+    },
+    {
+      "t": "1/4",
+      "d": false
+    },
+    {
+      "t": "Generate8.56.5",
+      "d": false
+    }
+  ],
+  "creditTexts": [],
+  "bodyText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets Don’t know where to start? Go to the Academy and start your journey Learn now START CREATING WITH HIGGSFIELD SOUL CINEMA Describe a scene, character, mood, or style — and watch it come to life A majestic golden eagle soaring over snowy mountains at sunrise, cinematic lighting, ultra detailed, 4k GPT Image 2 Auto High 2K 1/4 GENERATE 8.5 6.5"
+}

@@ -1,0 +1,1695 @@
+{
+ "signup": {
+  "url": "https://higgsfield.ai/auth/sign-up",
+  "title": "Sign Up Free • Higgsfield",
+  "needsLogin": false,
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "email",
+    "name": "email",
+    "placeholder": "you@example.com",
+    "ariaLabel": null,
+    "role": null
+   },
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": null,
+    "placeholder": "",
+    "ariaLabel": null,
+    "role": null
+   }
+  ],
+  "buttons": [
+   {
+    "text": "Seedance 4K",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex-1 min-w-0 text-left text-xs leading"
+   },
+   {
+    "text": "Nano Banana Pro",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex-1 min-w-0 text-left text-xs leading"
+   },
+   {
+    "text": "Higgsfield Soul",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex-1 min-w-0 text-left text-xs leading"
+   },
+   {
+    "text": "Cinematic App",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex-1 min-w-0 text-left text-xs leading"
+   },
+   {
+    "text": "Continue with Google",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative h-12 md:h-13 [&:has([data-auth-"
+   },
+   {
+    "text": "Continue with Apple",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative h-12 md:h-13 [&:has([data-auth-"
+   },
+   {
+    "text": "Continue with Microsoft",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative h-12 md:h-13 [&:has([data-auth-"
+   },
+   {
+    "text": "Continue",
+    "ariaLabel": null,
+    "disabled": true,
+    "cls": "button button-md button-primary w-full"
+   }
+  ],
+  "tabs": [],
+  "headings": [
+   "NANO BANANA PRO 4K",
+   "Create your Higgsfield account"
+  ],
+  "forms": [
+   {
+    "action": "https://higgsfield.ai/auth/sign-up",
+    "method": "get",
+    "inputCount": 1
+   }
+  ],
+  "ctas": [],
+  "bodyText": "4K Resolution\nNANO BANANA PRO 4K\nThe best image model, for the best price in the industry, only on Higgsfield\nSeedance 4K\nNano Banana Pro\nHiggsfield Soul\nCinematic App\nCreate your Higgsfield account\nSign up for free and start creating AI videos and images with the latest AI models.\nContinue with Google\nContinue with Apple\nContinue with Microsoft\nOR\nEmail\nContinue\nI agree to the Terms of Use, acknowledge the Privacy Policy, and confirm I'm at least 18 years old.\nSSO available on Scale and Enterprise plans"
+ },
+ "composer-homepage": {
+  "url": "https://higgsfield.ai/#create",
+  "title": "Higgsfield AI — AI-native creative suite",
+  "needsLogin": false,
+  "inputs": [],
+  "buttons": [
+   {
+    "text": "",
+    "ariaLabel": "Change language",
+    "disabled": false,
+    "cls": "hfnav-language hfnav-desktop-only q-drop"
+   },
+   {
+    "text": "Login",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-login hfnav-deskto"
+   },
+   {
+    "text": "Sign up",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-signup"
+   },
+   {
+    "text": "Your browser does not support the video.Sign ",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative isolate block overflow-hidden r"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Expand example",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 cursor-poi"
+   },
+   {
+    "text": "",
+    "ariaLabel": "More options",
+    "disabled": false,
+    "cls": "q-dropdown-trigger relative flex size-8 "
+   },
+   {
+    "text": "233",
+    "ariaLabel": "Like",
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": "Recreate this example",
+    "disabled": false,
+    "cls": "q-button q-button-primary q-button-xs sh"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Expand example",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 cursor-poi"
+   },
+   {
+    "text": "",
+    "ariaLabel": "More options",
+    "disabled": false,
+    "cls": "q-dropdown-trigger relative flex size-8 "
+   },
+   {
+    "text": "27",
+    "ariaLabel": "Like",
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": "Recreate this example",
+    "disabled": false,
+    "cls": "q-button q-button-primary q-button-xs sh"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Expand example",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 cursor-poi"
+   },
+   {
+    "text": "",
+    "ariaLabel": "More options",
+    "disabled": false,
+    "cls": "q-dropdown-trigger relative flex size-8 "
+   },
+   {
+    "text": "1094",
+    "ariaLabel": "Like",
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": "Recreate this example",
+    "disabled": false,
+    "cls": "q-button q-button-primary q-button-xs sh"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Expand example",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 cursor-poi"
+   },
+   {
+    "text": "",
+    "ariaLabel": "More options",
+    "disabled": false,
+    "cls": "q-dropdown-trigger relative flex size-8 "
+   },
+   {
+    "text": "82",
+    "ariaLabel": "Like",
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": "Recreate this example",
+    "disabled": false,
+    "cls": "q-button q-button-primary q-button-xs sh"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Expand example",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 cursor-poi"
+   },
+   {
+    "text": "",
+    "ariaLabel": "More options",
+    "disabled": false,
+    "cls": "q-dropdown-trigger relative flex size-8 "
+   },
+   {
+    "text": "25",
+    "ariaLabel": "Like",
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": "Recreate this example",
+    "disabled": false,
+    "cls": "q-button q-button-primary q-button-xs sh"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Expand example",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 cursor-poi"
+   },
+   {
+    "text": "",
+    "ariaLabel": "More options",
+    "disabled": false,
+    "cls": "q-dropdown-trigger relative flex size-8 "
+   },
+   {
+    "text": "164",
+    "ariaLabel": "Like",
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": "Recreate this example",
+    "disabled": false,
+    "cls": "q-button q-button-primary q-button-xs sh"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Expand example",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 cursor-poi"
+   },
+   {
+    "text": "",
+    "ariaLabel": "More options",
+    "disabled": false,
+    "cls": "q-dropdown-trigger relative flex size-8 "
+   },
+   {
+    "text": "27",
+    "ariaLabel": "Like",
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": "Recreate this example",
+    "disabled": false,
+    "cls": "q-button q-button-primary q-button-xs sh"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Expand example",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 cursor-poi"
+   },
+   {
+    "text": "",
+    "ariaLabel": "More options",
+    "disabled": false,
+    "cls": "q-dropdown-trigger relative flex size-8 "
+   },
+   {
+    "text": "24",
+    "ariaLabel": "Like",
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": "Recreate this example",
+    "disabled": false,
+    "cls": "q-button q-button-primary q-button-xs sh"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open preset",
+    "disabled": false,
+    "cls": "absolute inset-0 z-16 cursor-pointer tou"
+   }
+  ],
+  "tabs": [],
+  "headings": [
+   "Higgsfield Genjutsu",
+   "Higgsfield Playable",
+   "Content Factory",
+   "Kling 4.0",
+   "Higgsfield Genjutsu Lite",
+   "HIGGSFIELD ACADEMY",
+   "Sign up and get yourextra discount",
+   "Higgsfield Genjutsu by Community",
+   "Explore the inside of every project",
+   "ONE CANVAS.EVERY WORKFLOW.",
+   "Different ScenesSame Star",
+   "Explore more AI features"
+  ],
+  "forms": [],
+  "ctas": [
+   {
+    "text": "Cinema Studio",
+    "href": "/generate"
+   },
+   {
+    "text": "Pricing30% OFF",
+    "href": "/pricing"
+   },
+   {
+    "text": "Cinema Studio 4.0Create cinematic scenes",
+    "href": "/generate?mode=video&videoModel=cinematic-v4"
+   },
+   {
+    "text": "Higgsfield MCP for ClaudeGenerate images",
+    "href": "/mcp?tab=claude"
+   },
+   {
+    "text": "Start generating",
+    "href": "/ai/video?model=genjutsu"
+   },
+   {
+    "text": "Try Photodump",
+    "href": "/ai/image?model=soul-v2&modal-photo-dump=true&skip-preview=true"
+   },
+   {
+    "text": "AI Motion Designer",
+    "href": "/ai-motion-designer"
+   },
+   {
+    "text": "Pricing",
+    "href": "/pricing"
+   }
+  ],
+  "bodyText": "Explore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nOpen Higgsfield Genjutsu\nHIGGSFIELD GENJUTSU\nOne upload in. Endless new visions out.\nOpen Higgsfield Playable\nHIGGSFIELD PLAYABLE\nYou can now make a mobile game from a single prompt\nOpen Content Factory\nCONTENT FACTORY\nTrending styles in. Ready-to-post series out.\nOpen Kling 4.0\nKLING 4.0\nCreate and edit videos with text, images and references\nOpen Higgsfield Genjutsu Lite\nHIGGSFIELD GENJUTSU LITE\nFaster, lighter, cheaper. Same Genjutsu energy.\nOpen HIGGSFIELD ACADEMY\nHIGGSFIELD ACADEMY\nLearn to create AI images and videos, step by step\nSIGN UP AND GET YOUR\nEXTRA DISCOUNT\nGet unlimited Seedance 2.5, GPT Image 2.5 & Seedream 5.0 Pro\nUnlock your extra discount\nSign up and get your discount\nHiggsfield Genjutsu\nNEW\nOne video, many versions\nSeedance 2.5\nThe most advanced video model\nSupercomputer\nAgent powered by GPT-6 Astra\nCinema Studio 4.0\nCreate cinematic scenes effortlessly\nHiggsfield MCP for Claude\nGenerate images and videos in Claude\nAI Influencer\nBuild your next hype machine\nHIGGSFIELD GENJUTSU BY COMMUNITY\nTake the motion and recast it with your characters, locations, and products, or swap specific elements while keeping the rest untouched.\nStart generating\nLearn more\nMotion transfer\n233\nRecreate\nObjects swap\n27\nRecreate\nMotion transfer\n1094\nRecreate\nObjects swap\n82\nRecreate\nObjects swap\n25\nRecreate\nObjects swap\n164\nRecreate\nObjects swap\n27\nRecreate\nMotion transfer\n24\nRecreate\nMotion transfer\n169\nRecreate\nObjects swap\n94\nRecreate\nObjects swap\n8\nRecreate\nMotion trans"
+ },
+ "ai-image": {
+  "url": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+  "title": "Create AI Images from Text & Photo | Higgsfield",
+  "needsLogin": false,
+  "inputs": [],
+  "buttons": [
+   {
+    "text": "Get an additional discount on premium plans a",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative flex w-full min-w-0 items-cente"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Close promotion",
+    "disabled": false,
+    "cls": "absolute right-2 top-1/2 z-10 grid size-"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Change language",
+    "disabled": false,
+    "cls": "hfnav-language hfnav-desktop-only q-drop"
+   },
+   {
+    "text": "Login",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-login hfnav-deskto"
+   },
+   {
+    "text": "Sign up",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-signup"
+   },
+   {
+    "text": "View",
+    "ariaLabel": "View",
+    "disabled": false,
+    "cls": "q-button q-button-outline q-button-xs px"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Close",
+    "disabled": false,
+    "cls": "q-close q-close-lg size-9.5!"
+   },
+   {
+    "text": "",
+    "ariaLabel": "References",
+    "disabled": false,
+    "cls": "flex size-8 shrink-0 cursor-pointer item"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Elements",
+    "disabled": false,
+    "cls": "flex size-8 shrink-0 cursor-pointer item"
+   },
+   {
+    "text": "GPT Image 2",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "w-full h-full !outline-none flex items-c"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Scroll left",
+    "disabled": false,
+    "cls": "flex size-7 shrink-0 cursor-pointer item"
+   },
+   {
+    "text": "Auto",
+    "ariaLabel": "Aspect ratio",
+    "disabled": false,
+    "cls": "q-dropdown-trigger flex h-8 min-w-8 shri"
+   },
+   {
+    "text": "High",
+    "ariaLabel": "Quality",
+    "disabled": false,
+    "cls": "q-dropdown-trigger flex h-8 min-w-8 shri"
+   },
+   {
+    "text": "2K",
+    "ariaLabel": "Resolution",
+    "disabled": false,
+    "cls": "q-dropdown-trigger flex h-8 min-w-8 shri"
+   },
+   {
+    "text": "1/4",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": ""
+   },
+   {
+    "text": "",
+    "ariaLabel": "Decrement",
+    "disabled": true,
+    "cls": "text-font-secondary transition-colors ho"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Increment",
+    "disabled": false,
+    "cls": "text-font-secondary transition-colors ho"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Scroll right",
+    "disabled": false,
+    "cls": "flex size-7 shrink-0 cursor-pointer item"
+   },
+   {
+    "text": "Generate8.56.5",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group flex flex-col items-center justify"
+   }
+  ],
+  "tabs": [],
+  "headings": [],
+  "forms": [
+   {
+    "action": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+    "method": "get",
+    "inputCount": 0
+   }
+  ],
+  "ctas": [
+   {
+    "text": "Cinema Studio",
+    "href": "/generate"
+   },
+   {
+    "text": "Pricing30% OFF",
+    "href": "/pricing"
+   }
+  ],
+  "bodyText": "Get an additional discount on premium plans after signing up\nGet your discount\nExplore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nView\nDon’t know where to start?\nGo to the Academy and start your journey\nLearn now\nSTART CREATING WITH\nHIGGSFIELD SOUL CINEMA\nDescribe a scene, character, mood, or style — and watch it come to life\nDescribe the scene you imagine\nGPT Image 2\nAuto\nHigh\n2K\n1/4\nGENERATE\n8.5\n6.5"
+ },
+ "ai-video": {
+  "url": "https://higgsfield.ai/ai/video?model=seedance_2_5",
+  "title": "Create AI Videos from Text & Image | Higgsfield",
+  "needsLogin": false,
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "enhancePrompt",
+    "placeholder": "",
+    "ariaLabel": null,
+    "role": null
+   }
+  ],
+  "buttons": [
+   {
+    "text": "Get an additional discount on premium plans a",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative flex w-full min-w-0 items-cente"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Close promotion",
+    "disabled": false,
+    "cls": "absolute right-2 top-1/2 z-10 grid size-"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Change language",
+    "disabled": false,
+    "cls": "hfnav-language hfnav-desktop-only q-drop"
+   },
+   {
+    "text": "Login",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-login hfnav-deskto"
+   },
+   {
+    "text": "Sign up",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-signup"
+   },
+   {
+    "text": "Your browser does not support the video.Gener",
+    "ariaLabel": null,
+    "cls": "relative group h-32.5 w-full select-none"
+   },
+   {
+    "text": "Change",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "border max-w-full inline-grid grid-flow-"
+   },
+   {
+    "text": "References",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "q-tabs-tab"
+   },
+   {
+    "text": "Extend Video",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "q-tabs-tab"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Add references",
+    "disabled": false,
+    "cls": "absolute inset-0 z-10 rounded-[inherit] "
+   },
+   {
+    "text": "Elements",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "whitespace-nowrap cursor-pointer select-"
+   },
+   {
+    "text": "ModelSeedance 2.5",
+    "ariaLabel": "Model",
+    "disabled": false,
+    "cls": "rounded-md transition w-full flex-1 grid"
+   },
+   {
+    "text": "Duration5s",
+    "ariaLabel": "Duration",
+    "disabled": false,
+    "cls": "flex h-13.5 w-full items-center justify-"
+   },
+   {
+    "text": "Aspect Ratio16:9",
+    "ariaLabel": "Ratio",
+    "disabled": false,
+    "cls": "flex h-13.5 w-full items-center justify-"
+   },
+   {
+    "text": "Quality1080p",
+    "ariaLabel": "Quality",
+    "disabled": false,
+    "cls": "flex h-13.5 w-full items-center justify-"
+   },
+   {
+    "text": "BitrateHigh",
+    "ariaLabel": "Bitrate",
+    "disabled": false,
+    "cls": "flex h-13.5 w-full items-center justify-"
+   },
+   {
+    "text": "Generate80",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "gap-2 transition-transform duration-200 "
+   },
+   {
+    "text": "History",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "q-tabs-tab"
+   },
+   {
+    "text": "How it works",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "q-tabs-tab"
+   },
+   {
+    "text": "Filter",
+    "ariaLabel": "Filter",
+    "disabled": false,
+    "cls": "flex h-9 items-center justify-center gap"
+   },
+   {
+    "text": "View",
+    "ariaLabel": "View",
+    "disabled": false,
+    "cls": "flex h-9 items-center justify-center gap"
+   }
+  ],
+  "tabs": [
+   "References",
+   "Extend Video",
+   "History",
+   "How it works"
+  ],
+  "headings": [
+   "Make videos in one click",
+   "Add image",
+   "Choose preset",
+   "Get video"
+  ],
+  "forms": [
+   {
+    "action": "https://higgsfield.ai/ai/video?model=seedance_2_5",
+    "method": "get",
+    "inputCount": 1
+   }
+  ],
+  "ctas": [
+   {
+    "text": "Cinema Studio",
+    "href": "/generate"
+   },
+   {
+    "text": "Pricing30% OFF",
+    "href": "/pricing"
+   },
+   {
+    "text": "Don’t know where to start?Go to the Acad",
+    "href": "/academy"
+   }
+  ],
+  "bodyText": "Get an additional discount on premium plans after signing up\nGet your discount\nExplore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nCreate Video\nEdit Video\nMotion Control\nGENERAL\nSeedance 2.5\nChange\nReferences\nExtend Video\nAdd references\nImage, Video or Audio\nPrompt\nDescribe the visual change you want — e.g., “Make it snow” or “Make it nighttime”. Add reference images or elements using @…\nElements\nOn\nModel\nSeedance 2.5\nDuration\n5s\nAspect Ratio\n16:9\nQuality\n1080p\nBitrate\nHigh\nGenerate\n80\nHistory\nHow it works\nMAKE VIDEOS IN ONE CLICK\n250+ presets for camera control, framing, and high-quality VFX - or use the general preset for manual control.\nADD IMAGE\nUpload or generate an image to start your animation\nCHOOSE PRESET\nPick a preset to control your image movement\nGET VIDEO\nClick generate to create your final animated video!\nDon’t know where to start?\nGo to the Academy and start your journey"
+ },
+ "generate": {
+  "url": "https://higgsfield.ai/generate",
+  "title": "Cinema Studio 4.0 — Direct Every Detail | Higgsfield",
+  "needsLogin": true,
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "text",
+    "name": null,
+    "placeholder": "Find project..",
+    "ariaLabel": null,
+    "role": null
+   }
+  ],
+  "buttons": [
+   {
+    "text": "Cinema Studio",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-9 w-full items-center justify-bet"
+   },
+   {
+    "text": "Higgsfield AI",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-9 w-full items-center gap-1.5 rou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Collapse sidebar",
+    "disabled": false,
+    "cls": "flex size-7 shrink-0 items-center justif"
+   },
+   {
+    "text": "Home",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "w-full group/top-action flex h-9 items-c"
+   },
+   {
+    "text": "My elements",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "w-full group/top-action flex h-9 items-c"
+   },
+   {
+    "text": "My favorites",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "w-full group/top-action flex h-9 items-c"
+   },
+   {
+    "text": "Community",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "w-full group/top-action flex h-9 items-c"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Search projects",
+    "disabled": false,
+    "cls": "flex size-6 shrink-0 items-center justif"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Sort projects",
+    "disabled": false,
+    "cls": "flex size-6 shrink-0 items-center justif"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Close search",
+    "disabled": false,
+    "cls": "flex size-6 shrink-0 items-center justif"
+   },
+   {
+    "text": "New project",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/glass-action flex h-9 w-full items"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Close",
+    "disabled": false,
+    "cls": "absolute right-q-100 top-q-100 z-10 flex"
+   },
+   {
+    "text": "Learn more",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "q-button q-button-secondary q-button-sm "
+   },
+   {
+    "text": "Log in",
+    "ariaLabel": "Log in",
+    "disabled": false,
+    "cls": "flex shrink-0 items-center border-[1.5px"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Show The Cully Hill Boys project",
+    "disabled": false,
+    "cls": "absolute inset-0 z-40 cursor-pointer foc"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Show Zephyr Special project",
+    "disabled": false,
+    "cls": "absolute inset-0 z-40 cursor-pointer foc"
+   },
+   {
+    "text": "Image",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative button button-sm active:brightn"
+   },
+   {
+    "text": "Video",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative button button-sm active:brightn"
+   },
+   {
+    "text": "References0/50",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative flex min-h-12 h-12 min-w-0 curs"
+   },
+   {
+    "text": "Film setupAuto",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative flex min-h-12 h-12 min-w-0 curs"
+   },
+   {
+    "text": "CameraAuto",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative flex min-h-12 h-12 min-w-0 curs"
+   },
+   {
+    "text": "Color paletteAuto",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative flex min-h-12 h-12 min-w-0 curs"
+   },
+   {
+    "text": "LightingAuto",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative flex min-h-12 h-12 min-w-0 curs"
+   },
+   {
+    "text": "",
+    "ariaLabel": "References",
+    "disabled": false,
+    "cls": "flex! size-7! min-h-7! min-w-7! shrink-0"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Elements",
+    "disabled": false,
+    "cls": "flex! size-7! min-h-7! min-w-7! shrink-0"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Camera movement",
+    "disabled": false,
+    "cls": "flex size-7 shrink-0 cursor-pointer item"
+   },
+   {
+    "text": "Cinema Studio 4.0",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "button button-sm button-primary [body[da"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Scroll left",
+    "disabled": false,
+    "cls": "flex size-7 shrink-0 cursor-pointer item"
+   },
+   {
+    "text": "1080p",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-7 shrink-0 cursor-pointer items-c"
+   },
+   {
+    "text": "16:9",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-7 shrink-0 cursor-pointer items-c"
+   },
+   {
+    "text": "5s",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-7 shrink-0 cursor-pointer items-c"
+   },
+   {
+    "text": "On",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-7 shrink-0 cursor-pointer items-c"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Decrement",
+    "disabled": true,
+    "cls": "text-font-secondary transition-colors ho"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Increment",
+    "disabled": false,
+    "cls": "text-font-secondary transition-colors ho"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Scroll right",
+    "disabled": false,
+    "cls": "flex size-7 shrink-0 cursor-pointer item"
+   },
+   {
+    "text": "GENERATE80",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group flex flex-col items-center justify"
+   },
+   {
+    "text": "Describe the scene you imagine...",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex min-w-0 flex-1 items-center self-st"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Generate",
+    "disabled": false,
+    "cls": "relative isolate flex size-9 items-cente"
+   },
+   {
+    "text": "Get 30-day Unlimited Seedance 2.5",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative flex h-10 w-full items-center j"
+   }
+  ],
+  "tabs": [
+   "Image",
+   "Video"
+  ],
+  "headings": [
+   "BRING YOUR STORIES TO LIFE"
+  ],
+  "forms": [
+   {
+    "action": "https://higgsfield.ai/generate",
+    "method": "get",
+    "inputCount": 0
+   }
+  ],
+  "ctas": [
+   {
+    "text": "Pricing30% OFF",
+    "href": "/pricing"
+   }
+  ],
+  "bodyText": "Cinema Studio\nHiggsfield AI\nHome\nMy elements\nMy favorites\nCommunity\nProjects\nNew project\nLearn to make movies\nPractical workflows from working AI filmmakers\nLearn more\nPricing\n30% OFF\nLog in\nExplore\nBRING YOUR STORIES TO LIFE\nImage\nVideo\nReferences\n0/50\nFilm setup\nAuto\nCamera\nAuto\nColor palette\nAuto\nLighting\nAuto\nDescribe your scene - use @ to add characters & locations\nCinema Studio 4.0\n1080p\n16:9\n5s\nOn\n1/4\nGENERATE\n80\nDescribe the scene you imagine...\nUNLIMITED SEEDANCE 2.5\nFOR 30 DAYS WITH 30% OFF\nGet Unlimited Seedance 2.5 for 30 days on Scale Plan\nGet 30-day Unlimited Seedance 2.5"
+ },
+ "canvas": {
+  "url": "https://higgsfield.ai/canvas",
+  "title": "Higgsfield Canvas",
+  "needsLogin": true,
+  "inputs": [],
+  "buttons": [
+   {
+    "text": "",
+    "ariaLabel": "Change language",
+    "disabled": false,
+    "cls": "hfnav-language hfnav-desktop-only q-drop"
+   },
+   {
+    "text": "Login",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-login hfnav-deskto"
+   },
+   {
+    "text": "Sign up",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-signup"
+   },
+   {
+    "text": "All Canvases",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "h-8 px-3 py-1 rounded-full flex items-ce"
+   },
+   {
+    "text": "TemplatesQuick Start",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "h-8 px-3 py-1 rounded-full flex items-ce"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Search canvases",
+    "disabled": false,
+    "cls": "flex size-8 items-center justify-center "
+   },
+   {
+    "text": "Sign in",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "h-8 rounded-full bg-white px-4 text-[12p"
+   }
+  ],
+  "tabs": [],
+  "headings": [
+   "Generate stunningmedia with AI Canvas"
+  ],
+  "forms": [],
+  "ctas": [
+   {
+    "text": "Cinema Studio",
+    "href": "/generate"
+   },
+   {
+    "text": "Pricing30% OFF",
+    "href": "/pricing"
+   }
+  ],
+  "bodyText": "Explore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nTwo athletic friends take a break on an outdoor basketball court on a sunny day. A young woman in a fitted crop top and matching shorts sits in the foreground.\nHIGGSFIELD CANVAS\nGENERATE STUNNING\nMEDIA WITH AI CANVAS\nAll Canvases\nTemplates\nQuick Start\nSign in to view your canvases\nSign in"
+ },
+ "supercomputer": {
+  "url": "https://higgsfield.ai/supercomputer",
+  "title": "Supercomputer | Higgsfield",
+  "needsLogin": true,
+  "inputs": [],
+  "buttons": [
+   {
+    "text": "Supercomputer",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-9 w-full items-center justify-bet"
+   },
+   {
+    "text": "Higgsfield AI",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-9 w-full items-center gap-1.5 rou"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Search",
+    "disabled": false,
+    "cls": "inline-flex h-8 w-6.5 shrink-0 cursor-po"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Collapse sidebar",
+    "disabled": false,
+    "cls": "inline-flex h-8 w-6.5 shrink-0 cursor-po"
+   },
+   {
+    "text": "New chatCtrl↵",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group relative flex items-center text-xs"
+   },
+   {
+    "text": "Projects",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group relative flex items-center text-xs"
+   },
+   {
+    "text": "Skills",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group relative flex items-center text-xs"
+   },
+   {
+    "text": "Connectors",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group relative flex items-center text-xs"
+   },
+   {
+    "text": "See more",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group relative flex items-center text-xs"
+   },
+   {
+    "text": "Chats",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-7 w-full items-center gap-2 round"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Close",
+    "disabled": false,
+    "cls": "q-button q-button-ghost q-button-xxs q-b"
+   },
+   {
+    "text": "Log in",
+    "ariaLabel": "Log in",
+    "disabled": false,
+    "cls": "flex shrink-0 items-center border-[1.5px"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Memory",
+    "disabled": false,
+    "cls": "relative flex size-9 shrink-0 items-cent"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Incognito mode",
+    "disabled": false,
+    "cls": "flex shrink-0 items-center justify-cente"
+   },
+   {
+    "text": "AutoFree",
+    "ariaLabel": "Model settings",
+    "disabled": false,
+    "cls": "group flex h-8 min-w-0 max-w-full cursor"
+   },
+   {
+    "text": "Ask before generatingAsk",
+    "ariaLabel": "Agent mode",
+    "disabled": false,
+    "cls": "group flex h-8 shrink-0 cursor-pointer o"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Voice input",
+    "disabled": false,
+    "cls": "relative flex size-8 shrink-0 items-cent"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Send message",
+    "disabled": true,
+    "cls": "pointer-events-auto relative flex size-8"
+   },
+   {
+    "text": "No project",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex shrink-0 items-center gap-1.5 round"
+   },
+   {
+    "text": "Skills",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex shrink-0 items-center gap-1.5 round"
+   },
+   {
+    "text": "Connectors",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex shrink-0 items-center gap-1.5 round"
+   },
+   {
+    "text": "All",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-8 shrink-0 items-center justify-c"
+   },
+   {
+    "text": "Marketing",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-8 shrink-0 items-center justify-c"
+   },
+   {
+    "text": "Explainer videos",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-8 shrink-0 items-center justify-c"
+   },
+   {
+    "text": "Apps",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-8 shrink-0 items-center justify-c"
+   },
+   {
+    "text": "Games",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex h-8 shrink-0 items-center justify-c"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Free Mode",
+    "disabled": false,
+    "cls": "absolute inset-0 z-1 cursor-pointer roun"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open Ad Multiplier showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open Editorial Motion Graphics showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open Higgsfield Faceless Video showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open Cartoon Faceless Video showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open SaaS UGC video showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open Physical UGC video showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open Brandkit showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open Shorts Maker showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Open Website Building showcase",
+    "disabled": false,
+    "cls": "peer absolute inset-0 z-1 cursor-pointer"
+   },
+   {
+    "text": "Recreate",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "group/button pointer-events-auto relativ"
+   }
+  ],
+  "tabs": [],
+  "headings": [
+   "What are we creating today?",
+   "Higgsfield explainer",
+   "UGC videos"
+  ],
+  "forms": [],
+  "ctas": [
+   {
+    "text": "Pricing30% OFF",
+    "href": "/supercomputer/pricing"
+   },
+   {
+    "text": "Try MCP",
+    "href": "/mcp"
+   }
+  ],
+  "bodyText": "Supercomputer\nHiggsfield AI\nNew chat\nCtrl\n↵\nProjects\nSkills\nConnectors\nSee more\nChats\nNo chats yet\nCreate one to get started\nLearn to make movies\nPractical workflows from working AI filmmakers\nLearn more\nPricing\n30% OFF\nLog in\nWHAT ARE WE CREATING TODAY?\nCreate a cinematic trailer for my brand\nAuto\nFree\nAsk before generating\nAsk\nNo project\nSkills\nConnectors\nTry MCP\nAll\nMarketing\nExplainer videos\nApps\nGames\nFree Mode\nFeature\nTurn this green handbag ad into three campaign-ready variations. Refresh the talent, wardrobe, and upscale home setting while keeping the bag design, product-focused motion, framing, timing, and audio consistent\nRecreate\nLearn more\nAd Multiplier\nSkill\nCreate an editorial motion graphics faceless video about how the Mona Lisa became the world’s most famous painting\nRecreate\nLearn more\nEditorial Motion Graphics\nSkill\nCreate a cinematic animated faceless video showing how one decisive chess move changes the entire game\nRecreate\nLearn more\nHiggsfield Faceless Video\nSkill\nCreate a stickman cartoon faceless video showing Odysseus's journey to Troy and back home\nRecreate\nLearn more\nCartoon Faceless Video\nSkill\nWebsiteCreate a UGC ad video for this chips with this girl, showing its store page on screen\nRecreate\nLearn more\nSaaS UGC video\nSkill\nCreate a UGC tutorial video with this girl showing how to use this water gun\nRecreate\nLearn more\nPhysical UGC video\nSkill\nCreate a brand kit for Yololey banana milk\nRecreate\nBrandkit\nSkill\nCreate a short video explaining how warmer light bulbs can make a room look more expensive\nRecreate\nShorts Maker\nSkill\nBuild the LOOMERE website from the attached coral polo shirt. Use celadon sage, warm ivory, pine ink, Cabinet Grotesk, and Inter Tight with one red accent. Show a coral thread becoming the polo and four pastel variant"
+ },
+ "pricing-checkout": {
+  "url": "https://higgsfield.ai/pricing",
+  "title": "Pricing plans — Higgsfield AI Video & Image Generator",
+  "needsLogin": false,
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "type": "range",
+    "name": null,
+    "placeholder": "",
+    "ariaLabel": "Videos per month",
+    "role": null
+   },
+   {
+    "tag": "INPUT",
+    "type": "range",
+    "name": null,
+    "placeholder": "",
+    "ariaLabel": "Photos per month",
+    "role": null
+   }
+  ],
+  "buttons": [
+   {
+    "text": "",
+    "ariaLabel": "Change language",
+    "disabled": false,
+    "cls": "hfnav-language hfnav-desktop-only q-drop"
+   },
+   {
+    "text": "Login",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-login hfnav-deskto"
+   },
+   {
+    "text": "Sign up",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "hfnav-auth hfnav-auth-signup"
+   },
+   {
+    "text": "",
+    "ariaLabel": "Sign up and get your discount",
+    "disabled": false,
+    "cls": "absolute inset-0 z-20 rounded-[inherit] "
+   },
+   {
+    "text": "Individual plans",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative z-10 flex min-h-8 items-center "
+   },
+   {
+    "text": "Business plans30-day unlimited Seedance 2.5",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative z-10 flex min-h-8 items-center "
+   },
+   {
+    "text": "Not sure which plan?",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "pricing-fbp-pressable flex h-10 min-w-10"
+   },
+   {
+    "text": "MonthlyAnnual30% OFF",
+    "ariaLabel": "Toggle billing period",
+    "disabled": false,
+    "cls": "pricing-fbp-pressable flex h-10 items-ce"
+   },
+   {
+    "text": "Get Starter",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative w-full cursor-pointer overflow-"
+   },
+   {
+    "text": "Learn more",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "shrink-0 cursor-help rounded text-xs fon"
+   },
+   {
+    "text": "Learn more",
+    "ariaLabel": "Learn more",
+    "disabled": false,
+    "cls": "shrink-0 cursor-help rounded text-xs fon"
+   },
+   {
+    "text": "3 unlimited & free generation models",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex w-full cursor-pointer items-center "
+   },
+   {
+    "text": "Parallel generations: up to 2 Videos, 4 Image",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Access to selected models only & features",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "~ 67 Seedance 2.5 videos",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Get Plus",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative w-full cursor-pointer overflow-"
+   },
+   {
+    "text": "Learn more",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "shrink-0 cursor-help rounded text-xs fon"
+   },
+   {
+    "text": "Learn more",
+    "ariaLabel": "Learn more",
+    "disabled": false,
+    "cls": "shrink-0 cursor-help rounded text-xs fon"
+   },
+   {
+    "text": "Nano Banana Pro",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Seedream 5.0 Pro",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "GPT Image 2.5",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Seedance 2.5",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "6 unlimited & free generation models",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex w-full cursor-pointer items-center "
+   },
+   {
+    "text": "Unlimited paid parallel generations",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Access to all Seedance models",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Access to all models & features",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Early access to advanced AI features",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "~ 200 Seedance 2.5 videos",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "3,000",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex cursor-pointer items-center gap-1 t"
+   },
+   {
+    "text": "6,000",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex cursor-pointer items-center gap-1 t"
+   },
+   {
+    "text": "9,000",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex cursor-pointer items-center gap-1 t"
+   },
+   {
+    "text": "Get Ultra",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "relative w-full cursor-pointer overflow-"
+   },
+   {
+    "text": "Learn more",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "shrink-0 cursor-help rounded text-xs fon"
+   },
+   {
+    "text": "Learn more",
+    "ariaLabel": "Learn more",
+    "disabled": false,
+    "cls": "shrink-0 cursor-help rounded text-xs fon"
+   },
+   {
+    "text": "Nano Banana Pro",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Seedream 5.0 Pro",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "GPT Image 2.5",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Seedance 2.5",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "6 unlimited & free generation models",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "flex w-full cursor-pointer items-center "
+   },
+   {
+    "text": "Unlimited paid parallel generations",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Access to all Seedance models",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Access to all models & features",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Early access to advanced AI features",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "inline cursor-help text-left"
+   },
+   {
+    "text": "Explore Plans",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "q-button q-button-secondary q-button-sm "
+   },
+   {
+    "text": "Learn more",
+    "ariaLabel": null,
+    "disabled": false,
+    "cls": "text-xs font-medium leading-4 text-white"
+   }
+  ],
+  "tabs": [
+   "Individual plans",
+   "Business plans30-day unlimited"
+  ],
+  "headings": [
+   "Seedance 2.5, GPT Image 2.5 & Seedream 5.0 Pro UnlimitedSign up and ge",
+   "Free generations",
+   "Free generations",
+   "Free generations",
+   "For teams",
+   "Get 30-day Unlimited Seedance 2.5",
+   "Find the best plan for you",
+   "What are you here to make?",
+   "How many content items per month?",
+   "Features & capabilities",
+   "Compare features",
+   "Video"
+  ],
+  "forms": [],
+  "ctas": [
+   {
+    "text": "Cinema Studio",
+    "href": "/generate"
+   },
+   {
+    "text": "Pricing30% OFF",
+    "href": "/pricing"
+   }
+  ],
+  "bodyText": "Explore\nImage\nVideo\nAudio\nMCP\nAPI\nGenjutsu\nNew\nContent Factory\nNew\nPlayable\nNew\nAI Influencer\nAcademy\nNew\nKatana\nChatGPT Plugin\nAds Studio\nEffects\nCinema Studio\nContests\nContests\nMarketing Studio\nSupercomputer\nEdit\nCommunity\nPlugins\nCanvas\nOriginals\nPricing\n30% OFF\nEnterprise\nLogin\nSign up\nEXTRA DISCOUNT\nSEEDANCE 2.5, GPT IMAGE 2.5 & SEEDREAM 5.0 PRO UNLIMITED\nSIGN UP AND GET YOUR ADDITIONAL DISCOUNT\nGet Seedance 2.5, GPT Image 2.5 & Seedream 5.0 Pro Unlimited on Ultra plan for 7 days with Special 30% discount\nIndividual plans\nBusiness plans\n30-DAY UNLIMITED SEEDANCE 2.5\nNot sure which plan?\nMonthly\nAnnual\n30% OFF\nSTARTER\nFor first-time AI creators\n credits/mo.\n= 100 Nano Banana Pro Generations\n~ 11 Seedance 2.0 Fast videos\nFixed amount of 200 credits/mo\n$15\nper month, billed annually\nGet Starter\nNo difference compared to monthly\nFREE GENERATIONS\nLearn more\nGenjutsu Lite\n1080p\n5 free gens\nHiggsfield AI Influencer\n10 free gens\nHiggsfield Genjutsu\nNo free gens\nUNLIMITED & FREE GENS\nLearn more\nNano Banana Pro\nNo unlimited\nSeedream 5.0 Pro\nNo unlimited\nGPT Image 2.5\nNo unlimited\nSeedance 2.5\nNo unlimited\n3 unlimited & free generation models\nParallel generations: up to 2 Videos, 4 Images\nAccess to Seedance 2.0 Fast & 2.0 Mini\nAccess to selected models only & features\nEarly access to advanced AI features\nAccess to unlimited marketplace\nLowest cost per credit\nPLUS\n20% OFF\nFor everyday AI creation\n credits/mo.\n= 500 Nano Banana Pro Generations\n~ 67 Seedance 2.5 videos\nFixed amount of 1,000 credits/mo\n$49\n$39\nper month, billed annually\nGet Plus\nSave $120 compared to monthly\nFREE GENERATIONS\nLearn more\nGenjutsu Lite\n1080p\n5 free gens\nHiggsfield AI Influencer\n30 free gens\nHiggsfield Genjutsu\n720p\n3 free gens\nUNLIMITED & FREE GENS\nLearn more\nNano Banana Pro\n2K\n7-day unlimited\nSeedr"
+ }
+}

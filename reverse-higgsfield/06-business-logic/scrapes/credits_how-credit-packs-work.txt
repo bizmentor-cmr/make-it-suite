@@ -1,0 +1,226 @@
+- - - - - - - - - - - - - - - How Do Credit Packs Work on Higgsfield?- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Higgsfield- Explore
+- Image
+- Video
+- Audio
+- MCP
+- API
+-
+- GenjutsuNew
+- Content FactoryNew
+- PlayableNew
+- AI Influencer
+- AcademyNew
+- Katana
+- ChatGPT Plugin
+- Ads Studio
+- Effects
+- Cinema Studio
+- ContestsContests
+- Marketing Studio
+- Supercomputer
+- Edit
+- Community
+- Plugins
+- Canvas
+- Originals
+- - Creator Hub
+Creator HubHelp centerBlogChangelogCustomer StoriesSearch Creator HubOn this page
+- What sizes are available?
+- How do I buy a Credit Pack?
+- Does buying a Credit Pack change my plan?
+- In what order are Credit Pack credits spent?
+- Do Credit Pack credits expire, and what happens if I cancel?
+- Can I get a refund for a Credit Pack?
+- Help center
+- /
+- Credits
+- /
+- How do Credit Packs work?
+BackCopy page
+How do Credit Packs work?
+Copy page
+HiggsfieldAug 3, 20262 min
+A Credit Pack is a one-time purchase of extra credits on top of your subscription: a fixed or custom amount you buy once to keep generating after your monthly credits run out. It doesn't change your plan, doesn't unlock new features or models, and doesn't renew automatically. Credit Pack credits are valid for 90 days from purchase and stay available even if you cancel your subscription.
+What sizes are available?
+What sizes are available?Pack type
+| Range
+|
+Fixed
+| 100, 200, 500, 1,000, 2,000, 4,000 credits
+|
+Adjustable
+| 5,000 to 25,000 credits, in 1,000-credit increments
+|
+Current prices and any active discounts are shown at checkout.
+How do I buy a Credit Pack?
+- Select Buy Credits in the top navigation, or open your account menu and select Top-up credits.
+- Open the Top-up Credits tab.
+- Choose a fixed or adjustable pack size and complete checkout.
+Does buying a Credit Pack change my plan?
+No. A Credit Pack only adds credits. It doesn't upgrade your plan, doesn't add new models or features, and doesn't affect your renewal date or subscription price.
+In what order are Credit Pack credits spent?
+Subscription credits are always used first. Once your subscription balance reaches zero, the system automatically switches to your other credits by expiration date: whichever balance expires soonest (Credit Pack, promo, or Auto-Refill) is spent first. This way you never lose the benefit of your monthly allowance, and credits with a shorter validity don't go to waste.
+Do Credit Pack credits expire, and what happens if I cancel?
+Credit Pack credits are valid for 90 days from purchase. If you cancel your subscription, the credits aren't lost: they stay available on the free plan, and you can spend them on the models the free plan includes. The 90-day timer keeps running as usual, so if it ends before you spend the balance, those credits expire. See Do my top-up credits expire, and what happens if I cancel?
+Can I get a refund for a Credit Pack?
+Yes, if the credits from that pack haven't been spent and the request is made within 7 days of the purchase or as permitted by the law in your jurisdiction. See How do I request a refund?
+Got any questions left?
+Do Credit Packs auto-renew?No. Each Credit Pack is a one-time purchase. It doesn't renew or repeat automatically.
+Can I buy a Credit Pack without an active subscription?No. An active subscription is required to purchase a Credit Pack. If you cancel later, the credits you already bought stay available on the free plan. See Do my top-up credits expire, and what happens if I cancel?
+Can I buy more than one Credit Pack at a time?Yes. Multiple packs can be purchased, and their credits are combined into your balance.
+Does a Credit Pack unlock Unlimited access to any model?No. A Credit Pack only adds credits. Unlimited model access is a separate purchase. See What are Unlimited models and which plans include them?
+Will buying a Credit Pack change my renewal date or subscription price?No. Credit Packs are independent of your subscription billing cycle and price.
+Share Feedback
+Was this article helpful?
+YesNo
+by Higgsfield
+Share Feedback
+Was this article helpful?
+YesNo
+How Does Auto-Refill Work?How does Concurrency Boost work?
+AI-native creative suite
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+535 Mission St, 14th floor, San Francisco, CA, 94105
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+© 2026 Higgsfield, Inc. All rights reserved.
+-
+- Help center
+- Cookie Notice
+- Terms
+- Privacy
+- Report a vulnerability

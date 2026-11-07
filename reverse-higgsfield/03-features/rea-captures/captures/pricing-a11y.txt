@@ -1,0 +1,780 @@
+- document:
+  - dialog "cookieconsent":
+    - paragraph:
+      - text: We use cookies and similar technologies to run Higgsfield and understand how you use it. Product analytics helps us improve Higgsfield, may be linked to your account, and stays on when you decline advertising. With your permission, we and third-party providers use device and activity information to measure the effectiveness of our advertising and improve our campaigns. Manage your choices in Cookie Preferences. See our
+      - link "Cookie Notice":
+        - /url: https://higgsfield.ai/cookie-notice
+    - link "Cookie Notice visit this link to learn more about cookies. Opens in new window":
+      - /url: https://higgsfield.ai/cookie-notice
+      - text: Cookie Notice
+    - button "Accept All Cookies"
+    - button "Reject Advertising Cookies"
+    - button "Cookie Preferences"
+  - banner:
+    - link "Higgsfield":
+      - /url: /
+      - img "Higgsfield"
+    - navigation "Main":
+      - list:
+        - listitem:
+          - link "Explore":
+            - /url: /
+        - listitem:
+          - link "Image":
+            - /url: /ai/image?model=gpt_image_2
+        - listitem:
+          - link "Video":
+            - /url: /ai/video
+        - listitem:
+          - link "Audio":
+            - /url: /audio
+        - listitem:
+          - link "MCP":
+            - /url: /mcp
+        - listitem:
+          - link "API":
+            - /url: https://console.higgsfield.ai
+        - separator
+        - listitem:
+          - link "Genjutsu New":
+            - /url: /ai/video?model=genjutsu
+        - listitem:
+          - link "Content Factory New":
+            - /url: /content-factory
+        - listitem:
+          - link "Playable New":
+            - /url: /playable
+        - listitem:
+          - link "AI Influencer":
+            - /url: /ai-influencer-studio
+        - listitem:
+          - link "Academy New":
+            - /url: /academy
+        - listitem:
+          - link "Katana":
+            - /url: /katana
+        - listitem:
+          - link "ChatGPT Plugin":
+            - /url: /mcp?tab=chatgpt
+        - listitem:
+          - link "Ads Studio":
+            - /url: /ads-studio
+        - listitem:
+          - link "Effects":
+            - /url: /effects/use
+        - listitem:
+          - link "Cinema Studio":
+            - /url: /generate
+        - listitem:
+          - link "Contests":
+            - /url: /community/contests
+        - listitem:
+          - link "Marketing Studio":
+            - /url: /marketing-studio
+        - listitem:
+          - link "Supercomputer":
+            - /url: /supercomputer
+        - listitem:
+          - link "Edit":
+            - /url: /layers
+        - listitem:
+          - link "Community":
+            - /url: /community
+        - listitem:
+          - link "Plugins":
+            - /url: /plugins/after-effects
+        - listitem:
+          - link "Canvas":
+            - /url: /canvas
+        - listitem:
+          - link "Originals":
+            - /url: /original-series
+    - link "Pricing 30% OFF":
+      - /url: /pricing
+    - link "Enterprise":
+      - /url: https://higgsfield.ai/enterprise
+      - img
+      - text: Enterprise
+    - button "Change language"
+    - button "Login"
+    - button "Sign up"
+  - main:
+    - text: Extra discount
+    - heading "Seedance 2.5, GPT Image 2.5 & Seedream 5.0 Pro Unlimited Sign up and get your additional discount" [level=2]
+    - paragraph: Get Seedance 2.5, GPT Image 2.5 & Seedream 5.0 Pro Unlimited on Ultra plan for 7 days with Special 30% discount
+    - button "Sign up and get your discount"
+    - tablist "Pricing audience":
+      - tab "Individual plans" [selected]
+      - tab "Business plans 30-day unlimited Seedance 2.5"
+    - button "Not sure which plan?"
+    - switch "Toggle billing period" [checked]: Monthly Annual
+    - text: Starter
+    - paragraph: For first-time AI creators
+    - img
+    - text: 2 0 0 credits/mo. = 100 Nano Banana Pro Generations ~ 11 Seedance 2.0 Fast videos
+    - img
+    - text: Fixed amount of 200 credits/mo $15 per month, billed annually
+    - button "Get Starter"
+    - text: No difference compared to monthly
+    - heading "Free generations" [level=3]:
+      - img
+      - text: Free generations
+    - button "Learn more"
+    - list:
+      - listitem:
+        - img
+        - text: Genjutsu Lite 1080p 5 free gens
+      - listitem:
+        - img
+        - text: Higgsfield AI Influencer 10 free gens
+      - listitem:
+        - img
+        - text: Higgsfield Genjutsu No free gens
+    - img
+    - text: Unlimited & free gens
+    - button "Learn more"
+    - img
+    - text: Nano Banana Pro No unlimited
+    - img
+    - text: Seedream 5.0 Pro No unlimited
+    - img
+    - text: GPT Image 2.5 No unlimited
+    - img
+    - text: Seedance 2.5 No unlimited
+    - button "3 unlimited & free generation models":
+      - img
+      - text: 3 unlimited & free generation models
+      - img
+    - img
+    - 'button "Parallel generations: up to 2 Videos, 4 Images"'
+    - img
+    - text: Access to Seedance 2.0 Fast & 2.0 Mini
+    - img
+    - button "Access to selected models only & features"
+    - img
+    - text: Early access to advanced AI features
+    - img
+    - text: Access to unlimited marketplace
+    - img
+    - text: Lowest cost per credit Plus 20% OFF
+    - paragraph: For everyday AI creation
+    - img
+    - text: 1 , 0 0 0 credits/mo. = 500 Nano Banana Pro Generations
+    - button "~ 67 Seedance 2.5 videos"
+    - img
+    - text: Fixed amount of 1,000 credits/mo $49 $39 per month, billed annually
+    - button "Get Plus"
+    - text: Save $120 compared to monthly
+    - heading "Free generations" [level=3]:
+      - img
+      - text: Free generations
+    - button "Learn more"
+    - list:
+      - listitem:
+        - img
+        - text: Genjutsu Lite 1080p 5 free gens
+      - listitem:
+        - img
+        - text: Higgsfield AI Influencer 30 free gens
+      - listitem:
+        - img
+        - text: Higgsfield Genjutsu 720p 3 free gens
+    - img
+    - text: Unlimited & free gens
+    - button "Learn more"
+    - img
+    - button "Nano Banana Pro"
+    - text: 2K 7-day unlimited
+    - img
+    - button "Seedream 5.0 Pro"
+    - text: 2K 7-day unlimited
+    - img
+    - button "GPT Image 2.5"
+    - text: 2K 7-day unlimited
+    - img
+    - button "Seedance 2.5"
+    - text: 720p 7-day unlimited
+    - button "6 unlimited & free generation models":
+      - img
+      - text: 6 unlimited & free generation models
+      - img
+    - img
+    - button "Unlimited paid parallel generations"
+    - text: New
+    - img
+    - button "Access to all Seedance models"
+    - img
+    - button "Access to all models & features"
+    - img
+    - button "Early access to advanced AI features"
+    - img
+    - text: Access to unlimited marketplace
+    - img
+    - text: Lowest cost per credit Ultra 23% OFF
+    - img
+    - text: Best value
+    - paragraph: For ambitious AI projects
+    - img
+    - text: 3 , 0 0 0 credits/mo. = 1500 Nano Banana Pro Generations
+    - button "~ 200 Seedance 2.5 videos"
+    - button "3,000"
+    - button "6,000"
+    - button "9,000"
+    - text: $129 $99 per month, billed annually
+    - button "Get Ultra"
+    - text: Save $360 compared to monthly
+    - heading "Free generations" [level=3]:
+      - img
+      - text: Free generations
+    - button "Learn more"
+    - list:
+      - listitem:
+        - img
+        - text: Genjutsu Lite 1080p 5 free gens
+      - listitem:
+        - img
+        - text: Higgsfield AI Influencer 30 free gens
+      - listitem:
+        - img
+        - text: Higgsfield Genjutsu 720p 3 free gens
+    - img
+    - text: Unlimited & free gens
+    - button "Learn more"
+    - img
+    - button "Nano Banana Pro"
+    - text: 2K 7-day unlimited
+    - img
+    - button "Seedream 5.0 Pro"
+    - text: 2K 7-day unlimited
+    - img
+    - button "GPT Image 2.5"
+    - text: 2K 7-day unlimited
+    - img
+    - button "Seedance 2.5"
+    - text: 1080p 7-day unlimited
+    - button "6 unlimited & free generation models":
+      - img
+      - text: 6 unlimited & free generation models
+      - img
+    - img
+    - button "Unlimited paid parallel generations"
+    - text: New
+    - img
+    - button "Access to all Seedance models"
+    - img
+    - button "Access to all models & features"
+    - img
+    - button "Early access to advanced AI features"
+    - img
+    - text: Access to unlimited marketplace
+    - img
+    - text: Lowest cost per credit 60% cheaper
+    - article:
+      - heading "For teams" [level=3]
+      - text: Up to 30% OFF
+      - paragraph: For agencies and small teams to create faster
+      - text: Shared workspaces & credits
+      - paragraph: = 2–15 seats per workspace
+      - paragraph: = Up to 37,500 credits/mo pooled
+      - text: Starting from 1,000 credits/seat/mo
+      - strong: From $65
+      - text: per seat/month
+      - button "Explore Plans"
+      - paragraph: Save up to 30% with annual billing
+      - paragraph: 30-day unlimited Seedance 2.5
+      - paragraph: Available on business plans only
+      - text: Unlimited models
+      - button "Learn more"
+      - img
+      - button "Nano Banana Pro"
+      - text: 2K 7-day unlimited
+      - img
+      - button "Seedream 5.0 Pro"
+      - text: 2K 7-day unlimited
+      - img
+      - text: Kling 3.0 No unlimited
+      - list:
+        - listitem: Access to all features & models
+        - listitem: Dedicated capacity (SLA)
+        - listitem: Shared workspace & credit pool
+        - listitem: Early access to advanced AI features
+        - listitem: Detailed analytics & priority support
+        - listitem: Admin spend control
+        - listitem: Priority queue for faster task processing
+        - listitem: Custom SSO
+        - listitem: Delegated top-up access
+    - text: Unlimited models and Free Generations on plans are accessible only via higgsfield.ai and are not accessible on MCP/CLI, Canvas or Supercomputer. Prices exclude VAT and local taxes, calculated at checkout. Unlimited usage may be subject to dynamic speed adjustments during high-traffic periods. Learn more Access to new models and advanced features may be done on a rolling basis and not available to all users at launch.
+    - navigation "Pricing help":
+      - link "How do Higgsfield plans work?":
+        - /url: /creator-hub/help-center/plans-and-subscriptions/how-do-higgsfield-plans-work
+        - text: How do Higgsfield plans work?
+        - img
+      - link "What are Unlimited models?":
+        - /url: /creator-hub/help-center/credits/what-are-unlimited-models-and-which-plans-include-them
+        - text: What are Unlimited models?
+        - img
+    - heading "Get 30-day Unlimited Seedance 2.5" [level=2]
+    - paragraph: Unlimited Seedance 2.5 or Seedance 2.0 on Scale & Team plans with up to 30% OFF
+    - button "Get business plans"
+    - heading "Find the best plan for you" [level=2]
+    - paragraph: Choose what you want to create and get what you need
+    - text: "1"
+    - heading "What are you here to make?" [level=3]
+    - paragraph: Multiple options can be selected
+    - button "Social media videos" [pressed]
+    - button "Talking-avatar videos"
+    - button "UGC & product video ads"
+    - button "Marketing product photos"
+    - button "Cinematic videos"
+    - button "Personal use":
+      - img
+      - text: Personal use
+    - text: "2"
+    - heading "How many content items per month?" [level=3]
+    - button "How many content items per month? info":
+      - img
+    - paragraph: ≈ 14 credits each · per Kling 3.0 generation, 8s, 720p = 2 credits each · per Nano Banana Pro generation
+    - slider "Videos per month": "50"
+    - paragraph: ~50 Kling 3.0 videos 700 credits
+    - text: 200+
+    - slider "Photos per month": "60"
+    - paragraph: ~60 Nano Banana Pro images 120 credits
+    - text: 500+ 3
+    - heading "Features & capabilities" [level=3]
+    - paragraph: Add anything else you'll need
+    - button "Add features"
+    - text: 3 AI image generation
+    - button "Remove AI image generation"
+    - text: AI video generation
+    - button "Remove AI video generation"
+    - text: Starter MCP & Supercomputer
+    - button "Remove MCP & Supercomputer"
+    - paragraph: We recommend Plus plan
+    - button "See why":
+      - text: See why
+      - img
+    - text: Plus 20% OFF
+    - paragraph: For consistent and easy AI content creation
+    - img
+    - text: 1,000 credits/mo Fixed amount of 1,000 credits/mo Expected monthly usage 820/1,000 credits
+    - img
+    - text: 7-day Unlimited Seedance 2.5 & GPT Image 2.5
+    - img
+    - text: 5,000 FREE Soul 2.0 generations
+    - img
+    - text: Access to every model, all features & 4K quality $49 $39 /month, billed annually
+    - button "Get Plus"
+    - text: Save $120 compared to monthly
+    - switch "Toggle premium quality":
+      - text: Premium quality
+      - img "Quality details"
+    - switch "Toggle billing period" [checked]: Monthly Annual 30% OFF
+    - heading "Compare features" [level=2]
+    - paragraph: See in details what plan suits you best
+    - text: Annual 30% OFF
+    - switch [checked]
+    - heading "Free" [level=4]
+    - paragraph: Free
+    - paragraph: Limited use
+    - heading "Starter" [level=4]
+    - paragraph: $15/month
+    - paragraph: Billed annually
+    - button "Get Plan"
+    - heading "Plus" [level=4]
+    - paragraph: $39/month
+    - paragraph: Billed annually
+    - button "Get Plan"
+    - heading "Ultra" [level=4]
+    - img
+    - text: Best value
+    - paragraph: $99/month
+    - paragraph: Billed annually
+    - button "Get Plan"
+    - heading "Video" [level=3]
+    - text: Concurrent Jobs Seedance 2.0 720p ~22 credits/5s Seedance 2.0 1080p ~60 credits/5s Seedance 2.0 4K ~110 credits/5s Seedance 2.0 Fast 720p ~12 credits/5s Kling 3.0 720p ~7 credits/5s Kling 3.0 1080p ~8 credits/5s Kling 3.0 4K ~30 credits/5s Kling Omni 3 Image Reference 720p ~5 credits/5s Kling Omni 3 Image Reference 1080p ~7 credits/5s Kling Omni 3 FLF 720p ~5 credits/5s Kling Omni 3 FLF 1080p ~6 credits/5s Grok Video ~7 credits/5s Grok Video Edit ~10 credits/5s Kling 2.6 Motion Control 720p ~5 credits/5s Kling 2.6 Motion Control 1080p ~7 credits/5s Kling 3.0 Motion Control 720p ~7 credits/5s Kling 3.0 Motion Control 1080p ~12 credits/5s Kling Omni 1 720p ~7 credits/5s Kling Omni 1 1080p ~10 credits/5s Kling 2.6 with sound ~10 credits/5s Kling 2.6 without sound ~5 credits/5s Wan 2.6 480p ~5 credits/5s Wan 2.6 720p ~7 credits/5s Wan 2.6 1080p ~10 credits/5s Wan 3.0 480p 5 credits/5s Wan 3.0 720p 8.75 credits/5s Wan 3.0 1080p 17.5 credits/5s Wan 3.0 Prime 480p 7.5 credits/5s Wan 3.0 Prime 720p 15 credits/5s Wan 3.0 Prime 1080p 30 credits/5s Seedance 1.5 480p ~1 credits/5s Seedance 1.5 720p ~3 credits/5s Seedance 1.5 1080p ~7 credits/5s Higgsfield DoP Lite 720p ~3 credits/3s Higgsfield DoP Standard 720p ~7 credits/3s Higgsfield DoP Turbo 720p ~5 credits/3s Google Veo 3.1 Fast 720p ~16 credits/4s Google Veo 3.1 Fast 1080p ~16 credits/4s Google Veo 3.1 720p ~40 credits/4s Google Veo 3.1 1080p ~40 credits/4s Google Veo 3 Fast 720p ~22 credits/8s Google Veo 3 720p ~58 credits/8s Kling 2.5 Turbo 720p ~4 credits/5s Kling 2.5 Turbo 1080p ~6 credits/5s Kling 2.1 720p ~5 credits/5s Kling 2.1 1080p ~10 credits/5s Kling 2.1 Master 1080p ~25 credits/5s Wan 2.2 Fast 720p ~5 credits/5s Wan 2.2 720p ~7 credits/5s Wan 2.5 Fast 720p ~9 credits/5s Wan 2.5 Fast 1080p ~13 credits/5s Wan 2.5 480p ~5 credits/5s Wan 2.5 720p ~7 credits/5s Wan 2.5 1080p ~10 credits/5s Minimax Hailuo 2.3 Fast 768p ~4 credits/6s Minimax Hailuo 2.3 Fast 1080p ~7 credits/6s Minimax Hailuo 2.3 768p ~6 credits/6s Minimax Hailuo 2.3 1080p ~10 credits/6s Minimax Hailuo 02 Fast 512p ~3 credits/6s Minimax Hailuo 02 768p ~6 credits/6s Minimax Hailuo 02 1080p ~10 credits/6s Seedance Pro Fast 720p ~4 credits/5s Seedance Pro Fast 1080p ~9 credits/5s Seedance Pro 480p ~4 credits/5s Seedance Pro 720p ~8 credits/5s Seedance Pro 1080p ~18 credits/5s
+    - button "View More"
+    - heading "Image" [level=3]
+    - text: Concurrent Jobs Nano Banana Pro 2 credit/image Nano Banana Pro 4K 4 credits/image Nano Banana 2 2 credit/image Higgsfield Soul 2.0 0.12 credits/image Higgsfield Soul 0.25 credits/image Soul Inpaint 0.25 credits/image Product Placement 0.25 credits/image Higgsfield Popcorn 1.5 credits/image Higgsfield Face Swap ~2 credits/image Higgsfield Character Swap ~2 credits/image Reve 0.25 credit/image Nano Banana 1 credit/image Banana Placement 1 credit/image Seedream 1 credit/image Wan 2.2 0.5 credits/image Flux Kontext 1.5 credits/image Multi Reference 1.5 credits/image GPT Image 1 credit/image FLUX.2 Pro 1 credits/image FLUX.2 Flex 3 credits/image FLUX.2 Max 4 credits/image
+    - button "View More"
+    - text: 1 concurrent job 2 concurrent jobs 6 concurrent jobs 8 concurrent jobs
+    - img
+    - text: Not included
+    - img
+    - text: Not included 533 videos 1600 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 200 videos 600 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 109 videos 327 videos
+    - img
+    - text: Not included 192 videos 960 videos 2880 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 1371 videos 4114 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 400 videos 1200 videos
+    - img
+    - text: Not included 480 videos 2400 videos 7200 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos
+    - img
+    - text: Not included 480 videos 2400 videos 7200 videos
+    - img
+    - text: Not included 384 videos 1920 videos 5760 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos
+    - img
+    - text: Not included 240 videos 1200 videos 3600 videos
+    - img
+    - text: Not included 480 videos 2400 videos 7200 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 1600 videos 4800 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 960 videos 2880 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos
+    - img
+    - text: Not included 240 videos 1200 videos 3600 videos
+    - img
+    - text: Not included 240 videos 1200 videos 3600 videos
+    - img
+    - text: Not included 480 videos 2400 videos 7200 videos
+    - img
+    - text: Not included 480 videos 2400 videos 7200 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos
+    - img
+    - text: Not included 240 videos 1200 videos 3600 videos
+    - img
+    - text: Not included 480 videos 2400 videos 7200 videos
+    - img
+    - text: Not included 274 videos 1371 videos 4114 videos
+    - img
+    - text: Not included 137 videos 685 videos 2057 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos
+    - img
+    - text: Not included 160 videos 800 videos 2400 videos
+    - img
+    - text: Not included 80 videos 400 videos 1200 videos
+    - img
+    - text: Not included 1600 videos 8000 videos 24000 videos
+    - img
+    - text: Not included 800 videos 4000 videos 12000 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos 0 videos 800 videos 4000 videos 12000 videos
+    - img
+    - text: Not included 342 videos 1714 videos 5142 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 2400 videos 7200 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 750 videos 2250 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 750 videos 2250 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 300 videos 900 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 300 videos 900 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 545 videos 1636 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 206 videos 620 videos 0 videos 600 videos 3000 videos 9000 videos
+    - img
+    - text: Not included 400 videos 2000 videos 6000 videos 0 videos 480 videos 2400 videos 7200 videos 0 videos 240 videos 1200 videos 3600 videos
+    - img
+    - text: Not included 96 videos 480 videos 1440 videos 0 videos 480 videos 2400 videos 7200 videos
+    - img
+    - text: Not included 342 videos 1714 videos 5142 videos 0 videos 266 videos 1333 videos 4000 videos
+    - img
+    - text: Not included 184 videos 923 videos 2769 videos
+    - img
+    - text: Not included 480 videos 2400 videos 7200 videos
+    - img
+    - text: Not included 320 videos 1600 videos 4800 videos
+    - img
+    - text: Not included 240 videos 1200 videos 3600 videos 0 videos 600 videos 3000 videos 9000 videos 0 videos 342 videos 1714 videos 5142 videos 0 videos 400 videos 2000 videos 6000 videos
+    - img
+    - text: Not included 240 videos 1200 videos 3600 videos 0 videos 800 videos 4000 videos 12000 videos 0 videos 400 videos 2000 videos 6000 videos
+    - img
+    - text: Not included 240 videos 1200 videos 3600 videos 0 videos 600 videos 3000 videos 9000 videos
+    - img
+    - text: Not included 266 videos 1333 videos 4000 videos 0 videos 600 videos 3000 videos 9000 videos
+    - img
+    - text: Not included 300 videos 1500 videos 4500 videos
+    - img
+    - text: Not included 133 videos 666 videos 2000 videos 1 concurrent job 4 concurrent jobs 8 concurrent jobs 8 concurrent jobs
+    - img
+    - text: Included 1200 images 6000 images 18000 images
+    - img
+    - text: Not included
+    - img
+    - text: Not included 3000 images 9000 images
+    - img
+    - text: Not included 1200 images 6000 images 18000 images
+    - img
+    - text: Not included 20000 images 100000 images 300000 images
+    - img
+    - text: Not included 9600 images 48000 images 144000 images
+    - img
+    - text: Not included
+    - img
+    - text: Not included 48000 images 144000 images
+    - img
+    - text: Not included
+    - img
+    - text: Not included 48000 images 144000 images
+    - img
+    - text: Not included 1600 images 8000 images 24000 images
+    - img
+    - text: Not included 1200 images 6000 images 18000 images
+    - img
+    - text: Not included 1200 images 6000 images 18000 images
+    - img
+    - text: Not included 9600 images 48000 images 144000 images
+    - img
+    - text: Not included 2400 images 12000 images 36000 images
+    - img
+    - text: Not included 2400 images 12000 images 36000 images
+    - img
+    - text: Not included 2400 images 12000 images 36000 images
+    - img
+    - text: Not included 4800 images 24000 images 72000 images
+    - img
+    - text: Not included 1600 images 8000 images 24000 images
+    - img
+    - text: Not included 1600 images 8000 images 24000 images
+    - img
+    - text: Not included 2400 images 12000 images 36000 images
+    - img
+    - text: Included 2400 images 12000 images 36000 images
+    - img
+    - text: Not included 800 images 4000 images 12000 images
+    - img
+    - text: Not included
+    - img
+    - text: Not included 3000 images 9000 images
+    - button "Lipsync Studio":
+      - img
+      - text: Lipsync Studio
+    - text: Concurrent Jobs Higgsfield Speak 2.0 720p ~14 credits/5s Google Veo 3 Fast w/audio 720p ~22 credits/8s Google Veo 3 w/audio 720p ~58 credits/8s Wan 2.5 Speak Fast 720p ~9 credits/5s Wan 2.5 Speak Fast 1080p ~12 credits/5s Wan 2.5 Speak 480p ~6 credits/5s Wan 2.5 Speak 720p ~12 credits/5s Wan 2.5 Speak 1080p ~20 credits/5s Kling Speak 720p ~2 credits/2s Kling Speak 1080p ~4 credits/2s Kling Lipsync 720p ~2 credits/5s Infinite Talk 480p ~18 credits/5s Infinite Talk 720p ~12 credits/2s Sync Lipsync 3 4K 30FPS ~18 credits/2s
+    - button "View More"
+    - text: 1 concurrent job 2 concurrent jobs 6 concurrent jobs 8 concurrent jobs
+    - img
+    - text: Not included
+    - img
+    - text: Not included 857 videos 2571 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 545 videos 1636 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 206 videos 620 videos
+    - img
+    - text: Not included 266 videos 1333 videos 4000 videos
+    - img
+    - text: Not included 192 videos 960 videos 2880 videos
+    - img
+    - text: Not included 384 videos 1920 videos 5760 videos
+    - img
+    - text: Not included 192 videos 960 videos 2880 videos
+    - img
+    - text: Not included 120 videos 600 videos 1800 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 6000 videos 18000 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 3000 videos 9000 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 4800 videos 14400 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 800 videos 2400 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 1000 videos 3000 videos
+    - img
+    - text: Not included
+    - img
+    - text: Not included 666 videos 2000 videos
+    - button "Character"
+    - text: Concurrent Jobs Max Generations Amount 1 concurrent jobs 1 concurrent jobs 3 concurrent jobs 3 concurrent jobs Up to 1 generation Up to 80 generations Up to 400 generations Up to 1200 generations
+    - button "Credits & Usage"
+    - text: Credits Credit discount 0 200 1000 3000
+    - img
+    - text: Not included
+    - img
+    - text: Not included
+    - img
+    - text: Not included
+    - img
+    - text: Not included
+    - button "Access & Features"
+    - text: Commercial use Fast-track generation Access to characters Start & End Frame control Higgsfield ads Higgsfield speak UGC builder Priority access to new models Priority access to new features
+    - button "View More"
+    - img
+    - text: Not included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Not included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Not included
+    - img
+    - text: Not included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Not included
+    - img
+    - text: Not included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Not included
+    - img
+    - text: Not included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Not included
+    - img
+    - text: Not included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - img
+    - text: Not included
+    - img
+    - text: Not included
+    - img
+    - text: Included
+    - img
+    - text: Included
+    - button "Compare Features"
+    - heading "Frequently Asked Questions" [level=4]
+    - group:
+      - text: How do credits work?
+      - img
+    - group:
+      - text: Is my subscription automatically renewed?
+      - img
+    - group:
+      - text: How many images or videos can I generate?
+      - img
+    - group:
+      - text: How can I purchase extra credits?
+      - img
+    - group:
+      - text: How does Unlimited work?
+      - img
+    - group:
+      - text: How does 365 Unlimited promo work?
+      - img
+    - group:
+      - text: Can I change my subscription after purchase?
+      - img
+    - group:
+      - text: How much does it cost to use Higgsfield Supercomputer?
+      - img
+    - paragraph: Are you ready?
+    - button "Choose your plan"
+  - contentinfo:
+    - navigation:
+      - paragraph: © 2026 Higgsfield, Inc. All rights reserved.
+      - list:
+        - listitem:
+          - button "Change language":
+            - img "English flag"
+            - text: English
+            - img
+        - listitem:
+          - link "Help center":
+            - /url: /creator-hub/help-center
+        - listitem:
+          - link "Cookie Notice":
+            - /url: /cookie-notice
+        - listitem:
+          - button "Cookie Settings"
+        - listitem:
+          - link "Terms":
+            - /url: /terms-of-use-agreement
+        - listitem:
+          - link "Privacy":
+            - /url: /privacy-policy
+        - listitem:
+          - link "Report a vulnerability":
+            - /url: https://bugcrowd.com/engagements/higgsfield-ai-vdp-pro
+  - region "Notifications Alt+T"
+  - region "Notifications alt+T"
+  - region "Notifications alt+T"
+  - region "Notifications"

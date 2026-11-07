@@ -1,0 +1,45 @@
+{
+  "url": "https://higgsfield.ai/auth/email/sign-in",
+  "title": "Sign in with Email • Higgsfield",
+  "inputs": [
+    {
+      "type": "text",
+      "name": "code",
+      "placeholder": "Code",
+      "maxLength": -1
+    },
+    {
+      "type": "submit",
+      "name": "",
+      "placeholder": "",
+      "maxLength": -1
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "BUTTON",
+      "text": "Seedance 4K"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Nano Banana Pro"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Higgsfield Soul"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cinematic App"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "← Back"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Resend in 54"
+    }
+  ],
+  "bodyText": "2K Quality\nPrompt Enhancer\nHIGGSFIELD SOUL\n\nCreate consistent characters across images and videos for storytelling\n\nSeedance 4K\nNano Banana Pro\nHiggsfield Soul\nCinematic App\nVerify your email\n\nA verification code has been sent to your email\n\nCode\n← Back\nResend in 54"
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://higgsfield.ai/auth/sign-in",
+  "title": "Log In to Your Account • Higgsfield",
+  "inputs": [
+    {
+      "type": "email",
+      "name": "email",
+      "id": "_r_0_",
+      "placeholder": "you@example.com",
+      "autocomplete": "email",
+      "visible": false
+    },
+    {
+      "type": "email",
+      "name": "email",
+      "id": "_r_1_",
+      "placeholder": "you@example.com",
+      "autocomplete": "email",
+      "visible": true
+    }
+  ],
+  "buttons": [
+    "Seedance 4K",
+    "Nano Banana Pro",
+    "Higgsfield Soul",
+    "Cinematic App",
+    "Continue with Google",
+    "Continue with Apple",
+    "Continue with Microsoft",
+    "Continue"
+  ],
+  "iframes": [],
+  "hasClerk": true
+}

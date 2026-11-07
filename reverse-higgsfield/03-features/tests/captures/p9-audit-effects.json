@@ -1,0 +1,69 @@
+{
+  "loadMs": 11532,
+  "url": "https://higgsfield.ai/effects/use",
+  "headings": [
+    "Floating fall",
+    "UPLOAD IMAGE"
+  ],
+  "prompts": [
+    {
+      "ph": "Describe your changes, e.g. add neon glow or change outfit to black suit",
+      "ce": false
+    }
+  ],
+  "selects": [],
+  "radios": [],
+  "tabs": [
+    "History",
+    "How it works"
+  ],
+  "costs": [],
+  "genBtns": [
+    "Generate84"
+  ],
+  "sliders": [],
+  "btns": [
+    {
+      "t": "Change",
+      "d": false
+    },
+    {
+      "t": "CharacterSelect a PNG or JPG from your device",
+      "d": false
+    },
+    {
+      "t": "OptionalLocationSelect a PNG or JPG from your",
+      "d": false
+    },
+    {
+      "t": "OptionalProductsSelect a PNG or JPG from your",
+      "d": false
+    },
+    {
+      "t": "Resolution720p",
+      "d": false
+    },
+    {
+      "t": "Aspect Ratio9:16",
+      "d": false
+    },
+    {
+      "t": "Try in ChatGPT",
+      "d": false
+    },
+    {
+      "t": "Generate84",
+      "d": false
+    },
+    {
+      "t": "History",
+      "d": false
+    },
+    {
+      "t": "How it works",
+      "d": false
+    }
+  ],
+  "creditTexts": [],
+  "bodyText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets Change FLOATING FALL Character Select a PNG or JPG from your device Optional Location Select a PNG or JPG from your device Optional Products Select a PNG or JPG from your device Toggle prompt Prompt Resolution 720p Aspect Ratio 9:16 Try in ChatGPT Generate 84 History How it works UPLOAD IMAGE Select a PNG or JPG from your device."
+}

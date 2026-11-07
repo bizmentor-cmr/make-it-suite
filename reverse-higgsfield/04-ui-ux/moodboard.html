@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0f1113; font-family: 'Inter', system-ui, sans-serif; color: #f7f7f8; padding: 40px; width: 1480px; }
+  h1 { font-size: 28px; font-weight: 700; margin-bottom: 6px; color: #f7f7f8; }
+  h1 span { color: #d1fe17; }
+  .sub { color: #898a8b; font-size: 13px; margin-bottom: 30px; }
+  h2 { font-size: 15px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: #a8a8a8; margin: 26px 0 12px; border-bottom: 1px solid rgba(255,255,255,.1); padding-bottom: 8px; }
+  .swatches { display: flex; flex-wrap: wrap; gap: 8px; }
+  .sw { width: 108px; border-radius: 10px; overflow: hidden; background: #1c1e21; border: 1px solid rgba(255,255,255,.08); }
+  .sw .c { height: 64px; }
+  .sw .l { padding: 7px 8px; font-size: 9.5px; line-height: 1.35; color: #cfcfcf; }
+  .sw .l b { display: block; color: #fff; font-size: 10px; font-weight: 600; }
+  .scale { display: flex; flex: 1; border-radius: 8px; overflow: hidden; height: 56px; margin-bottom: 4px; }
+  .scale div { flex: 1; display: flex; align-items: flex-end; justify-content: center; padding-bottom: 3px; font-size: 7.5px; color: rgba(255,255,255,.55); }
+  .scale-label { font-size: 10px; color: #898a8b; margin-bottom: 12px; }
+  .row { display: flex; gap: 12px; }
+  .type-demo { background: #1c1e21; border: 1px solid rgba(255,255,255,.08); border-radius: 12px; padding: 20px 24px; margin-bottom: 10px; }
+  .type-demo .label { font-size: 10px; color: #898a8b; margin-bottom: 6px; letter-spacing: .5px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .comp { background: #1c1e21; border: 1px solid rgba(255,255,255,.08); border-radius: 12px; padding: 22px; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+  .btn { display: inline-flex; align-items: center; justify-content: center; border-radius: 8px; font-weight: 500; font-size: 13px; padding: 0 16px; height: 36px; }
+  .btn-primary { background: #d1fe17; color: #1a1a1a; }
+  .btn-secondary { background: rgba(255,255,255,.05); color: #f7f7f8; border: 1px solid rgba(255,255,255,.1); }
+  .btn-ghost { background: transparent; color: #898a8b; }
+  .btn-outline { background: transparent; color: #d1fe17; border: 1px solid #d1fe17; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; height: 28px; padding: 0 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,.1); color: #cfcfcf; font-size: 12px; }
+  .chip.active { background: rgba(209,254,23,.15); border-color: rgba(209,254,23,.4); color: #d1fe17; }
+  .card { background: linear-gradient(180deg, #23262a, #1c1e21); border: 1px solid rgba(255,255,255,.08); border-radius: 12px; padding: 18px; width: 200px; }
+  .card .thumb { height: 90px; border-radius: 8px; background: linear-gradient(135deg, #383e46, #1c1e21); margin-bottom: 12px; position: relative; overflow: hidden; }
+  .card .thumb::after { content: ''; position: absolute; inset: 0; background: linear-gradient(130deg, rgba(255,255,255,.14), transparent 47%); }
+  .card .t { font-size: 12px; font-weight: 600; }
+  .card .m { font-size: 10px; color: #898a8b; margin-top: 3px; }
+  .badge { display: inline-flex; height: 18px; align-items: center; padding: 0 7px; border-radius: 5px; font-size: 9.5px; font-weight: 700; }
+  .badge-lime { background: #d1fe17; color: #1a1a1a; }
+  .badge-subtle { background: rgba(209,254,23,.15); color: #d1fe17; }
+  .badge-blue { background: #0256fe; color: #fff; }
+  .states { display: flex; gap: 8px; flex-wrap: wrap; }
+  .state { display: flex; align-items: center; gap: 7px; font-size: 11px; color: #cfcfcf; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; }
+  .motion { background: #1c1e21; border: 1px solid rgba(255,255,255,.08); border-radius: 12px; padding: 16px 18px; font-size: 11px; }
+  .motion b { color: #d1fe17; font-weight: 600; }
+  .motion .val { color: #898a8b; font-family: 'Space Mono', monospace; font-size: 10px; }
+  .shadows { display: flex; gap: 20px; }
+  .sh { width: 110px; height: 64px; border-radius: 12px; background: #23262a; }
+</style>
+</head>
+<body>
+  <h1>HIGGSFIELD <span>— Design System "QUANTA"</span></h1>
+  <div class="sub">Moodboard &amp; tokens reverse-engineérés · Phase 4 · Sources : CSS builds 01bd19df + computed styles live</div>
+
+  <h2>1 · Noyau de marque</h2>
+  <div class="swatches">
+    <div class="sw"><div class="c" style="background:#0f1113;border-bottom:1px solid #2a2d32"></div><div class="l"><b>Canvas</b>#0f1113 · cool-450</div></div>
+    <div class="sw"><div class="c" style="background:#d1fe17"></div><div class="l"><b>Brand Primary</b>#d1fe17 · lime-500</div></div>
+    <div class="sw"><div class="c" style="background:#f7f7f8"></div><div class="l"><b>Text Primary</b>#f7f7f8 · grey-050</div></div>
+    <div class="sw"><div class="c" style="background:#898a8b"></div><div class="l"><b>Text Secondary</b>#898a8b</div></div>
+    <div class="sw"><div class="c" style="background:#23262a"></div><div class="l"><b>Surface Strong</b>#23262a · cool-250</div></div>
+    <div class="sw"><div class="c" style="background:#1c1e21"></div><div class="l"><b>Surface</b>#1c1e21 · cool-300</div></div>
+    <div class="sw"><div class="c" style="background:#383e46"></div><div class="l"><b>Surface Elevated</b>#383e46 · cool-150</div></div>
+  </div>
+
+  <h2>2 · Échelle Lime (accent signature)</h2>
+  <div class="scale">
+    <div style="background:#111402">1200</div><div style="background:#1f2603">1100</div><div style="background:#344006">1000</div>
+    <div style="background:#4f6109">900</div><div style="background:#6d840c">800</div><div style="background:#8ead10">700</div>
+    <div style="background:#b2d814">600</div><div style="background:#d1fe17;color:#111">500</div><div style="background:#e1fe68;color:#111">400</div>
+    <div style="background:#eeffa7;color:#111">300</div><div style="background:#f6ffd1;color:#111">200</div><div style="background:#fbffec;color:#111">100</div>
+  </div>
+  <div class="scale-label">lime-500 (#d1fe17) = couleur de marque unique — boutons CTA, focus, liens, badges "New"</div>
+
+  <h2>3 · Échelles neutres (surfaces "Cool" &amp; "Neutral")</h2>
+  <div class="row">
+    <div style="flex:1">
+      <div class="scale">
+        <div style="background:#131416">400</div><div style="background:#18191c">350</div><div style="background:#1c1e21">300</div>
+        <div style="background:#23262a">250</div><div style="background:#2a2d32">200</div><div style="background:#383e46">150</div>
+        <div style="background:#484e56">100</div><div style="background:#5c626a">050</div>
+      </div>
+      <div class="scale-label">COOL — ramp de surfaces dark (bleuté, 8 nuances)</div>
+    </div>
+    <div style="flex:1">
+      <div class="scale">
+        <div style="background:#000">600</div><div style="background:#0e0e0e">550</div><div style="background:#171717">500</div>
+        <div style="background:#1d1d1d">450</div><div style="background:#1e1e1e">400</div><div style="background:#232323">350</div>
+        <div style="background:#272727">300</div><div style="background:#3e3e3e">250</div><div style="background:#4a4a4a">200</div>
+      </div>
+      <div class="scale-label">NEUTRAL — ramp gris (texte, inverses)</div>
+    </div>
+  </div>
+
+  <h2>4 · Couleurs de statut</h2>
+  <div class="swatches">
+    <div class="sw"><div class="c" style="background:#2eb844"></div><div class="l"><b>Success</b>green-500 #2eb844</div></div>
+    <div class="sw"><div class="c" style="background:#0256fe"></div><div class="l"><b>Info</b>blue-500 #0256fe</div></div>
+    <div class="sw"><div class="c" style="background:#ffef33"></div><div class="l"><b>Warning</b>yellow-500 #ffef33</div></div>
+    <div class="sw"><div class="c" style="background:#fa0019"></div><div class="l"><b>Error</b>red-600 #fa0019</div></div>
+    <div class="sw"><div class="c" style="background:#ff005b"></div><div class="l"><b>Pink</b>pink-500 #ff005b</div></div>
+    <div class="sw"><div class="c" style="background:#7152f4"></div><div class="l"><b>Purple</b>purple-600 #7152f4</div></div>
+    <div class="sw"><div class="c" style="background:#ff4f03"></div><div class="l"><b>Orange</b>orange-600 #ff4f03</div></div>
+    <div class="sw"><div class="c" style="background:#9ce6f3"></div><div class="l"><b>Cyan</b>cyan-500 #9ce6f3</div></div>
+  </div>
+
+  <h2>5 · Typographie</h2>
+  <div class="grid2">
+    <div class="type-demo"><div class="label">PRIMARY — Inter Display / Inter · 100-900</div>
+      <div style="font-size:30px;font-weight:600;letter-spacing:-1.2px;line-height:1.2">Create at the speed of thought</div>
+      <div style="font-size:14px;color:#898a8b;margin-top:6px">Body 14px/20px · w400 — secondaire</div>
+    </div>
+    <div class="type-demo"><div class="label">DISPLAY — Space Grotesk · 300-700</div>
+      <div style="font-family:'Space Grotesk',sans-serif;font-size:30px;font-weight:700;letter-spacing:-1.2px">Higgsfield</div>
+      <div style="color:#898a8b;font-size:12px;margin-top:6px">Usage : H2/H3 marketing, wordmark, headings cartes</div>
+    </div>
+  </div>
+  <div class="type-demo" style="font-family:'Space Mono',monospace"><div class="label" style="font-family:Inter">MONO — Space Mono / IBM Plex Mono · 400</div>
+    <div style="font-size:14px">01 — Cinema Studio · 4K · 24fps · credits: 270</div>
+  </div>
+
+  <h2>6 · Composants</h2>
+  <div class="comp" style="margin-bottom:12px">
+    <div class="btn btn-primary">Generate Video</div>
+    <div class="btn btn-secondary">Save</div>
+    <div class="btn btn-ghost">Cancel</div>
+    <div class="btn btn-outline">Upgrade</div>
+    <div style="width:1px;height:28px;background:rgba(255,255,255,.1)"></div>
+    <span class="chip">Motion Transfer</span>
+    <span class="chip active">★ SOUL</span>
+    <span class="chip">Relight</span>
+    <span class="badge badge-lime">NEW</span>
+    <span class="badge badge-subtle">BETA</span>
+    <span class="badge badge-blue">PRO</span>
+  </div>
+  <div class="comp" style="margin-bottom:12px">
+    <div class="card"><div class="thumb"></div><div class="t">Cinema Studio</div><div class="m">Prompt-to-4K · jusqu'à 60s</div></div>
+    <div class="card"><div class="thumb" style="background:linear-gradient(135deg,#5230c2,#1c1e21)"></div><div class="t">Genjutsu</div><div class="m">Motion transfer avancé</div></div>
+    <div class="card"><div class="thumb" style="background:linear-gradient(135deg,#013aad,#1c1e21)"></div><div class="t">Soul ID</div><div class="m">Identité de personnage</div></div>
+  </div>
+  <div class="comp">
+    <div class="states">
+      <div class="state"><span class="dot" style="background:#2eb844"></span>Success online</div>
+      <div class="state"><span class="dot" style="background:#ffef33"></span>Warning credits</div>
+      <div class="state"><span class="dot" style="background:#fa0019"></span>Error</div>
+      <div class="state"><span class="dot" style="background:#898a8b"></span>Disabled</div>
+      <div class="state"><span class="dot" style="background:#d1fe17;box-shadow:0 0 8px #d1fe17"></span>Generating…</div>
+    </div>
+  </div>
+
+  <h2>7 · Motion &amp; ombres</h2>
+  <div class="row">
+    <div class="motion" style="flex:1">
+      <b>Transitions standard</b><br>
+      opacity <span class="val">0.1s ease-out</span> (micro)<br>
+      colors <span class="val">0.15s cubic-bezier(.4,0,.2,1)</span><br>
+      scale <span class="val">0.26s cubic-bezier(.32,.72,0,1)</span> emphasized<br><br>
+      <b>Easings signature</b><br>
+      spring <span class="val">cubic-bezier(.34,1.56,.64,1)</span><br>
+      emphasized <span class="val">cubic-bezier(.32,.72,0,1)</span><br>
+      out-expo <span class="val">cubic-bezier(.16,1,.3,1)</span>
+    </div>
+    <div class="shadows">
+      <div>
+        <div class="sh" style="box-shadow:inset 0 .125rem .375rem 0 rgba(255,255,255,.15), 0 .125rem .125rem -.125rem rgba(0,0,0,.25)"></div>
+        <div class="scale-label" style="margin-top:6px">shadow-inset-tile</div>
+      </div>
+      <div>
+        <div class="sh" style="box-shadow:0 1px .5rem 0 rgba(0,0,0,.15)"></div>
+        <div class="scale-label" style="margin-top:6px">shadow-thumb-soft</div>
+      </div>
+      <div>
+        <div class="sh" style="box-shadow:0 2px .75rem 0 rgba(0,0,0,.3)"></div>
+        <div class="scale-label" style="margin-top:6px">shadow-thumb-strong</div>
+      </div>
+      <div>
+        <div class="sh" style="box-shadow:0 .25rem 1.5rem -.5rem rgba(0,0,0,.2), inset 0 .125rem 0 0 rgba(255,255,255,.05)"></div>
+        <div class="scale-label" style="margin-top:6px">shadow-overlay</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

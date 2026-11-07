@@ -1,0 +1,216 @@
+{
+  "tool": "image",
+  "model": "soul-v2",
+  "prompt": "A majestic golden eagle soaring over snowy mountains at sunrise, golden light, ultra detailed",
+  "success": false,
+  "postFired": 17,
+  "barText": [
+    "Soul 2.0",
+    "Color TransferNew",
+    "3:4",
+    "1.5k",
+    "Off",
+    "1/4",
+    "Change",
+    "Generate0.125"
+  ],
+  "promptFieldOk": true,
+  "genButton": "Generate0.125",
+  "outcome": "TIMEOUT",
+  "myGenText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets 404 Page not found Back to home © 2026 Higgsfield, Inc. All rights reserved. English Help center Cookie Notice Cooki",
+  "finalState": {
+    "url": "https://higgsfield.ai/ai/image?model=soul-v2",
+    "genWord": false,
+    "errs": [],
+    "bodyStart": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supe"
+  },
+  "net": [
+    {
+      "t": 1793633137097,
+      "url": "https://higgsfield.ai/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d0d7f3571048/0.16101215578692152:1793628626:1Omh-_aiWoLQQdZ98o4NQxRQPKccc3NCRhKbCznf-RI/a54427022bfee2ea",
+      "body": "6Vf25Ips3gQDq5wj3OfV0HAzQ9Zw5MFQqAT-HD6NDECFnnNCjDk+wbJwKu$l01EVJ0wgMWB3osoEKAPJJnTvo1c24Y7rpsXxDDRk7HjQKbxiF$5ApGWhBpxDeiFujNagppZxwoFbwqnzVORgsIm3Pxk4nFw8zod9$XbvcnA4cLlRbPMLdol6dAO-j+2h3qtIHbjjQ8MHTWQoEt+vf-0+p7xG9n$Hv56OwFWZfXdG1-HHtV5KPWZMlObdHVyWc$KXrlFzQKupj8WTTwgF3rbrqlycNyTv72jrOTZxq7omKY2I7xoodSLbkPqS5pwMw2bmyL7Qs2ty09uXc7xWxi1r-a11K29j7RA9-qim5S356ATRr2ElpbjKmG2zMx1B+y90CS0nl8P+pk5XJNKsIYV3nD$4z9J2VAoHwn4vestPWGZv$FfrguAcCAs7MOeJguOjl0I$36AgJYfBVV192ux4qFAt39rCdoH7jFaSMx+EYiLiO8Q0e3$08P2KHhcTNRLNa5WX$zzwIpFlKzYzQM89rN$T0g$oTxxapba66FmJj67JqncXNAJJ8YvgKLDK5P2Y2kVMHWCFFE9Ag0k$S-3N+sqH"
+    },
+    {
+      "t": 1793633137266,
+      "url": "https://higgsfield.ai/cdn-cgi/rum?",
+      "body": "{\"startTime\":1793633131358,\"pageloadId\":\"74dafaee-c400-4aad-bdc4-c6bdaf6dc059\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://higgsfield.ai/ai/image\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"131\",\"bv\":\"131\",\"ov\":\"10.15\"},\"memory\":{\"totalJSHeapSize\":64000000,\"usedJSHeapSize\":47400000,\"jsHeapSizeLimit\":521000000},\"firstPaint\":4084,\"firstContentfulPaint\":4128,\"timingsV2\":{\"nextHopProtocol\":\"h3\",\"domainLookupStart\":503,\"domainLookupEnd\":503,\"connectStart\":503,\"connectEnd\":503,\"secureConnectionStart\":503,\"redirectStart\":1,\"redirectEnd\":501,\"requestStar"
+    },
+    {
+      "t": 1793633137276,
+      "res": 200,
+      "url": "https://higgsfield.ai/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d0d7f3571048/0.16101215578692152:1793628626:1Omh-_aiWoLQQdZ98o4NQxRQPKccc3NCRhKbCznf-RI/a54427022bfee2ea",
+      "body": ""
+    },
+    {
+      "t": 1793633137599,
+      "res": 204,
+      "url": "https://higgsfield.ai/cdn-cgi/rum?",
+      "body": ""
+    },
+    {
+      "t": 1793633138293,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_1b55b6ca\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}"
+    },
+    {
+      "t": 1793633138295,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_3bdd30f5\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}"
+    },
+    {
+      "t": 1793633139431,
+      "res": 200,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}"
+    },
+    {
+      "t": 1793633140148,
+      "url": "https://dd.higgsfield.ai/js",
+      "body": "jspl=KD2XNiYMQL5i3OXJ6MKTXKxtBk7rUqFNr1_yZtBMpTuSfyONhb0XLwLqF8lrqQ5SzEcPuWK9wVyduC17N3vhupsI9y9i7WUGxovI0n36h-P2daWFLHDPfWN1f30nCvApuktSD3FjCBHlAWYY3Nv7k3WPdQjCEDb6IrN5QqG2In4i16mmjJBrunIoM7DoUjBMUPyhoLhUn78nPM9Dh2rCjCZx7y8vyMhdS1b9ILrIAki4NWiDtLl15b1LylJHkBrahR5MqrngVhIFcrpXluPj-AMRanhDxRrnUxzLqfhXJiHNjMP7SGI8Y3R_RyadYkFju__QnsY6N6YivEMa83SHJY-cgSkkYSWgxvypf-HmIyGrCmtkVvUa145nzPJ0yqwrhPfyae4-8wdrfcZ1sMLzVpA8rBfoTpi7Um6iRqOmLpFilHcWV_7ankVg0ZTyUdm_PJe_xwym88mGXI0IGq8XiB4cqPG75nEvU17H4tcxVj6zaqP-ZBBd2kur2TXHlZHpQ4Q407IRodNcXZ5shbAfsR0x1Y-hLNx0fe6X09A9ipLsdLwKF9z6U3RIN3BaCYcB04ftZKKNtfWed9Z2mdn"
+    },
+    {
+      "t": 1793633140444,
+      "res": 200,
+      "url": "https://dd.higgsfield.ai/js",
+      "body": "{\"status\":200,\"cookie\":\"datadome=aVos4nSSJrHDLVvZ7~_~VI9iUi9xhEic0JqbbyJG4NDESErtoy9MMVW~6PT4Zu8p_0DHE9kfS7BjGQFcAG58g3ppOljqBldmfiZfaO8jxeXeqT2bFSCHfKDfSG5YsBXf; Max-Age=31536000; Domain=.higgsfield.ai; Path=/; Secure; SameSite=Lax\"}"
+    },
+    {
+      "t": 1793633144576,
+      "res": 200,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}"
+    },
+    {
+      "t": 1793633144879,
+      "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/context",
+      "body": "{\"workspace_id\":\"b8bae4bf-b016-44aa-ba49-9ee438329e61\"}"
+    },
+    {
+      "t": 1793633144881,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_ca77f2dd\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}"
+    },
+    {
+      "t": 1793633144883,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_1fd6ee6f\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}"
+    },
+    {
+      "t": 1793633145186,
+      "res": 200,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}"
+    },
+    {
+      "t": 1793633145186,
+      "res": 200,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}"
+    },
+    {
+      "t": 1793633145766,
+      "res": 200,
+      "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/context",
+      "body": "{\"success\":true,\"workspace_id\":\"b8bae4bf-b016-44aa-ba49-9ee438329e61\",\"workspace_name\":null,\"message\":\"Workspace context set successfully\"}"
+    },
+    {
+      "t": 1793633157145,
+      "url": "https://dd.higgsfield.ai/js",
+      "body": "jspl=tGCxG3tFFvu2iuembmJ7dbhxuWA42pDFa7h4lNdFk8EiVkYcglYxj6dHfLQNqh9mH9tY4VFfihTjfkpjw8hGferu255QEHnAZAvobOEvYeN9Slg31TrseDO8G7wpfDStAqGl1t7WUz23VE6GzcnLRnoFNlpbexEevUsim-GJkVh1ISpNrdZAL3-xjYWqscbVL5xD6heWSu1oOlxrB38iJOXfW8eUoJI2Aamo_RftcyLHRSXr-Jl3M7-XZIALieEFNO6hebWCp-iB1eAzOyjUipMoxl_tdVkUrv9EgOYuQI2kQo3h0SOHvuhN3icDDAv1Km4hskDTrSD0YjBsTJYbcw1xigVGzuGhosq1YkgJuo_l23ravpFQ4VxOIYW8AlAITTZPjV8PZ53DM9ULYhsNSj39qiGDbm5qrM448mujyG-Quqc2zKgpzsFKEh-z6NmsHqU8u0r-Hec6YMHIF6ddTzh76H6ZZXr_yQLGeqhMZ4zoGR2SZsLXURioQW27X091Otnqp96TMS7odq3wj6Gn7XBNqaqoqhScRSnYTBeBPX5QnJ4OndSM_1X2re8hn2b5OTDIIERqG3Nd_xSwCjF"
+    },
+    {
+      "t": 1793633157434,
+      "res": 200,
+      "url": "https://dd.higgsfield.ai/js",
+      "body": "{\"status\":200,\"cookie\":\"datadome=xalTg502Ajb6mZrRkWvGmE6elwed6dDr~qOLLL5cgDbXC1eSZEZPFCdHGXx0TpLBTROOfRTgxn8OgkmRR1Gnd4now~os9gEGe_FCq8zF8LHouIQSVfwU0oWysJ0_uqoy; Max-Age=31536000; Domain=.higgsfield.ai; Path=/; Secure; SameSite=Lax\"}"
+    },
+    {
+      "t": 1793633166276,
+      "url": "https://fnf-api-gw.higgsfield.ai/fnf/jobs/v2/text2image_soul_v2",
+      "body": "{\"params\":{\"prompt\":\"A majestic golden eagle soaring over snowy mountains at sunrise, golden light, ultra detailed\",\"enhance_prompt\":false,\"negative_prompt\":\"\",\"style_id\":\"3db34ab5-3439-4317-9e03-08dc30852e69\",\"style_strength\":1,\"custom_reference_strength\":1,\"quality\":\"720p\",\"aspect_ratio\":\"3:4\",\"seed\":510648,\"batch_size\":1,\"use_unlim\":false,\"use_free_gens\":false,\"use_refiner\":false,\"use_green\":true,\"lora\":null,\"chain_enhancer\":null,\"model_version\":\"fast\",\"is_custom\":false,\"model\":\"soul_v2\",\"width\":1152,\"height\":1536,\"medias\":[]},\"use_unlim\":false,\"use_free_gens\":false}"
+    },
+    {
+      "t": 1793633166594,
+      "res": 403,
+      "url": "https://fnf-api-gw.higgsfield.ai/fnf/jobs/v2/text2image_soul_v2",
+      "body": "<html lang=\"en\"><head><title>higgsfield.ai</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'c','cid':'AHrlqAAAAAMAcZ5r67_N1Y4ALzno6A==','hsh':'378262463E4AB20E202654D445C059','t':'bv','r':'b','qp':'','s':61777,'e':'04976dedc0d44a03d10d8581268b095cb6dd8d1524332a98b512f51eac51b096357d29fde251eeea6efd0dd1a2ed57c5','host':'geo.captcha-delivery.com','cookie':'CAx7zpzIi4KiEUvybTvTItstWUQXdEsuPZ5PuhU2bU3itLue5zZle"
+    },
+    {
+      "t": 1793633530446,
+      "url": "https://higgsfield.ai/cdn-cgi/rum?",
+      "body": "{\"startTime\":1793633526183,\"pageloadId\":\"7eff13dc-a53a-4d06-805f-4a3215022c20\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://higgsfield.ai/my-generations\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"131\",\"bv\":\"131\",\"ov\":\"10.15\"},\"memory\":{\"totalJSHeapSize\":64000000,\"usedJSHeapSize\":47400000,\"jsHeapSizeLimit\":521000000},\"firstPaint\":2500,\"firstContentfulPaint\":2552,\"timingsV2\":{\"nextHopProtocol\":\"h3\",\"domainLookupStart\":1,\"domainLookupEnd\":1,\"connectStart\":1,\"connectEnd\":1,\"secureConnectionStart\":1,\"requestStart\":5,\"responseStart\":1813,\"responseEnd\":"
+    },
+    {
+      "t": 1793633530548,
+      "res": 204,
+      "url": "https://higgsfield.ai/cdn-cgi/rum?",
+      "body": ""
+    },
+    {
+      "t": 1793633531226,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_1b55b6ca\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}"
+    },
+    {
+      "t": 1793633531229,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_3bdd30f5\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}"
+    },
+    {
+      "t": 1793633531580,
+      "res": 200,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}"
+    },
+    {
+      "t": 1793633531581,
+      "res": 200,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}"
+    },
+    {
+      "t": 1793633532538,
+      "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/context",
+      "body": "{\"workspace_id\":\"b8bae4bf-b016-44aa-ba49-9ee438329e61\"}"
+    },
+    {
+      "t": 1793633532540,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_ca77f2dd\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}"
+    },
+    {
+      "t": 1793633532541,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":{\"t\":10,\"i\":0,\"p\":{\"k\":[\"data\"],\"v\":[{\"t\":10,\"i\":1,\"p\":{\"k\":[\"flag\"],\"v\":[{\"t\":1,\"s\":\"f_1fd6ee6f\"}]},\"o\":0}]},\"o\":0},\"f\":127,\"m\":[]}"
+    },
+    {
+      "t": 1793633532657,
+      "url": "https://dd.higgsfield.ai/js",
+      "body": "jspl=jehRzwPmaVqqTc4xciYoLibNl7SohVBzCHBkWmYI6XgsWhbyE07-gmK-tJkEoGNDLaJrSoyUdqD64IbYAin8gUlufBq8iwsVrd08edY53Yez8w_QHRew2WOOv0FtkhhHfVP0isSsNkTsoPzm-Nn1Cp0vj6DlXdRsEVXvPs2vagi22ZnSksqmU8TWSWJu7TpH9jwJMYm2Q4sEJb0Ms4T_3ZDM4SaV0HBRGaDYpaF-Bok67advFQRcNjoyX38s0Ym6il5Zyxhp6mPV-WJSiNB_g6CqCdd4M0sOQCBe8OSAsqI_t_kqhkbqxicJDmRPoHVq18k3IK-ai6ux0HcWqQRZJNK7z3-8-5YHbb_NgkeIzvTMnbUTfOqpb61Afu-apFjA6p-xV6-YJqnao_v3c2-SlWjpJvuYJw1NYfjz8XPqg3x-2hwd79HKP4Q5U9Uma2vIAOtQqazAE3ERp2P5hnXtugU7SbNPpr_JRXQThgyyCBcGJwyk6LF6Qh8SPjpc-lN8gRwk7S3c1uhAljjUnsCKFITryYD_t0FesLwZ_0vOq60mDp_NG7zyoSK52zFk_eBFxYtGJzxfk1R43iMWxNn"
+    },
+    {
+      "t": 1793633532758,
+      "res": 200,
+      "url": "https://dd.higgsfield.ai/js",
+      "body": "{\"status\":200,\"cookie\":\"datadome=yo5VL8gD3y95qVQyclXBW~~7wQCf5tktm1nGYJ8ucw2Jd7nhUmvPdttRoB9LshJRZZ0AFCkfuZuaYSYieNIgqjzDhhV1cNoi54KggcD74ksUQKtHo745cUsqCRM8nNpY; Max-Age=31536000; Domain=.higgsfield.ai; Path=/; Secure; SameSite=Lax\"}"
+    },
+    {
+      "t": 1793633532849,
+      "res": 200,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}"
+    },
+    {
+      "t": 1793633532873,
+      "res": 200,
+      "url": "https://higgsfield.ai/_serverFn/dd4d67fd78e8fe0e12287a2d4b1069885417efa403ad572bdd19c8af122c4951",
+      "body": "{\"t\":10,\"i\":0,\"p\":{\"k\":[\"result\",\"error\",\"context\"],\"v\":[{\"t\":2,\"s\":1},{\"t\":2,\"s\":1},{\"t\":11,\"i\":1,\"p\":{\"k\":[],\"v\":[]},\"o\":0}]},\"o\":0}"
+    },
+    {
+      "t": 1793633532996,
+      "res": 200,
+      "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/context",
+      "body": "{\"success\":true,\"workspace_id\":\"b8bae4bf-b016-44aa-ba49-9ee438329e61\",\"workspace_name\":null,\"message\":\"Workspace context set successfully\"}"
+    }
+  ]
+}

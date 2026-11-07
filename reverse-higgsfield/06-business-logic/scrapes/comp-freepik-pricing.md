@@ -1,0 +1,656 @@
+![](https://media.magnific.com/pricing/campaigns/unlimited-cereal-bg.webp)
+
+NEW IMAGE MODEL
+
+## Meet Magnific One, with Brand Kit
+
+Art direction, built in, and images that follow your brand. Included in all paid plans.
+
+IndividualTeams
+
+monthlyAnnual
+
+Save 25% with annual
+
+### Premium
+
+For individuals exploring AI tools and stock content
+
+$20$14.50/monthBilled annually
+
+Spaces and 250M+ Premium assets
+
+240K credits/year
+
+No model training on your data
+
+Get Premium
+
+Credits valid for 1 year, no monthly resets
+
+Access to image, video, and audio models
+
+Magnific One and Brand Kit, now available
+
+New
+
+Spaces: shared canvas, built for workflows
+
+Pro editing tools: image, video & design
+
+Music, voice & sound effects generation
+
+Commercial AI license
+
+Magnific image & video upscalers
+
+Magnific MCP & plugins
+
+Magnific for ComfyUI
+
+New
+
+API access with credit-based usage
+
+250M+ photos, videos, vectors & PSDs
+
+Top up credits anytime
+
+Early access to AI features
+
+Metadata export & lineage
+
+#### Unlimited, all year
+
+Save credits on 30+ models
+
+- Nano Banana 2
+
+- Kling 2.5
+
+- Nano Banana Pro
+
+
+### Premium+
+
+Best value
+
+For creatives who need unlimited generations and full AI access
+
+$45$33.75/monthBilled annually
+
+UNLIMITED generations
+
+600K credits/year
+
+Nano Banana 2 (1K)
+
+No model training on your data
+
+Get Premium+
+
+Credits valid for 1 year, no monthly resets
+
+Access to image, video, and audio models
+
+Magnific One and Brand Kit, now available
+
+New
+
+Spaces: shared canvas, built for workflows
+
+Pro editing tools: image, video & design
+
+Music, voice & sound effects generation
+
+Commercial AI license + music rights
+
+Magnific & Topaz upscalers
+
+Magnific MCP & plugins
+
+Magnific for ComfyUI
+
+New
+
+API access with credit-based usage
+
+250M+ photos, videos, vectors & PSDs
+
+Top up credits anytime
+
+Early access to AI features
+
+Metadata export & lineage
+
+#### Unlimited, all year
+
+Save credits on 30+ models
+
+- Nano Banana 2
+
+All year
+
+- Kling 2.5
+
+All year
+
+- Nano Banana Pro
+
+
+### Pro Starter
+
+Expert choice
+
+For professionals scaling content production
+
+$110$82.50/monthBilled annually
+
+Everything in Premium+, and:
+
+1.5M credits/yearNano Banana 2 (2K)4M credits/yearNano Banana 2 (2K) + Nano Banana Pro
+
+No model training on your data
+
+Get Pro Starter
+
+Credits valid for 1 year, no monthly resets
+
+Access to image, video, and audio models
+
+Magnific One and Brand Kit, now available
+
+New
+
+Spaces: shared canvas, built for workflows
+
+Pro editing tools: image, video & design
+
+Music, voice & sound effects generation
+
+Commercial AI license + music rights
+
+Magnific & Topaz upscalers
+
+Magnific MCP & plugins
+
+Magnific for ComfyUI
+
+New
+
+API access with credit-based usage
+
+250M+ photos, videos, vectors & PSDs
+
+Top up credits anytime
+
+Early access to AI features
+
+Metadata export & lineage
+
+#### Unlimited, all year
+
+Save credits on 30+ models
+
+- Nano Banana 2
+
+All year
+
+- Kling 2.5
+
+All year
+
+- Nano Banana Pro
+
+
+Prices exclude VAT and local taxes
+
+## Compare plans:AI video, image, and audio plus stock
+
+monthlyAnnual
+
+Save 25% with annual
+
+### AI video
+
+Premium
+
+$14.50/monthBilled annually
+
+240,000/year
+
+GetGet Premium
+
+Premium+
+
+$33.75/monthBilled annually
+
+600,000/year
+
+GetGet Premium+
+
+Pro Starter
+
+$82.50/monthBilled annually
+
+1,500,000/year
+
+GetGet Pro Starter
+
+Kling 4.0 1080p
+
+New
+
+840 credits/3s
+
+285 videos
+
+714 videos
+
+1,785 videos
+
+Kling 4.0 1080p with video input
+
+New
+
+990 credits/3s
+
+242 videos
+
+606 videos
+
+1,515 videos
+
+Kling 2.5 720p
+
+Unlimited
+
+140 credits/5s
+
+1,714 videos
+
+Kling 3.0 Pro 1080p
+
+450 credits/5s
+
+533 videos
+
+1,333 videos
+
+3,333 videos
+
+Seedance 2.5 1080p
+
+4,400 credits/4s
+
+54 videos
+
+136 videos
+
+340 videos
+
+Seedance 2.5 720p
+
+1,760 credits/4s
+
+136 videos
+
+340 videos
+
+852 videos
+
+Seedance 2.5 Draft 480p
+
+New
+
+800 credits/4s
+
+300 videos
+
+750 videos
+
+1,875 videos
+
+Gemini Omni 1.1
+
+New
+
+720 credits/3s
+
+333 videos
+
+833 videos
+
+2,083 videos
+
+Seedance 2 Pro 720p
+
+Lower price
+
+1,120 credits/4s
+
+214 videos
+
+535 videos
+
+1,339 videos
+
+MiniMax H3 Max Turbo 768p
+
+New
+
+200 credits/5s
+
+1,200 videos
+
+3,000 videos
+
+7,500 videos
+
+Seedance 2.0 Fast 720p
+
+Lower price
+
+940 credits/4s
+
+255 videos
+
+638 videos
+
+1,595 videos
+
+MiniMax Hailuo 2.3 Fast 768p
+
+Unlimited
+
+150 credits/6s
+
+1,600 videos
+
+Seedance 2.0 4K 1080p
+
+5,600 credits/4s
+
+42 videos
+
+107 videos
+
+267 videos
+
+Google Veo 3.1 4K w/audio
+
+2,080 credits/4s
+
+115 videos
+
+288 videos
+
+721 videos
+
+Magnific Video Upscaler
+
+New
+
+### AI image
+
+Magnific One High 2K
+
+New
+
+180 credits/image
+
+1,333 images
+
+3,333 images
+
+8,333 images
+
+Magnific One High 4K
+
+New
+
+250 credits/image
+
+960 images
+
+2,400 images
+
+6,000 images
+
+Google Nano Banana 2 2K
+
+Unlimited
+
+75 credits/image
+
+3,200 images
+
+8,000 images
+
+Google Nano Banana Pro (1K/2K)
+
+Unlimited
+
+75 credits/image
+
+3,200 images
+
+8,000 images
+
+Google Nano Banana 2 1K
+
+Unlimited
+
+75 credits/image
+
+3,200 images
+
+Google Nano Banana 2 4K
+
+150 credits/image
+
+1,600 images
+
+4,000 images
+
+10,000 images
+
+Google Nano Banana 2 Lite 1K
+
+Unlimited
+
+60 credits/image
+
+4,000 images
+
+Google Nano Banana Pro 4K
+
+150 credits/image
+
+1,600 images
+
+4,000 images
+
+10,000 images
+
+Magnific Precision
+
+90 credits/2K image
+
+2,666 images
+
+6,666 images
+
+16,666 images
+
+GPT 2.5 Medium 2K
+
+180 credits/image
+
+1,333 images
+
+3,333 images
+
+8,333 images
+
+Flux.2 Pro 1K
+
+Unlimited
+
+50 credits/image
+
+4,800 images
+
+Recraft V4.1 Mid
+
+Unlimited
+
+60 credits/image
+
+4,000 images
+
+Flux.2 Max 1K
+
+Unlimited
+
+130 credits/image
+
+1,846 images
+
+4,615 images
+
+Grok
+
+Unlimited
+
+70 credits/image
+
+3,428 images
+
+P-image Ideogram 2K High
+
+New
+
+44 credits/image
+
+5,454 images
+
+13,636 images
+
+34,090 images
+
+### AI audio
+
+Google Lyria 3
+
+160 credits/song
+
+1,500 songs
+
+3,750 songs
+
+9,375 songs
+
+ElevenLabs Music Generation
+
+600 credits/30s
+
+400 uses
+
+1,000 uses
+
+2,500 uses
+
+SFX Generation
+
+15 credits/3s
+
+16,000 uses
+
+40,000 uses
+
+100,000 uses
+
+### Other perks
+
+Downloads per day
+
+Premium stock content
+
+Commercial AI license
+
+Magnific MCP
+
+Magnific for ComfyUI
+
+New
+
+API access with credit-based usage
+
+Train AI characters
+
+3,000 credits/character
+
+80 characters
+
+200 characters
+
+500 characters
+
+Assistant
+
+Merchandising license
+
+Design and mockup tools
+
+Early access to new AI tools
+
+[See all pricing & credits FAQs](https://www.magnific.com/ai/docs/plans-and-pricing)
+
+## Trusted by the companies you trust
+
+- Coca-Cola
+- Ogilvy
+- R/GA
+- Wonder
+- Guess
+- Delivery Hero
+
+## Creative work, reimagined with AI
+
+All in one place
+
+Every leading AI model, pro features, and 250M+ stock assets. All in one platform.
+
+Join 1M+ creatives worldwide
+
+Get early access to new tools, share your work, and find inspiration in the world's biggest creative AI community.
+
+Pay safe and cancel anytime
+
+Encrypted transactions, 30-day refund guarantee, no cancellation fees. [More info](https://www.magnific.com/ai/docs/subscriptions-and-refunds#refunds)
+
+- How do credits work?
+
+- Do downloading limits apply to the designs I create?
+
+- Is my subscription automatically renewed?
+
+- What is the Merchandise License?
+
+- What does “no attribution” mean?
+
+- What’s the difference between Premium stock content and Free stock content?
+
+- How many generations do I have per tool or microtool?
+
+- How can I purchase extra credits?
+
+- Can I use AI-generated images for commercial purposes?
+
+- How does Unlimited work?
+
+
+How can I purchase extra credits? [please contact us](https://www.magnific.com/ai/support)
+
+[Contact us](https://www.magnific.com/ai/support)

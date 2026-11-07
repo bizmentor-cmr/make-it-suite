@@ -1,0 +1,516 @@
+- document:
+  - dialog "cookieconsent":
+    - paragraph:
+      - text: We use cookies and similar technologies to run Higgsfield and understand how you use it. Product analytics helps us improve Higgsfield, may be linked to your account, and stays on when you decline advertising. With your permission, we and third-party providers use device and activity information to measure the effectiveness of our advertising and improve our campaigns. Manage your choices in Cookie Preferences. See our
+      - link "Cookie Notice":
+        - /url: https://higgsfield.ai/cookie-notice
+    - link "Cookie Notice visit this link to learn more about cookies. Opens in new window":
+      - /url: https://higgsfield.ai/cookie-notice
+      - text: Cookie Notice
+    - button "Accept All Cookies"
+    - button "Reject Advertising Cookies"
+    - button "Cookie Preferences"
+  - banner
+  - banner:
+    - link "Higgsfield":
+      - /url: /
+      - img "Higgsfield"
+    - navigation "Main":
+      - list:
+        - listitem:
+          - link "Explore":
+            - /url: /
+        - listitem:
+          - link "Image":
+            - /url: /ai/image?model=gpt_image_2
+        - listitem:
+          - link "Video":
+            - /url: /ai/video
+        - listitem:
+          - link "Audio":
+            - /url: /audio
+        - listitem:
+          - link "MCP":
+            - /url: /mcp
+        - listitem:
+          - link "API":
+            - /url: https://console.higgsfield.ai
+        - separator
+        - listitem:
+          - link "Genjutsu New":
+            - /url: /ai/video?model=genjutsu
+        - listitem:
+          - link "Content Factory New":
+            - /url: /content-factory
+        - listitem:
+          - link "Playable New":
+            - /url: /playable
+        - listitem:
+          - link "AI Influencer":
+            - /url: /ai-influencer-studio
+        - listitem:
+          - link "Academy New":
+            - /url: /academy
+        - listitem:
+          - link "Katana":
+            - /url: /katana
+        - listitem:
+          - link "ChatGPT Plugin":
+            - /url: /mcp?tab=chatgpt
+        - listitem:
+          - link "Ads Studio":
+            - /url: /ads-studio
+        - listitem:
+          - link "Effects":
+            - /url: /effects/use
+        - listitem:
+          - link "Cinema Studio":
+            - /url: /generate
+        - listitem:
+          - link "Contests":
+            - /url: /community/contests
+        - listitem:
+          - link "Marketing Studio":
+            - /url: /marketing-studio
+        - listitem:
+          - link "Supercomputer":
+            - /url: /supercomputer
+        - listitem:
+          - link "Edit":
+            - /url: /layers
+        - listitem:
+          - link "Community":
+            - /url: /community
+        - listitem:
+          - link "Plugins":
+            - /url: /plugins/after-effects
+        - listitem:
+          - link "Canvas":
+            - /url: /canvas
+        - listitem:
+          - link "Originals":
+            - /url: /original-series
+    - link "Pricing 30% OFF":
+      - /url: /pricing
+    - link "Enterprise":
+      - /url: https://higgsfield.ai/enterprise
+      - img
+      - text: Enterprise
+    - button "Change language"
+    - button "Login"
+    - button "Sign up"
+  - main:
+    - heading "Higgsfield Soul" [level=1]
+    - paragraph: Higgsfield's first high-aesthetic photo model
+    - list:
+      - listitem:
+        - link "General":
+          - /url: /soul/464ea177-8d40-4940-8d9d-b438bab269c7
+      - listitem:
+        - link "Duplicate":
+          - /url: /soul/88126a43-86fb-4047-a2d6-c9146d6ca6ce
+      - listitem:
+        - link "Bimbocore":
+          - /url: /soul/f96913e8-2fcf-4358-8545-75dd6c34c518
+      - listitem:
+        - link "0.5 Selfie":
+          - /url: /soul/8dd89de9-1cff-402e-88a8-580c29d91473
+      - listitem:
+        - link "Ring Selfie":
+          - /url: /soul/9de8ed26-c8dd-413c-a5e3-47eec97bc243
+      - listitem:
+        - link "Afterparty Cam":
+          - /url: /soul/5765d07d-1525-4d4d-ae06-9091e2bdac2d
+      - listitem:
+        - link "Amalfi Summer":
+          - /url: /soul/dab472a6-23f4-4cf8-98fe-f3e256f1b549
+      - listitem:
+        - link "Angel Wings":
+          - /url: /soul/4c24b43b-1984-407a-a0ae-c514f29b7e66
+      - listitem:
+        - link "Artwork":
+          - /url: /soul/b9e2d7dc-78e6-4f7d-95dd-b62690e7b200
+      - listitem:
+        - link "Avant-Garde":
+          - /url: /soul/0c636e12-3411-4a65-8d86-67858caf2fa7
+      - listitem:
+        - link "Babydoll Makeup":
+          - /url: /soul/b7c621b5-9d3c-46a3-8efb-4cdfbc592271
+      - listitem:
+        - link "Bike Mafia":
+          - /url: /soul/90df2935-3ded-477f-8253-1d67dd939cbe
+      - listitem:
+        - link "Birthday Mess":
+          - /url: /soul/2d47f079-c021-4b8e-b2c0-3b927a80fc31
+      - listitem:
+        - link "Bleached Brows":
+          - /url: /soul/cc099663-9621-422e-8626-c8ee68953a0c
+      - listitem:
+        - link "Burgundy Suit":
+          - /url: /soul/84c23cef-7eda-4f8f-9931-e3e6af8192d9
+      - listitem:
+        - link "CCTV":
+          - /url: /soul/07a85fb3-4407-4122-a4eb-42124e57734c
+      - listitem:
+        - link "Clouded Dream":
+          - /url: /soul/493bda5b-bb4b-46fe-9343-7d5e414534ef
+      - listitem:
+        - link "Coquette Core":
+          - /url: /soul/bd78cfc6-9b92-4889-9347-f21dbf0a269c
+      - listitem:
+        - link "Creatures":
+          - /url: /soul/b3c8075a-cb4c-42de-b8b3-7099dd2df672
+      - listitem:
+        - link "Crossing the Street":
+          - /url: /soul/d3e2b71d-b24b-462e-bd96-12f7a22b5142
+      - listitem:
+        - link "Digital Camera":
+          - /url: /soul/ca4e6ad3-3e93-4e03-81a0-d1722d2c128b
+      - listitem:
+        - link "dmv":
+          - /url: /soul/923e4fb0-d4ea-480c-876d-ac7cad862b9d
+      - listitem:
+        - link "Double Take":
+          - /url: /soul/2a1898d0-548f-4433-8503-5721157b93a1
+      - listitem:
+        - link "Eating Food":
+          - /url: /soul/7df83cc9-1e13-4bd0-b6ff-1e6a456b9e5a
+      - listitem:
+        - link "Elevator Mirror":
+          - /url: /soul/524be50a-4388-4ff5-a843-a73d2dd7ef87
+      - listitem:
+        - link "Escalator":
+          - /url: /soul/bab6e4bd-9093-4bb5-a371-01ef6cbd58ad
+      - listitem:
+        - link "Fairycore":
+          - /url: /soul/7f21e7bd-4df6-4cef-a9a9-9746bceaea1d
+      - listitem:
+        - link "Fashion Show":
+          - /url: /soul/86fc814e-856a-4af0-98b0-d4da75d0030b
+      - listitem:
+        - link "Fireproof":
+          - /url: /soul/373420f7-489e-4a5d-930e-cc4ecfcc23cc
+      - listitem:
+        - link "Fish-Eye Twin":
+          - /url: /soul/d4775423-d214-4862-b061-47baa1978208
+      - listitem:
+        - link "Fisheye":
+          - /url: /soul/cc4e7248-dcfe-4c93-b264-2ab418a7556b
+      - listitem:
+        - link "Flight Mode":
+          - /url: /soul/3f90dc5b-f474-4259-95c4-d29fbd6be645
+      - listitem:
+        - link "Foggy Morning":
+          - /url: /soul/0fe8ad66-ff61-411f-9186-b392e140b18c
+      - listitem:
+        - link "Gallery":
+          - /url: /soul/36061eb7-4907-4cba-afb1-47afcf699873
+      - listitem:
+        - link "Geominimal":
+          - /url: /soul/372cc37b-9add-4952-a415-53db3998139f
+      - listitem:
+        - link "Giant Accessory":
+          - /url: /soul/70fbb531-5ee2-492e-8c53-5dbd6923e8c2
+      - listitem:
+        - link "Giant People":
+          - /url: /soul/a5f63c3b-70eb-4979-af5e-98c7ee1e18e8
+      - listitem:
+        - link "Glazed Doll Skin Makeup":
+          - /url: /soul/a2a42ada-75cc-42a9-be12-cb16c1dec2a8
+      - listitem:
+        - link "Glitch":
+          - /url: /soul/62355e77-7096-45ae-9bea-e7c5b88c3b70
+      - listitem:
+        - link "Gorpcore":
+          - /url: /soul/96758335-d1d1-42b7-9c21-5ac38c433485
+      - listitem:
+        - link "Graffiti":
+          - /url: /soul/0b4dac9a-f73a-4e5b-a5a7-1a40ee40d6ac
+      - listitem:
+        - link "Green Editorial":
+          - /url: /soul/91abc4fe-1cf8-4a77-8ade-d36d46699014
+      - listitem:
+        - link "Grillz Selfie":
+          - /url: /soul/255f4045-d68b-42b1-9e4c-f49d3263a9d7
+      - listitem:
+        - link "Grunge":
+          - /url: /soul/ad9de607-3941-4540-81ea-ba978ef1550b
+      - listitem:
+        - link "Hair Clips":
+          - /url: /soul/ea6f4dc0-d6dd-4bdf-a8cf-94ed1db91ab2
+      - listitem:
+        - link "Hallway Noir":
+          - /url: /soul/a643a36a-85e6-4e3d-80db-13e4997203cc
+      - listitem:
+        - link "Help, It’s Too Big":
+          - /url: /soul/5ad23bca-4a4b-4316-8c59-b80d7709d8ee
+      - listitem:
+        - link "Indie sleaze":
+          - /url: /soul/5a72fec7-a12e-43db-8ef3-1d193b4f7ab4
+      - listitem:
+        - link "Invertethereal":
+          - /url: /soul/82edba1e-b093-4484-a25e-9276e0454999
+      - listitem:
+        - link "iPhone":
+          - /url: /soul/1b798b54-03da-446a-93bf-12fcba1050d7
+      - listitem:
+        - link "It’s French":
+          - /url: /soul/79bfaa63-4e12-4ea2-8ada-7d4406eecece
+      - listitem:
+        - link "Japandi":
+          - /url: /soul/0089e17c-d0f0-4d0c-b522-6d25c88a29fc
+      - listitem:
+        - link "Library":
+          - /url: /soul/6fb3e1f5-d721-4523-ac38-9902f2b2b850
+      - listitem:
+        - link "Long Legs":
+          - /url: /soul/12eda704-18e5-4783-aa0f-deba5296cc83
+      - listitem:
+        - link "Medieval":
+          - /url: /soul/1fc861ed-5923-41a6-9963-b9f04681dddd
+      - listitem:
+        - link "Mixed Media":
+          - /url: /soul/2fcf02e2-919a-4642-8b31-d58bde5e6bd9
+      - listitem:
+        - link "Movie":
+          - /url: /soul/811de7ab-7aaf-4a6b-b352-cdea6c34c8f1
+      - listitem:
+        - link "Mt. Fuji":
+          - /url: /soul/de0118ba-7c27-49f7-9841-38abe2aae8e1
+      - listitem:
+        - link "Nail Check":
+          - /url: /soul/4b66c2db-8166-4293-b1aa-5269c9effb07
+      - listitem:
+        - link "Nicotine Glow":
+          - /url: /soul/5dbb6a20-0541-4f06-8352-a2408d8781dc
+      - listitem:
+        - link "Night Beach":
+          - /url: /soul/62ba1751-63af-4648-a11c-711ac64e216a
+      - listitem:
+        - link "Night Rider":
+          - /url: /soul/1fba888b-9ab0-447f-a6a4-9ce5251ec2a6
+      - listitem:
+        - link "Object Makeup":
+          - /url: /soul/b7908955-2868-4e35-87a0-35e50cb92e5d
+      - listitem:
+        - link "Office Beach":
+          - /url: /soul/e454956b-caf2-4913-a398-dbc03f1cbedf
+      - listitem:
+        - link "Overexposed":
+          - /url: /soul/d8a35238-ba42-48a0-a76a-186a97734b9d
+      - listitem:
+        - link "Paper Face":
+          - /url: /soul/7fa63380-64b7-48b1-b684-4c9ef37560a9
+      - listitem:
+        - link "Pixelated Face":
+          - /url: /soul/34c50302-83ff-487d-b3a9-e35e501d80a7
+      - listitem:
+        - link "Quiet Luxury":
+          - /url: /soul/ff1ad8a2-94e7-4e70-a12f-e992ca9a0d36
+      - listitem:
+        - link "Rainy Day":
+          - /url: /soul/53bdadfa-8eb6-4eaa-8923-ebece4faa91c
+      - listitem:
+        - link "Realistic":
+          - /url: /soul/1cb4b936-77bf-4f9a-9039-f3d349a4cdbe
+      - listitem:
+        - link "Red Balloon":
+          - /url: /soul/3de71b9e-3973-4828-b246-a34c606e25a7
+      - listitem:
+        - link "Rhyme & Blues":
+          - /url: /soul/c7ea4e7a-c40c-498d-948c-1f6919631f60
+      - listitem:
+        - link "Sand":
+          - /url: /soul/ba3d7634-447e-455c-98e3-63705d5403b8
+      - listitem:
+        - link "Sea Breeze":
+          - /url: /soul/71ac929c-4002-4640-9b65-cb06402844c6
+      - listitem:
+        - link "Self-Care":
+          - /url: /soul/d24c016c-9fb1-47d0-9909-19f57a2830d4
+      - listitem:
+        - link "Shoe Check":
+          - /url: /soul/30458874-d9c0-4d5a-b2b7-597e0eee2404
+      - listitem:
+        - link "Sitting on the Street":
+          - /url: /soul/7696fd45-6e67-47d7-b800-096ce21cd449
+      - listitem:
+        - link "Spotlight":
+          - /url: /soul/40ff999c-f576-443c-b5b3-c7d1391a666e
+      - listitem:
+        - link "Static Glow":
+          - /url: /soul/fb9cee2b-632f-4fd4-ae4f-4664deecc0f4
+      - listitem:
+        - link "Street View":
+          - /url: /soul/a13917c7-02a4-450f-b007-e72d53151980
+      - listitem:
+        - link "Subway":
+          - /url: /soul/d2e8ba04-9935-4dee-8bc4-39ac789746fc
+      - listitem:
+        - link "Sunbathing":
+          - /url: /soul/bc00b419-f8ca-4887-a990-e2760c3cb761
+      - listitem:
+        - link "Sunset Beach":
+          - /url: /soul/26241c54-ed78-4ea7-b1bf-d881737c9feb
+      - listitem:
+        - link "Swords Hill":
+          - /url: /soul/5b6f467e-f509-4afe-a8db-4c07a6f3770d
+      - listitem:
+        - link "Through the Glass":
+          - /url: /soul/1900111a-4ce8-42a7-9394-7367f0e0385c
+      - listitem:
+        - link "tokyo drift":
+          - /url: /soul/ce9a88c2-c962-45e2-abaa-c8979d48f8d5
+      - listitem:
+        - link "Tokyo Street Style":
+          - /url: /soul/99de6fc5-1177-49b9-b2e9-19e17d95bcaf
+      - listitem:
+        - link "Tumblr":
+          - /url: /soul/0367d609-dfa1-4a81-a983-b2b19ecd6480
+      - listitem:
+        - link "Vintage Photo Booth":
+          - /url: /soul/83caff04-691c-468c-b4a0-fd6bbabe062b
+      - listitem:
+        - link "Y2K":
+          - /url: /soul/6b9e6b4d-325a-4a78-a0fb-a00ddf612380
+      - listitem:
+        - link "Y2K Posters":
+          - /url: /soul/cbefda85-0f76-49bd-82d7-9bcd65be00ca
+      - listitem:
+        - link "0.5 Outfit":
+          - /url: /soul/71fecd8c-6696-42df-b5eb-f69e4150ca01
+      - listitem:
+        - link "2000s Cam":
+          - /url: /soul/181b3796-008a-403b-b31e-a9b760219f17
+      - listitem:
+        - link "2000s Fashion":
+          - /url: /soul/facaafeb-4ab5-4384-92a1-b4086180e9ac
+      - listitem:
+        - link "2049":
+          - /url: /soul/53959c8a-4323-4b78-9888-e9f6fb0f6b98
+      - listitem:
+        - link "360 Cam":
+          - /url: /soul/294bb3ee-eaef-4d2a-93e3-164268803db4
+      - listitem:
+        - link "505room":
+          - /url: /soul/673cf0d4-c193-4fa2-8ad3-b4db4611e3ae
+      - listitem:
+        - link "7\\":
+          - /url: /soul/5659c554-9367-4a27-8c66-333c072cbbc2
+      - listitem:
+        - link "90’s Editorial":
+          - /url: /soul/710f9073-f580-48dc-b5c3-9bbc7cbb7f37
+      - listitem:
+        - link "90s Grain":
+          - /url: /soul/f5c094c7-4671-4d86-90d2-369c8fdbd7a5
+    - link:
+      - /url: /soul/job/165e0767-3f59-46f9-ba4e-fac1c3fa86de?styleId=255f4045-d68b-42b1-9e4c-f49d3263a9d7
+    - figure:
+      - img
+    - link:
+      - /url: /soul/job/a898694a-204e-4a41-81fe-bea0a156b327?styleId=6b9e6b4d-325a-4a78-a0fb-a00ddf612380
+    - figure:
+      - img
+    - link "View A bright iPhone photo taken in golden hour glow. A woman with loose waves and a cotton robe sits diagonally on the bed, a book open beside her. On the duvet lies a wooden tray with a petite bowl of yogurt, granola, and sliced mango arranged like a flower. Next to it, a small linen towel, a mint-colored matcha cup, and a silver spoon. Her feet are bare, one leg gently bent. The composition is balanced, lighting airy, with no harsh shadows. Feels like a moment stolen from a wellness magazine spread.":
+      - /url: /soul/job/b258ad5f-e382-462a-9857-ac6dd18e5f7b?styleId=464ea177-8d40-4940-8d9d-b438bab269c7
+    - figure:
+      - img "A bright iPhone photo taken in golden hour glow. A woman with loose waves and a cotton robe sits diagonally on the bed, a book open beside her. On the duvet lies a wooden tray with a petite bowl of yogurt, granola, and sliced mango arranged like a flower. Next to it, a small linen towel, a mint-colored matcha cup, and a silver spoon. Her feet are bare, one leg gently bent. The composition is balanced, lighting airy, with no harsh shadows. Feels like a moment stolen from a wellness magazine spread."
+    - link:
+      - /url: /soul/job/cb69b55d-c9c1-4b42-8154-e15bff555eff?styleId=2fcf02e2-919a-4642-8b31-d58bde5e6bd9
+    - figure:
+      - img
+    - link "View A candid photo of a woman sitting at a tiny outdoor table of a rustic Italian bar, sipping a small espresso cup with relaxed elegance. She wears a wide-brimmed straw hat, casual loose blouse in soft cream tones, and minimal gold hoop earrings, her hair styled in loose waves falling naturally around her face. The background features warm terracotta walls with textured, weathered surfaces and vibrant green wooden shutters, slightly open to reveal soft interior shadows. Natural late morning sunlight gently bathes the scene, casting warm, nuanced highlights and subtle shadows that accentuate the textures of the stone pavement, fabric folds, and ceramic cup. The composition is casually framed with a slight tilt, capturing the spontaneous intimacy and effortless elegance typical of authentic iPhone photography in a charming Italian village.":
+      - /url: /soul/job/b8463085-fc64-4cb0-845f-a7d592c37937?styleId=dab472a6-23f4-4cf8-98fe-f3e256f1b549
+    - figure:
+      - img "A candid photo of a woman sitting at a tiny outdoor table of a rustic Italian bar, sipping a small espresso cup with relaxed elegance. She wears a wide-brimmed straw hat, casual loose blouse in soft cream tones, and minimal gold hoop earrings, her hair styled in loose waves falling naturally around her face. The background features warm terracotta walls with textured, weathered surfaces and vibrant green wooden shutters, slightly open to reveal soft interior shadows. Natural late morning sunlight gently bathes the scene, casting warm, nuanced highlights and subtle shadows that accentuate the textures of the stone pavement, fabric folds, and ceramic cup. The composition is casually framed with a slight tilt, capturing the spontaneous intimacy and effortless elegance typical of authentic iPhone photography in a charming Italian village."
+    - link:
+      - /url: /soul/job/69ffd880-3c1a-4330-8277-f2d3bed98e10?styleId=bc00b419-f8ca-4887-a990-e2760c3cb761
+    - figure:
+      - img
+    - link "View A pair of mannequin legs dressed in sparkling glitter socks protrudes boldly from a voluminous mountain of cotton candy, its delicate, spun sugar texture softly aglow under a focused studio spotlight. Wisps of ethereal fog swirl gently around the scene, diffusing the bright, cool light and lending a dreamlike haze that contrasts with the sharp shine on the socks' glistening threads. The smooth, featureless plastic of the legs reflects the light with subtle sheen, emphasizing their artificial stillness amid the sweet, fluffy chaos surrounding them. The composition centers tightly on this surreal juxtaposition, capturing the fine details of the glitter's shimmer and the airy cotton candy's spun texture in crisp, tactile clarity, bathed in cool white and pale pink hues that meld into a softly blurred background.":
+      - /url: /soul/job/83034e1a-1d32-4053-a1bc-bbcb7a9491c8?styleId=464ea177-8d40-4940-8d9d-b438bab269c7
+    - figure:
+      - img "A pair of mannequin legs dressed in sparkling glitter socks protrudes boldly from a voluminous mountain of cotton candy, its delicate, spun sugar texture softly aglow under a focused studio spotlight. Wisps of ethereal fog swirl gently around the scene, diffusing the bright, cool light and lending a dreamlike haze that contrasts with the sharp shine on the socks' glistening threads. The smooth, featureless plastic of the legs reflects the light with subtle sheen, emphasizing their artificial stillness amid the sweet, fluffy chaos surrounding them. The composition centers tightly on this surreal juxtaposition, capturing the fine details of the glitter's shimmer and the airy cotton candy's spun texture in crisp, tactile clarity, bathed in cool white and pale pink hues that meld into a softly blurred background."
+    - link "View 3. A glamorous shot of a woman in an outdoor café, wearing a camel coat and oversized sunglasses. Her red lipstick pops against her fair skin. She’s holding a cappuccino, natural golden hour lighting.":
+      - /url: /soul/job/5ba29aaf-a69e-49d2-8b7e-f940db3d2f2c?styleId=1b798b54-03da-446a-93bf-12fcba1050d7
+    - figure:
+      - img "3. A glamorous shot of a woman in an outdoor café, wearing a camel coat and oversized sunglasses. Her red lipstick pops against her fair skin. She’s holding a cappuccino, natural golden hour lighting."
+    - link:
+      - /url: /soul/job/63838d69-5424-4b2f-b260-86af537cc501?styleId=36061eb7-4907-4cba-afb1-47afcf699873
+    - figure:
+      - img
+    - 'link "View A bird’s-eye view of a wooden slatted tea tray. Centered: a shallow white porcelain teacup with golden Darjeeling tea, and a gaiwan beside it filled with spent twisted leaves. In the corner, several ruby red pomegranate seeds in a tiny ceramic bowl. Calm morning setting, subtle reflections in the tea, quiet contemplative energy."':
+      - /url: /soul/job/0632359a-1a64-477e-bd57-c5e6acd19c29?styleId=464ea177-8d40-4940-8d9d-b438bab269c7
+    - figure:
+      - 'img "A bird’s-eye view of a wooden slatted tea tray. Centered: a shallow white porcelain teacup with golden Darjeeling tea, and a gaiwan beside it filled with spent twisted leaves. In the corner, several ruby red pomegranate seeds in a tiny ceramic bowl. Calm morning setting, subtle reflections in the tea, quiet contemplative energy."'
+    - link:
+      - /url: /soul/job/e4fa398f-d33d-4c0e-972e-8cd051ecacb1?styleId=7696fd45-6e67-47d7-b800-096ce21cd449
+    - figure:
+      - img
+    - link "View 18. A girl in a business suit stands at a café counter, one hand inside her large black tote bag, searching for her card. Minimalist setting, neutral tones, and overhead lighting. iPhone perspective.":
+      - /url: /soul/job/c63686a7-cad2-4a60-9b17-3201313f2a89?styleId=1b798b54-03da-446a-93bf-12fcba1050d7
+    - figure:
+      - img "18. A girl in a business suit stands at a café counter, one hand inside her large black tote bag, searching for her card. Minimalist setting, neutral tones, and overhead lighting. iPhone perspective."
+    - link:
+      - /url: /soul/job/e40e36fe-3890-47bf-a4d8-a298c9d991e4?styleId=96758335-d1d1-42b7-9c21-5ac38c433485
+    - figure:
+      - img
+    - link:
+      - /url: /soul/job/4f7307cd-f754-482f-9399-fdfe651fb5f4?styleId=bab6e4bd-9093-4bb5-a371-01ef6cbd58ad
+    - figure:
+      - img
+    - link:
+      - /url: /soul/job/170d2e75-7f4f-45cb-9e8e-2167a0e663a7?styleId=4c24b43b-1984-407a-a0ae-c514f29b7e66
+    - figure:
+      - img
+    - link "View A tattooed man in baggy jeans and no shirt walks barefoot along a rocky riverbank, jeans soaked at the bottom. His torso is fully inked with Hannya masks, waves, and maple leaves. His face is turned downward, arms relaxed. The river reflects pale sky. The colors are muted, skin slightly desaturated in the iPhone camera. Everything feels cool, slow, peaceful — no staging.":
+      - /url: /soul/job/db7a10f8-910a-425f-9eb7-227df49270f9?styleId=464ea177-8d40-4940-8d9d-b438bab269c7
+    - figure:
+      - img "A tattooed man in baggy jeans and no shirt walks barefoot along a rocky riverbank, jeans soaked at the bottom. His torso is fully inked with Hannya masks, waves, and maple leaves. His face is turned downward, arms relaxed. The river reflects pale sky. The colors are muted, skin slightly desaturated in the iPhone camera. Everything feels cool, slow, peaceful — no staging."
+    - link:
+      - /url: /soul/job/3ad3e859-cf5b-44b1-b243-663f1cd18e42?styleId=1fc861ed-5923-41a6-9963-b9f04681dddd
+    - figure:
+      - img
+    - link:
+      - /url: /soul/job/d1bd875e-3d96-46b4-866f-0f8604896ae9?styleId=facaafeb-4ab5-4384-92a1-b4086180e9ac
+    - figure:
+      - img
+    - link:
+      - /url: /soul/job/4b0a1a14-5b53-4b3a-aee9-ed793822f0fe?styleId=ad9de607-3941-4540-81ea-ba978ef1550b
+    - figure:
+      - img
+    - link:
+      - /url: /soul/job/a88412cb-5c13-4b85-8d13-2cb8d5219623?styleId=96758335-d1d1-42b7-9c21-5ac38c433485
+    - figure:
+      - img
+    - img
+  - contentinfo:
+    - navigation:
+      - paragraph: © 2026 Higgsfield, Inc. All rights reserved.
+      - list:
+        - listitem:
+          - button "Change language":
+            - img "English flag"
+            - text: English
+            - img
+        - listitem:
+          - link "Help center":
+            - /url: /creator-hub/help-center
+        - listitem:
+          - link "Cookie Notice":
+            - /url: /cookie-notice
+        - listitem:
+          - button "Cookie Settings"
+        - listitem:
+          - link "Terms":
+            - /url: /terms-of-use-agreement
+        - listitem:
+          - link "Privacy":
+            - /url: /privacy-policy
+        - listitem:
+          - link "Report a vulnerability":
+            - /url: https://bugcrowd.com/engagements/higgsfield-ai-vdp-pro
+  - region "Notifications Alt+T"
+  - region "Notifications alt+T"
+  - region "Notifications alt+T"
+  - region "Notifications"

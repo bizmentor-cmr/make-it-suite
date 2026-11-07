@@ -1,0 +1,30 @@
+[
+  {
+    "t": 1793620042821,
+    "dir": "REQ",
+    "url": "/_clerk/v1/client/sign_ins?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+    "method": "POST",
+    "body": "identifier=charles.fabou%40yahoo.fr&password=U6B9iGs%2BquVj%2F79&locale=en-US&timezone=Europe%2FLondon&__clerk_protect_token=v1.eyJ0eXAiOiJzcGMiLCJpc3MiOiJzcGVjdGVyIiwiYXVkIjoid2FyZGVuIiwiaWF0IjoxNzkzNjIwMDI0LCJleHAiOjE3OTM2NjMyMjQsImp0aSI6ImE0NWMyNmU2OTQ1ZTgzM2E1OWY0ZmYzYWFkOTBkZjI2IiwiaW5zdGFuY2Ui"
+  },
+  {
+    "t": 1793620043450,
+    "dir": "REQ",
+    "url": "/_clerk/v1/client/sign_ins/sia_3LY9H46OLktivb8Ra0x6oL9UJ6y/prepare_second_factor?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+    "method": "POST",
+    "body": "strategy=email_code&__clerk_protect_token=v1.eyJ0eXAiOiJzcGMiLCJpc3MiOiJzcGVjdGVyIiwiYXVkIjoid2FyZGVuIiwiaWF0IjoxNzkzNjIwMDI0LCJleHAiOjE3OTM2NjMyMjQsImp0aSI6ImE0NWMyNmU2OTQ1ZTgzM2E1OWY0ZmYzYWFkOTBkZjI2IiwiaW5zdGFuY2UiOiJpbnNfMnVvbTcwNHFxOTNrcGJ6VkxlUVdQMmx5Umg3IiwicGlkIjoiNnYya2llbmxpNGp5ZDM2cGR3NjN"
+  },
+  {
+    "t": 1793620043450,
+    "dir": "RES",
+    "status": 200,
+    "url": "/_clerk/v1/client/sign_ins?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+    "body": "{\"response\":{\"object\":\"sign_in_attempt\",\"id\":\"sia_3LY9H46OLktivb8Ra0x6oL9UJ6y\",\"status\":\"needs_second_factor\",\"supported_identifiers\":[\"email_address\"],\"supported_first_factors\":[{\"strategy\":\"password\"},{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true},{\"strategy\":\"reset_password_email_code\",\"safe_identifier\":\"c"
+  },
+  {
+    "t": 1793620044048,
+    "dir": "RES",
+    "status": 200,
+    "url": "/_clerk/v1/client/sign_ins/sia_3LY9H46OLktivb8Ra0x6oL9UJ6y/prepare_second_factor?__clerk_api_version=2026-08-20&_clerk_js_version=6.42.0",
+    "body": "{\"response\":{\"object\":\"sign_in_attempt\",\"id\":\"sia_3LY9H46OLktivb8Ra0x6oL9UJ6y\",\"status\":\"needs_second_factor\",\"supported_identifiers\":[\"email_address\"],\"supported_first_factors\":[{\"strategy\":\"password\"},{\"strategy\":\"email_code\",\"safe_identifier\":\"charles.fabou@yahoo.fr\",\"email_address_id\":\"idn_3LUlphIhphwWhaJ5VRpfsFYmoh9\",\"primary\":true},{\"strategy\":\"reset_password_email_code\",\"safe_identifier\":\"c"
+  }
+]

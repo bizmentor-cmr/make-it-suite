@@ -1,0 +1,230 @@
+- - - - - - - - - - - - - - - Do My Top-Up Credits Expire And What Happens If I Cancel- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Higgsfield- Explore
+- Image
+- Video
+- Audio
+- MCP
+- API
+-
+- GenjutsuNew
+- Content FactoryNew
+- PlayableNew
+- AI Influencer
+- AcademyNew
+- Katana
+- ChatGPT Plugin
+- Ads Studio
+- Effects
+- Cinema Studio
+- ContestsContests
+- Marketing Studio
+- Supercomputer
+- Edit
+- Community
+- Plugins
+- Canvas
+- Originals
+- - Creator Hub
+Creator HubHelp centerBlogChangelogCustomer StoriesSearch Creator HubOn this page
+- When do different credit types expire, and what happens if I cancel?
+- What happens to my credits if I cancel?
+- Can I use Credit Pack credits without an active subscription?
+- Help center
+- /
+- Credits
+- /
+- Do my top-up credits expire, and what happens if I cancel?
+BackCopy page
+Do my top-up credits expire, and what happens if I cancel?
+Copy page
+HiggsfieldAug 3, 20262 min
+Credit Pack and Auto-Refill credits expire 90 days from purchase. Subscription credits reset every billing cycle and don't roll over. If you cancel, credits purchased during your subscription stay available on the free plan: you can spend them on the models the free plan includes until their validity period ends.
+When do different credit types expire, and what happens if I cancel?
+When do different credit types expire, and what happens if I cancel?Credit type
+| Expires?
+| If you cancel
+|
+Subscription credits
+| Yes, at the end of each billing cycle
+| Usable until the end of the paid period, then expire permanently
+|
+Credit Pack credits
+| Yes, 90 days from purchase
+| Not lost. Stays available on the free plan; the 90-day timer keeps running
+|
+Auto-Refill credits
+| Yes, 90 days from purchase
+| Not lost. Stays available on the free plan; the 90-day timer keeps running
+|
+Promo credits
+| Yes, on the expiry date shown when issued
+| Not lost. Stays available on the free plan until its own expiry date
+|
+Boost Credits
+| Yes, 90 days from purchase
+| Not lost. Stays available on the free plan; the 90-day timer keeps running
+|
+What happens to my credits if I cancel?
+Subscription credits remain usable until the end of the paid period, then expire permanently.
+Credit Pack, Auto-Refill, promo, and Boost credits are not lost when you cancel: they stay available on the free plan, and you can spend them on the models the free plan includes. Their validity periods keep running as usual: Credit Pack, Auto-Refill, and Boost credits remain valid for 90 days from purchase, and promo credits keep the expiry date shown when they were issued. If a validity period ends before you spend the balance, those credits expire.
+If you have unused Credit Pack credits and want to reduce costs while keeping access to the full model lineup, consider downgrading to a lower plan instead of canceling. See How do I upgrade or downgrade my plan?
+Can I use Credit Pack credits without an active subscription?
+Yes. Purchasing a Credit Pack requires an active subscription, but the credits themselves stay available if you cancel later: Credit Pack, Auto-Refill, and promo credits can be spent on the free plan, on the models it includes. The free plan offers a smaller model lineup than paid plans, so the range of models you can spend these credits on is narrower.
+Got any questions left?
+Do Credit Pack credits roll over between billing cycles?Yes. Credit Pack credits aren't tied to the billing cycle: they remain available for 90 days from purchase regardless of renewals.
+I canceled. Are my Credit Pack credits gone?No. The 90-day validity timer keeps running, but the credits are unavailable until you reactivate.
+I have leftover Credit Pack credits and want to stop paying. What should I do?Consider downgrading to the lowest available plan instead of canceling: this keeps your credits accessible while reducing your monthly cost.
+Do promo credits expire if I cancel?Promo credits expire on the date shown when they're added to your account. If that date passes while your subscription is inactive, they're lost.
+Share Feedback
+Was this article helpful?
+YesNo
+by Higgsfield
+Share Feedback
+Was this article helpful?
+YesNo
+What uses my credits?What are Unlimited models, and which plans include them?
+AI-native creative suite
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+535 Mission St, 14th floor, San Francisco, CA, 94105
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+© 2026 Higgsfield, Inc. All rights reserved.
+-
+- Help center
+- Cookie Notice
+- Terms
+- Privacy
+- Report a vulnerability

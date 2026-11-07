@@ -1,0 +1,56 @@
+[
+ {
+  "phase": "login-start",
+  "url": "https://fnf-api-gw.higgsfield.ai/fnf/user",
+  "tokenLength": 9,
+  "isJwt": false,
+  "prefix": "undefi",
+  "charset": "base64url/alnum",
+  "decoded": null
+ },
+ {
+  "phase": "upload-ai-image",
+  "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/subscription",
+  "tokenLength": 4,
+  "isJwt": false,
+  "prefix": "null",
+  "charset": "base64url/alnum",
+  "decoded": null
+ },
+ {
+  "phase": "upload-ai-image",
+  "url": "https://fnf-api-gw.higgsfield.ai/fnf/user",
+  "tokenLength": 9,
+  "isJwt": false,
+  "prefix": "undefi",
+  "charset": "base64url/alnum",
+  "decoded": null
+ },
+ {
+  "phase": "upload-ai-image",
+  "url": "https://fnf-api-gw.higgsfield.ai/fnf/workspaces/subscription",
+  "tokenLength": 4,
+  "isJwt": false,
+  "prefix": "null",
+  "charset": "base64url/alnum",
+  "decoded": null
+ },
+ {
+  "phase": "upload-generate",
+  "url": "https://fnf-api-gw.higgsfield.ai/fnf/user/features",
+  "tokenLength": 9,
+  "isJwt": false,
+  "prefix": "undefi",
+  "charset": "base64url/alnum",
+  "decoded": null
+ },
+ {
+  "phase": "upload-generate",
+  "url": "https://fnf-api-gw.higgsfield.ai/fnf/user",
+  "tokenLength": 9,
+  "isJwt": false,
+  "prefix": "undefi",
+  "charset": "base64url/alnum",
+  "decoded": null
+ }
+]

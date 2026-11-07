@@ -1,0 +1,408 @@
+{
+  "image": {
+    "loadMs": 13910,
+    "url": "https://higgsfield.ai/ai/image?model=gpt_image_2",
+    "headings": [],
+    "prompts": [
+      {
+        "ph": "",
+        "ce": true
+      }
+    ],
+    "selects": [],
+    "radios": [],
+    "tabs": [],
+    "costs": [],
+    "genBtns": [
+      "Generate8.56.5"
+    ],
+    "sliders": [],
+    "btns": [
+      {
+        "t": "GPT Image 2",
+        "d": false
+      },
+      {
+        "t": "Auto",
+        "d": false
+      },
+      {
+        "t": "High",
+        "d": false
+      },
+      {
+        "t": "2K",
+        "d": false
+      },
+      {
+        "t": "1/4",
+        "d": false
+      },
+      {
+        "t": "Generate8.56.5",
+        "d": false
+      }
+    ],
+    "creditTexts": [],
+    "bodyText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets Don’t know where to start? Go to the Academy and start your journey Learn now START CREATING WITH HIGGSFIELD SOUL CINEMA Describe a scene, character, mood, or style — and watch it come to life A majestic golden eagle soaring over snowy mountains at sunrise, cinematic lighting, ultra detailed, 4k GPT Image 2 Auto High 2K 1/4 GENERATE 8.5 6.5"
+  },
+  "video": {
+    "loadMs": 15485,
+    "url": "https://higgsfield.ai/ai/video?model=seedance_2_5",
+    "headings": [
+      "Make videos in one click",
+      "Add image",
+      "Choose preset",
+      "Get video"
+    ],
+    "prompts": [
+      {
+        "ph": "",
+        "ce": true
+      }
+    ],
+    "selects": [],
+    "radios": [],
+    "tabs": [
+      "References",
+      "Extend Video",
+      "History",
+      "How it works"
+    ],
+    "costs": [],
+    "genBtns": [
+      "Generate80"
+    ],
+    "sliders": [],
+    "btns": [
+      {
+        "t": "Change",
+        "d": false
+      },
+      {
+        "t": "References",
+        "d": false
+      },
+      {
+        "t": "Extend Video",
+        "d": false
+      },
+      {
+        "t": "Elements",
+        "d": false
+      },
+      {
+        "t": "ModelSeedance 2.5",
+        "d": false
+      },
+      {
+        "t": "Duration5s",
+        "d": false
+      },
+      {
+        "t": "Aspect Ratio16:9",
+        "d": false
+      },
+      {
+        "t": "Quality1080p",
+        "d": false
+      },
+      {
+        "t": "BitrateHigh",
+        "d": false
+      },
+      {
+        "t": "Generate80",
+        "d": false
+      },
+      {
+        "t": "History",
+        "d": false
+      },
+      {
+        "t": "How it works",
+        "d": false
+      },
+      {
+        "t": "Filter",
+        "d": false
+      },
+      {
+        "t": "View",
+        "d": false
+      },
+      {
+        "t": "Get personal 55% OFFExpires in 01h 53m 07s",
+        "d": false
+      }
+    ],
+    "creditTexts": [],
+    "bodyText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets Create Video Edit Video Motion Control ERROR WHILE LOADING THE MEDIA... GENERAL Seedance 2.5 Change References Extend Video Add references Image, Video or Audio Prompt Slow cinematic drone shot over a foggy pine forest at dawn, golden light rays through mist Elements On Model Seedance 2.5 Duration 5s Aspect Ratio 16:9 Quality 1080p Bitrate High Generate 80 History How it works MAKE VIDEOS IN ONE CLICK 250+ presets for camera control, framing, and high-quality VFX - or use the general preset for manual control. ADD IMAGE Upload or generate an image to start your animation CHOOSE PRESET Pick a preset to control your image movement GET VIDEO Click generate to create your final animated video! Don’t know where to start? Go to the Academy and start your journey Get personal 55% OFF Expires in 01h 53m 07s"
+  },
+  "cinema": {
+    "loadMs": 13035,
+    "url": "https://higgsfield.ai/generate",
+    "headings": [
+      "BRING YOUR STORIES TO LIFE"
+    ],
+    "prompts": [
+      {
+        "ph": "",
+        "ce": true
+      }
+    ],
+    "selects": [],
+    "radios": [],
+    "tabs": [
+      "Image",
+      "Video"
+    ],
+    "costs": [],
+    "genBtns": [
+      "GENERATE80"
+    ],
+    "sliders": [],
+    "btns": [
+      {
+        "t": "Cinema Studio",
+        "d": false
+      },
+      {
+        "t": "Higgsfield AI",
+        "d": false
+      },
+      {
+        "t": "Home",
+        "d": false
+      },
+      {
+        "t": "My generations",
+        "d": false
+      },
+      {
+        "t": "My elements",
+        "d": false
+      },
+      {
+        "t": "My favorites",
+        "d": false
+      },
+      {
+        "t": "Community",
+        "d": false
+      },
+      {
+        "t": "New project",
+        "d": false
+      },
+      {
+        "t": "Learn more",
+        "d": false
+      },
+      {
+        "t": "All projects",
+        "d": false
+      },
+      {
+        "t": "holographictomato2094",
+        "d": false
+      },
+      {
+        "t": "Image",
+        "d": false
+      },
+      {
+        "t": "Video",
+        "d": false
+      },
+      {
+        "t": "References0/50",
+        "d": false
+      },
+      {
+        "t": "Film setupAuto",
+        "d": false
+      },
+      {
+        "t": "CameraAuto",
+        "d": false
+      },
+      {
+        "t": "Color paletteAuto",
+        "d": false
+      },
+      {
+        "t": "LightingAuto",
+        "d": false
+      },
+      {
+        "t": "Cinema Studio 4.0",
+        "d": false
+      },
+      {
+        "t": "1080p",
+        "d": false
+      },
+      {
+        "t": "16:9",
+        "d": false
+      },
+      {
+        "t": "5s",
+        "d": false
+      },
+      {
+        "t": "On",
+        "d": false
+      },
+      {
+        "t": "GENERATE80",
+        "d": false
+      },
+      {
+        "t": "Describe the scene you imagine...",
+        "d": false
+      },
+      {
+        "t": "Go PremiumUpgrade",
+        "d": false
+      },
+      {
+        "t": "Manage Account",
+        "d": false
+      },
+      {
+        "t": "Affiliate program",
+        "d": false
+      },
+      {
+        "t": "LanguageEnglish",
+        "d": false
+      }
+    ],
+    "creditTexts": [
+      "Credits10 leftGo PremiumUpgrade",
+      "Credits10 leftGo PremiumUpgrade",
+      "Credits10 left",
+      "Credits10 left",
+      "Credits"
+    ],
+    "bodyText": "Cinema Studio Higgsfield AI Home My generations My elements My favorites Community Projects New project Learn to make movies Practical workflows from working AI filmmakers Learn more All projects Pricing 30% OFF holographictomato2094 Explore BRING YOUR STORIES TO LIFE Image Video References 0/50 Film setup Auto Camera Auto Color palette Auto Lighting Auto Describe your scene - use @ to add characters & locations Cinema Studio 4.0 1080p 16:9 5s On 1/4 GENERATE 80 Describe the scene you imagine... holographictomato2094 Free Plan Credits 10 left Go Premium Upgrade View profile Manage Account Affiliate program Join Community Language English Sign Out"
+  },
+  "effects": {
+    "loadMs": 11532,
+    "url": "https://higgsfield.ai/effects/use",
+    "headings": [
+      "Floating fall",
+      "UPLOAD IMAGE"
+    ],
+    "prompts": [
+      {
+        "ph": "Describe your changes, e.g. add neon glow or change outfit to black suit",
+        "ce": false
+      }
+    ],
+    "selects": [],
+    "radios": [],
+    "tabs": [
+      "History",
+      "How it works"
+    ],
+    "costs": [],
+    "genBtns": [
+      "Generate84"
+    ],
+    "sliders": [],
+    "btns": [
+      {
+        "t": "Change",
+        "d": false
+      },
+      {
+        "t": "CharacterSelect a PNG or JPG from your device",
+        "d": false
+      },
+      {
+        "t": "OptionalLocationSelect a PNG or JPG from your",
+        "d": false
+      },
+      {
+        "t": "OptionalProductsSelect a PNG or JPG from your",
+        "d": false
+      },
+      {
+        "t": "Resolution720p",
+        "d": false
+      },
+      {
+        "t": "Aspect Ratio9:16",
+        "d": false
+      },
+      {
+        "t": "Try in ChatGPT",
+        "d": false
+      },
+      {
+        "t": "Generate84",
+        "d": false
+      },
+      {
+        "t": "History",
+        "d": false
+      },
+      {
+        "t": "How it works",
+        "d": false
+      }
+    ],
+    "creditTexts": [],
+    "bodyText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets Change FLOATING FALL Character Select a PNG or JPG from your device Optional Location Select a PNG or JPG from your device Optional Products Select a PNG or JPG from your device Toggle prompt Prompt Resolution 720p Aspect Ratio 9:16 Try in ChatGPT Generate 84 History How it works UPLOAD IMAGE Select a PNG or JPG from your device."
+  },
+  "layers": {
+    "loadMs": 11148,
+    "url": "https://higgsfield.ai/layers",
+    "headings": [
+      "Turn flat imagesinto editable layers.",
+      "My projects"
+    ],
+    "prompts": [],
+    "selects": [],
+    "radios": [],
+    "tabs": [],
+    "costs": [],
+    "genBtns": [],
+    "sliders": [],
+    "btns": [
+      {
+        "t": "Upload Media",
+        "d": false
+      }
+    ],
+    "creditTexts": [],
+    "bodyText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets RELIGHT INPAINT LAYER DECOMPOSITION EDIT TEXT EFFECTS HIGGSFIELD LAYERS TURN FLAT IMAGES INTO EDITABLE LAYERS. Turn flat images into editable layers. Separate, edit, and rebuild any image. Every element, now yours to edit. Upload Media My projects Your edit projects will appear here Upload an image to separate it into editable layers — every project you start is saved here."
+  },
+  "canvas": {
+    "loadMs": 11811,
+    "url": "https://higgsfield.ai/canvas",
+    "headings": [
+      "Generate stunningmedia with AI Canvas"
+    ],
+    "prompts": [],
+    "selects": [],
+    "radios": [],
+    "tabs": [],
+    "costs": [],
+    "genBtns": [
+      "Create Canvas"
+    ],
+    "sliders": [],
+    "btns": [
+      {
+        "t": "Create Canvas",
+        "d": false
+      }
+    ],
+    "creditTexts": [],
+    "bodyText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets Two athletic friends take a break on an outdoor basketball court on a sunny day. A young woman in a fitted crop top and matching shorts sits in the foreground. HIGGSFIELD CANVAS GENERATE STUNNING MEDIA WITH AI CANVAS No Boards Make images, videos, and ideas in one place Create Canvas Explore canvas templates Long Video Example Canvas template Simple Seedance 2.0 Canvas template Extend Video Canvas template Image Edit Canvas template StoryBoard With Elements Canvas template"
+  }
+}

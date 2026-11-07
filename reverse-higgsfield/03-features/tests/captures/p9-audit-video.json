@@ -1,0 +1,93 @@
+{
+  "loadMs": 15485,
+  "url": "https://higgsfield.ai/ai/video?model=seedance_2_5",
+  "headings": [
+    "Make videos in one click",
+    "Add image",
+    "Choose preset",
+    "Get video"
+  ],
+  "prompts": [
+    {
+      "ph": "",
+      "ce": true
+    }
+  ],
+  "selects": [],
+  "radios": [],
+  "tabs": [
+    "References",
+    "Extend Video",
+    "History",
+    "How it works"
+  ],
+  "costs": [],
+  "genBtns": [
+    "Generate80"
+  ],
+  "sliders": [],
+  "btns": [
+    {
+      "t": "Change",
+      "d": false
+    },
+    {
+      "t": "References",
+      "d": false
+    },
+    {
+      "t": "Extend Video",
+      "d": false
+    },
+    {
+      "t": "Elements",
+      "d": false
+    },
+    {
+      "t": "ModelSeedance 2.5",
+      "d": false
+    },
+    {
+      "t": "Duration5s",
+      "d": false
+    },
+    {
+      "t": "Aspect Ratio16:9",
+      "d": false
+    },
+    {
+      "t": "Quality1080p",
+      "d": false
+    },
+    {
+      "t": "BitrateHigh",
+      "d": false
+    },
+    {
+      "t": "Generate80",
+      "d": false
+    },
+    {
+      "t": "History",
+      "d": false
+    },
+    {
+      "t": "How it works",
+      "d": false
+    },
+    {
+      "t": "Filter",
+      "d": false
+    },
+    {
+      "t": "View",
+      "d": false
+    },
+    {
+      "t": "Get personal 55% OFFExpires in 01h 53m 07s",
+      "d": false
+    }
+  ],
+  "creditTexts": [],
+  "bodyText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets Create Video Edit Video Motion Control ERROR WHILE LOADING THE MEDIA... GENERAL Seedance 2.5 Change References Extend Video Add references Image, Video or Audio Prompt Slow cinematic drone shot over a foggy pine forest at dawn, golden light rays through mist Elements On Model Seedance 2.5 Duration 5s Aspect Ratio 16:9 Quality 1080p Bitrate High Generate 80 History How it works MAKE VIDEOS IN ONE CLICK 250+ presets for camera control, framing, and high-quality VFX - or use the general preset for manual control. ADD IMAGE Upload or generate an image to start your animation CHOOSE PRESET Pick a preset to control your image movement GET VIDEO Click generate to create your final animated video! Don’t know where to start? Go to the Academy and start your journey Get personal 55% OFF Expires in 01h 53m 07s"
+}

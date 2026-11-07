@@ -1,0 +1,881 @@
+{
+  "tool": "image",
+  "model": "Higgsfield Soul 2.0",
+  "prompt": "A majestic golden eagle soaring over snowy mountains at sunrise, cinematic lighting, ultra detailed",
+  "success": false,
+  "balanceBefore": "10",
+  "barText": [
+    "Soul 2.0",
+    "Color TransferNew",
+    "3:4",
+    "1.5k",
+    "Off",
+    "1/4",
+    "Change",
+    "Generate0.125"
+  ],
+  "urlAfterModel": "https://higgsfield.ai/ai/image?model=soul-v2",
+  "modelSelected": false,
+  "genButton": "Generate0.125",
+  "outcome": "TIMEOUT",
+  "balanceAfter": "10",
+  "myGenText": "Explore Image Video Audio MCP API Genjutsu New Content Factory New Playable New AI Influencer Academy New Katana ChatGPT Plugin Ads Studio Effects Cinema Studio Contests Contests Marketing Studio Supercomputer Edit Community Plugins Canvas Originals Pricing 30% OFF Enterprise Assets 404 Page not found Back to home © 2026 Higgsfield, Inc. All rights reserved. English Help center Cookie Notice Cooki",
+  "finalState": {
+    "imgs": [
+      {
+        "src": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=16,quality=85/https://static.higgsfield.ai/public/asset/empty/folder/folder-brand.webp",
+        "w": 1440,
+        "h": 1170
+      }
+    ],
+    "videos": [],
+    "paywall": false,
+    "noCredits": false,
+    "progressAria": [],
+    "genWord": false,
+    "errs": [],
+    "url": "https://higgsfield.ai/ai/image?model=soul-v2"
+  },
+  "net": [
+    {
+      "t": 1793632941933,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zrcnWg3S9NdpTJVi.js",
+      "body": ""
+    },
+    {
+      "t": 1793632941934,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-OCHOTcIdvF1Utlrx.css",
+      "body": "@layer properties;@layer theme,base,components,utilities;@property --cb-badge-angle{syntax:\"<angle>\";inherits:false;initial-value:0deg}@keyframes cbBadgeRotate{0%{--cb-badge-angle:0deg}to{--cb-badge-angle:360deg}}.cb-base-gradient{opacity:.6;background:conic-gradient(#ff6b2b 0deg,#f97316 30deg,#ef4444 60deg,#ec4899 90deg,#d946ef 120deg,#8b5cf6 150deg,#6366f1 180deg,#0ea5e9 210deg,#14b8a6 240deg,#10b981 270deg,#84cc16 300deg,#eab308 330deg,#ff6b2b 360deg);width:200%;height:200%;animation:linear infinite cbBaseRotate;position:absolute;top:-50%;left:-50%}.cb-blob{will-change:transform, opacity;border-radius:50%;animation-timing-function:cubic-bezier(.4,0,.6,1);animation-iteration-count:infinite;position:absolute;top:0;left:0}.cb-blob-a{background:radial-gradient(circle,#ff6b2b,#f97316 30%,#00"
+    },
+    {
+      "t": 1793632941941,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zAzGZfGqLFDTtWtP.js",
+      "body": ""
+    },
+    {
+      "t": 1793632941976,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-5Ma7vqSPIGUQ2lKL.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"5de53bbd-fb31-58ca-8b7f-b3ac8d66b7b0\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-k-M9EkccsAYAlGuz.js\",\"./187ac5b1-6UJeH7BLHWg4aJji.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./18"
+    },
+    {
+      "t": 1793632941994,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-7iVzavBcMLvA3hnJ.js",
+      "body": ""
+    },
+    {
+      "t": 1793632941996,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-_8luTqxWXcZOipP-.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"5b42bed0-98a5-5f52-8ae5-dcb909b839f7\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{fo as t,ho as n,mo as r,po as i}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{As as a,Os as o}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";function s(e){let t=i(e.getVelocity()),r=()=>{let n=e.getVelocity();t.set(n),n&&o.update(r)};return n(e,`change`,()=>{o.update(r,!1,!0)}),t}function c(){return(c=e((()=>{a(),r(),t()})))()}export{s as n,c as t};\n//# debugId=5b42bed0-98a5-5f52-8ae5-dcb909b839f7\n\n//# chunkId=5b42bed0-98a5-5f52-8ae5-dcb909b"
+    },
+    {
+      "t": 1793632942028,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-n-hd_36xzhZdgJ77.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942029,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zrcnWg3S9NdpTJVi.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"0e9561e4-5026-5e5e-bcc1-2f572cfb9301\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as n,qc as r}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{$n as i,Ar as a,Er as o,Or as s,Qn as c,Tr as l,dn as u,fn as d,fr as f,kr as p,mn as m,mr as h,pn as g,vr as _,yr as v}from\"./187ac5b1-dWKTdU_4u1nn4K2u.js\";function y(e){return e===`indeterminate`}function b(e){return y(e)?`indeterminate`:e?`checked`:`unchecked`}var x,S,C,w,T,E,D,O,k,A,j,M,N;function P(){return(P=t((()=>{x=e(n(),1),s(),o(),_(),g(),u(),i(),h(),S=r"
+    },
+    {
+      "t": 1793632942031,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-orfjtBNqKSUCBZgv.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942032,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-zAzGZfGqLFDTtWtP.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"69039513-7049-5d1d-af38-b4f7b17532d4\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as n,qc as r}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{Ar as i,Er as a,Tr as o,fr as s,gn as c,hn as l,in as u,mr as d,nn as f,rn as p,tn as m,vr as h,yr as g}from\"./187ac5b1-dWKTdU_4u1nn4K2u.js\";var _,v,y,b;function x(){return(x=t((()=>{_=e(n(),1),h(),d(),v=r(),y=`Toggle`,b=_.forwardRef((e,t)=>{let{pressed:n,defaultPressed:r,onPressedChange:a,...o}=e,[c,l]=g({prop:n,onChange:a,defaultProp:r!=null&&r,caller:y});return"
+    },
+    {
+      "t": 1793632942095,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-tuhTeBSbXNmA1DZF.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942127,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-7iVzavBcMLvA3hnJ.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"763999aa-95c7-579e-9f2d-924b00130cea\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-Lr5JNtpqSD4rMT_v.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./187ac5b1-U7vJ3jGk5JregR_S.js\",\"./18"
+    },
+    {
+      "t": 1793632942129,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-7mUA5O0G-KsY-YIY.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942131,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-n-hd_36xzhZdgJ77.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"90af1fe9-ea3d-5b31-8196-d1c22c9ab4ea\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-VFNc4TQl5Cx94RRl.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-1sixIIQmbFJLczP2.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./18"
+    },
+    {
+      "t": 1793632942133,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-NAZJNGw82Sg7L8Fy.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942135,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-orfjtBNqKSUCBZgv.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"0a8321a3-eebf-534c-804b-e362fc1f1bd3\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-PryVwndMmK_20Gg_.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-1sixIIQmbFJLczP2.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./18"
+    },
+    {
+      "t": 1793632942141,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-sLhfHMZdQIb0ZwlH.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942143,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-tuhTeBSbXNmA1DZF.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"2a86666f-3d2c-5866-8e77-bbae253bdb44\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-OIMyCNtQa7Z3IXuo.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./187ac5b1-U7vJ3jGk5JregR_S.js\",\"./187ac5b1-_4Aw3Ge-A-7Y7Zxt.js\",\"./18"
+    },
+    {
+      "t": 1793632942180,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-z8zzD0_8zE-KlXi4.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942183,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-7mUA5O0G-KsY-YIY.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"6d1be3cf-8aee-504e-84c2-458341eb02c2\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{qc as t}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";var n,r;function i(){return(i=e((()=>{n=t(),r=({size:e=24,...t})=>(0,n.jsx)(`svg`,{width:e,height:e,viewBox:`0 0 24 24`,fill:`none`,xmlns:`http://www.w3.org/2000/svg`,...t,children:(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,strokeLinejoin:`round`,d:`M10.5 10.5H12v5m9.5-3.5a9.5 9.5 0 1 1-19 0 9.5 9.5 0 0 1 19 0`}),(0,n.jsx)(`path`,{fil"
+    },
+    {
+      "t": 1793632942228,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-o5-M-lTbGXnpldUv.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942230,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-NAZJNGw82Sg7L8Fy.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"33647420-5cf0-5d10-ad72-2973f72c3d28\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-nzf82onJ7dJU94lV.js\",\"./187ac5b1-1sixIIQmbFJLczP2.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./18"
+    },
+    {
+      "t": 1793632942231,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-NCQbsmzX4xDR9oQ0.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942233,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-sLhfHMZdQIb0ZwlH.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"f73e8f5a-04ef-5baa-9a8f-b7c076c8dd0a\")}catch(e){}}();import{a as e,n as t,o as n,s as r}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Nb as i,Ox as a,Rb as o,bx as s,cu as c,vx as l,yx as u}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Jc as d,qc as f}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{$S as p,DV as m,Du as h,Iu as g,Lu as _,Mu as v,OV as y,Ou as ee,Pu as te,Ru as ne,Tu as re,_S as b,bu as x,cu as S,du as ie,eC as ae,fu as C,gu as oe,hS as se,hu as w,lu as ce,mS as le,mu as ue,ou as T,pu as de,su as fe,tC as E,uu as D,vu as O,wu as k"
+    },
+    {
+      "t": 1793632942245,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-FGrJ48T8qm1-bmoS.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942256,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-z8zzD0_8zE-KlXi4.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"03f2b82f-cd9b-5daf-92d2-58bc4f8d98f4\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{b as a,x as o}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Ar as s,N_ as c,Nb as l,Ox as u,Rb as d,Xb as f,Xf as p,Zf as m,bx as h,g,jr as _,vx as v,yx as y,z_ as b}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{as as ee,ba as te,os as x,ya as S}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{Aa as ne,Ba as re,Ha as ie,Ia as C,Ma as w,Pa as ae,Va as oe,cn as T,dn as E,ja as D,ln as se,nn as ce,rn as O,un as k}from\""
+    },
+    {
+      "t": 1793632942282,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-l9_u1RCZnqESWgHB.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942283,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-nEYype2MIWxUlyIT.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942285,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-o5-M-lTbGXnpldUv.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"ec6ad557-99ae-517e-92ed-1a4f55c57801\")}catch(e){}}();import{a as e,n as t,o as n,s as r}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{C as i,S as a,T as o,b as s,x as c}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Do as l,Oo as u,Xa as d,Ya as f,io as p,rc as m,ro as h,tc as g}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{Cu as _,Dx as v,M as ee,N_ as y,P as te,Yd as b,Zd as ne,cE as re,cf as x,hE as ie,lx as S,mp as ae,pp as C,ux as w,vx as oe,wu as T,wx as E,yx as se}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{$n as ce,Zn as le}from\"./187ac5"
+    },
+    {
+      "t": 1793632942286,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-NCQbsmzX4xDR9oQ0.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"1af14cbd-34e2-5d4f-885f-36b667ffa8cc\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Dy as n,Ey as r,Fi as i,Ii as a,Kd as o,Mi as s,Ni as c,Oy as l,Pi as u,Qi as d,Wd as f,Xi as p,Yd as m,Zd as ee,ji as h,lx as te,ux as g}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{$o as _,Bn as v,Co as y,So as ne,_o as b,ao as re,es as x,go as S,io as C,os as w,zn as T}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{Dr as E,Er as D,Mi as O,Ni as k,Tr as A,_n as ie,br as j,gr as M,vn as ae,yr as N}from\"./187ac5b1-U7vJ3jGk5Jre"
+    },
+    {
+      "t": 1793632942288,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-h41UpRRVt4O2PVX9.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942290,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-FGrJ48T8qm1-bmoS.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"c60d46db-6334-55a6-b102-1f1f166ea806\")}catch(e){}}();import{a as e,n as t,o as n,s as r}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Dy as i,Ey as a,Yd as o,Zd as s,lx as c,ux as l,vf as u,yf as d}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Jc as f,fc as p,qc as m,sc as h}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{Bb as g,Bw as _,Cn as v,Ft as y,Fw as b,Gw as x,Hw as S,Kw as C,Pt as w,Rt as T,Ww as E,xn as D,zt as O}from\"./187ac5b1-1sixIIQmbFJLczP2.js\";import{Dn as k,En as ee,_h as A,at as te,ct as ne,dt as re,gh as j,hh as M,it as ie,lt "
+    },
+    {
+      "t": 1793632942334,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-_O8h2MvjOS_8ClCv.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942336,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-7SZbPF6OFuVpkf_p.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942337,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-nEYype2MIWxUlyIT.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"ec67188d-ef34-5f73-89ac-314014d6755e\")}catch(e){}}();import{a as e,n as t,o as n,s as r}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Cb as i,Cy as a,Ey as o,N_ as s,Ox as c,Oy as l,Rb as u,Sb as d,bx as f,vf as ee,xy as te,yb as p,yf as m}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Ls as h,Rs as ne,Vs as g,po as _,zs as v}from\"./187ac5b1-U7vJ3jGk5JregR_S.js\";import{Jc as y,fc as b,qc as x,sc as S}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{$r as C,Rr as w,ei as T,zr as E}from\"./187ac5b1-dWKTdU_4u1nn4K2u.js\";import{Aa as re,Ar as ie,E_ as a"
+    },
+    {
+      "t": 1793632942338,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-LHryX8Hyc-RYdEvp.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942339,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-h41UpRRVt4O2PVX9.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"3fdd3114-a4d0-5973-ab84-11391ba585c0\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Eo as a,wo as o}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{Ci as s,Si as c,Xt as l,Zt as u,lr as d,ur as f}from\"./187ac5b1-0aZIiDw_m82bdyzI.js\";import{$o as p,es as m,os as h}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{cr as g,es as _,lr as v,ns as y,ti as b}from\"./187ac5b1-U7vJ3jGk5JregR_S.js\";import{Jc as x,qc as S}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{$r as C,Gn as ee,Hn as te,Nn as w,Un as T,Wn a"
+    },
+    {
+      "t": 1793632942339,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-l9_u1RCZnqESWgHB.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"4d42e33c-75d5-583e-9cb3-ad896dc175c9\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{qc as t}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";var n,r;function i(){return(i=e((()=>{n=t(),r=({size:e=24,...t})=>(0,n.jsx)(`svg`,{width:e,height:e,viewBox:`0 0 24 24`,fill:`none`,xmlns:`http://www.w3.org/2000/svg`,...t,children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,strokeLinejoin:`round`,strokeWidth:1.5,d:`m13.793 16-3.647-3.646a.5.5 0 0 1 0-.708L13.793 8`})})})})))()}function "
+    },
+    {
+      "t": 1793632942362,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-db_rjMlCfZrBz5g4.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942365,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-7SZbPF6OFuVpkf_p.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"32df906e-196e-52da-a319-b53156449bba\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{S as a,T as o,b as s,x as c}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Eo as l,io as u,ro as d,wo as f}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{Cr as p,En as m,Ir as h,Mr as g,Nr as _,Or as v,Ra as y,Sn as b,Sr as x,Tn as S,Xa as C,Xt as w,Za as ee,Zt as T,br as E,eo as D,jr as O,kr as k,lr as A,ur as te,wr as j,xn as M,xr as ne,za as N}from\"./187ac5b1-0aZIiDw_m82bdyzI.js\";import{Ch as P,Gi as re,N_ as "
+    },
+    {
+      "t": 1793632942367,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-yA5feFkq7NzQFRNc.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942373,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-_O8h2MvjOS_8ClCv.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"5598b76e-8de9-5522-bc8e-1085f6aa5a1e\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{C as a,E as o,S as s,T as c,b as l,x as u}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Co as d,Eo as f,bc as p,wo as m,xc as h,xo as g}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{Bd as _,Dy as v,Ey as y,Fa as b,Li as x,N_ as S,Na as C,Ox as w,Rb as T,Ri as E,Vd as D,Xb as O,ai as k,bx as A,hp as j,hx as M,lx as N,mx as P,ni as F,ux as I,vp as L,vx as R,wx as ee,xx as te,yx as ne}from\"./187ac5b1-xYfC7ANzEnivV"
+    },
+    {
+      "t": 1793632942434,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-brmWr3iRjI7h0cTs.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942436,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-3Qg-6UJ1g5S-uaAH.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942441,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-yA5feFkq7NzQFRNc.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"1a40ce55-e8a7-59f8-a7df-359b4aa251d5\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as n}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{Cm as r,Sm as i,ip as a,rp as o}from\"./187ac5b1-_4Aw3Ge-A-7Y7Zxt.js\";import{m as s,p as c}from\"./187ac5b1-db_rjMlCfZrBz5g4.js\";var l,u;function d(){return(d=t((()=>{l=e(n()),c(),i(),o(),u=l.forwardRef(function(e,t){let{render:n,className:i,style:o,...c}=e,{store:l}=s(),u=a(c.id);return l.useSyncedValueWithCleanup(`titleElementId`,u),r(`h2`,e,{ref:t,props:[{id:u},c]})})}))"
+    },
+    {
+      "t": 1793632942451,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-LHryX8Hyc-RYdEvp.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"201689bd-3270-5bf7-9ca4-0c47f5ba20f8\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-HSBIEQxaIpf8Iofg.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-U7vJ3jGk5JregR_S.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./18"
+    },
+    {
+      "t": 1793632942451,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-c1Y5A_wFY6szNk3X.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942455,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-db_rjMlCfZrBz5g4.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"948ccfa5-78ab-5709-981e-54fd58d5ac01\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{g as n,h as r}from\"./187ac5b1-1_DwyLzwrWbaX6u_.js\";import{Jc as i,Wc as a,qc as o}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{$d as s,$o as c,Ad as l,Bd as u,Bu as d,Cd as f,Cm as p,Dd as m,Ed as h,Eu as g,Fu as _,Gp as v,Hu as y,Im as b,Io as x,Iu as S,Jo as C,Jp as w,Kp as T,Lm as E,Lo as D,Mp as O,Nd as k,Np as A,Od as j,Op as M,Ou as ee,Pd as N,Pp as P,Qd as F,Qo as I,Sd as L,Sm as R,Td as te,Tm as ne,Vp as re,Vu as ie"
+    },
+    {
+      "t": 1793632942471,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-IQeqZwOrzs3DhtvX.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942471,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-3Qg-6UJ1g5S-uaAH.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"c7afd09a-7891-5012-a243-775cd68dd97f\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{qc as t}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";var n,r;function i(){return(i=e((()=>{n=t(),r=({size:e=24,...t})=>(0,n.jsx)(`svg`,{width:e,height:e,viewBox:`0 0 24 24`,fill:`none`,xmlns:`http://www.w3.org/2000/svg`,...t,children:(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,strokeLinejoin:`round`,strokeWidth:1.5,d:`M12 15.75c0-4.25 4.25-3.317 4.25-6.976 0-4.987-7.385-5.446-8.388-.774`"
+    },
+    {
+      "t": 1793632942471,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-eoTS9NTEny9C2v-t.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942476,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-brmWr3iRjI7h0cTs.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"18a84f06-59f1-50d7-b173-01d26f57a768\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as n}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{Cm as r,Sm as i,ip as a,rp as o}from\"./187ac5b1-_4Aw3Ge-A-7Y7Zxt.js\";import{m as s,p as c}from\"./187ac5b1-db_rjMlCfZrBz5g4.js\";var l,u;function d(){return(d=t((()=>{l=e(n()),c(),o(),i(),u=l.forwardRef(function(e,t){let{render:n,className:i,style:o,...c}=e,{store:l}=s(),u=a(c.id);return l.useSyncedValueWithCleanup(`descriptionElementId`,u),r(`p`,e,{ref:t,props:[{id:u},c]})"
+    },
+    {
+      "t": 1793632942476,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-d6gniygmsWqb-ozX.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942479,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-c1Y5A_wFY6szNk3X.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"60ffb75c-313d-5656-a8b9-016af6f62960\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Gr as n,Hr as r,Wr as i}from\"./187ac5b1-0aZIiDw_m82bdyzI.js\";import{os as a}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{ti as o}from\"./187ac5b1-U7vJ3jGk5JregR_S.js\";import{qc as s}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{Gn as c,Hn as l,Nn as u,Un as d,Wn as f}from\"./187ac5b1-dWKTdU_4u1nn4K2u.js\";import{_h as p,gh as m,hh as h}from\"./187ac5b1-_4Aw3Ge-A-7Y7Zxt.js\";function g(e){return(0,v.jsx)(`svg`,{width:`16`,height:`1"
+    },
+    {
+      "t": 1793632942529,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-e8NMvB8oW4gJkPC5.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942534,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-IQeqZwOrzs3DhtvX.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"20bb4d39-3109-500a-8db6-7fa78c082956\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Xa as a,Ya as o,io as s,ro as c}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{I_ as l,R_ as u,Yd as d,Zd as f,_E as p,lx as m,ux as h,vE as g,vx as _,yx as v}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{At as y,ga as b,ha as ee,ia as x,kt as S,os as te,ra as C}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{Jc as w,qc as T}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{Ct as E,St as D,bt as O,ft as k,ht as A,xt as j}"
+    },
+    {
+      "t": 1793632942535,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-NMDYsEun1sgDHo1L.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942537,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-eoTS9NTEny9C2v-t.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"9b381ea4-bc03-5ac2-afac-82c57fec92b2\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as n}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";var r,i,a;function o(){return(o=t((()=>{r=e(n(),1),i=({children:e,size:t=24,ariaLabel:n,color:i,ariaHidden:a=!0,style:o,...s})=>r.createElement(`svg`,{...s,\"aria-hidden\":a,role:a?void 0:`img`,width:typeof t==`number`?`${t}px`:t,height:typeof t==`number`?`${t}px`:t,viewBox:`0 0 24 24`,fill:`none`,xmlns:`http://www.w3.org/2000/svg`,style:{color:i,...o}},n&&!a&&r.createElement(`tit"
+    },
+    {
+      "t": 1793632942539,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-HVmA_Uob-oQkZAx-.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942540,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-d6gniygmsWqb-ozX.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"6b324fc6-dd57-5d99-80cf-d82b1d4f6cde\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as n,qc as r}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";var i,a,o;function s(){return(s=t((()=>{i=e(n(),1),a=({children:e,size:t=24,ariaLabel:n,color:r,ariaHidden:a=!0,style:o,...s})=>i.createElement(`svg`,{...s,\"aria-hidden\":a,role:a?void 0:`img`,width:typeof t==`number`?`${t}px`:t,height:typeof t==`number`?`${t}px`:t,viewBox:`0 0 24 24`,fill:`none`,xmlns:`http://www.w3.org/2000/svg`,style:{color:r,...o}},n&&!a&&i.createElem"
+    },
+    {
+      "t": 1793632942577,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-h8WfrNMXMU5rAY18.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942581,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-NMDYsEun1sgDHo1L.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"088b60a8-c365-53e1-9fc9-2fd525ce776d\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{C as a,S as o,T as s,b as c,x as l}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{ao as u,so as d}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{Dy as f,Ey as p,Sm as m,Yd as h,Zd as g,_E as _,_m as v,bE as y,fm as ee,gm as b,lx as te,mp as ne,pm as x,pp as S,ux as C,xm as w}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{_a as T,ar as re,ir as ie,os as ae,va as E}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{ga as D,p"
+    },
+    {
+      "t": 1793632942583,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-8O7F8cSJrwJpPaCx.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942584,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-HVmA_Uob-oQkZAx-.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"68843f8f-2c60-5517-b5d1-41803ac93989\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{hV as t,yV as n}from\"./187ac5b1-1sixIIQmbFJLczP2.js\";function r(e){return e&&`width`in e&&`height`in e&&Number.isFinite(e.width)&&Number.isFinite(e.height)?{width:e.width,height:e.height,aspectRatio:e.width/(e.height||1)}:null}function i(){return(i=e((()=>{})))()}function a(e){return typeof e==`object`&&e&&!Array.isArray(e)?e:null}function o(e){return typeof e==`string`&&e.trim().length>0?e.trim():null}function s(e){var t;let n=("
+    },
+    {
+      "t": 1793632942586,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-wMAo2FgBUNlq8zpE.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942591,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-e8NMvB8oW4gJkPC5.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"f3329089-e2d8-519b-963f-cfc384e12f4e\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{C as a,S as o,T as s,b as c,x as l}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Eo as u,wo as d}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{Ba as f,Cn as p,Dx as m,Dy as h,Ey as g,Ga as _,I_ as v,Ka as y,Kd as b,Ox as x,PT as S,RT as C,R_ as w,Va as T,Wd as E,Xa as D,Ya as O,Yd as ee,Zd as k,_E as te,gE as ne,gy as re,hx as A,lx as j,mp as ie,mx as M,pp as ae,ux as N,uy as oe,vx as se,wn as P,wx as ce,yx as "
+    },
+    {
+      "t": 1793632942648,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1--y3rGhkl01xqGQTq.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942653,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-h8WfrNMXMU5rAY18.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"5a75353c-880d-593c-9419-b00f513cc2ba\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{I_ as a,N_ as o,R_ as s,Xl as c,Yl as l,_E as u,cv as d,gE as f,lv as p,lx as m,ux as h,vx as g,yx as _}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Br as v,Fr as y,Hr as b,Ir as x,Jr as S,Lr as ee,Rr as te,Sr as C,Ti as w,Ur as T,Ut as E,Vr as ne,Wr as D,Wt as re,ar as ie,cr as ae,er as oe,ir as se,lr as O,os as k,qr as ce,tr as le,wi as ue,xr as de,zr as A}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{F as j"
+    },
+    {
+      "t": 1793632942654,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-9GdEsJRkindCD6bg.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942658,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-8O7F8cSJrwJpPaCx.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"6569894f-bd61-5049-8b7d-ce9c3097c5fe\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{C as a,S as o,b as s,x as c}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Ao as l,Cb as u,Dy as d,Ey as f,Hf as p,N_ as m,PT as h,RT as g,Rb as _,Sb as v,Uo as y,Vf as b,Xb as x,Xf as ee,Zf as S,ip as C,ko as w,lb as te,rp as ne,vx as re,yb as ie,yx as ae}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Ls as T,Vs as E}from\"./187ac5b1-U7vJ3jGk5JregR_S.js\";import{Jc as oe,fc as se,qc as ce,sc as le}from\"./187ac5b1-"
+    },
+    {
+      "t": 1793632942659,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-SJtTQCtIeyCEg1Y1.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942661,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-wMAo2FgBUNlq8zpE.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"14ffccce-37d0-55ec-b804-6cd30bd9b8a9\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{gB as t,pB as n}from\"./187ac5b1-1sixIIQmbFJLczP2.js\";function r(e){return typeof e==`object`&&!!e&&`application`in e&&!!e.application}function i(e){return typeof e==`object`&&!!e&&`source`in e&&e.source===`brand_kit`}function a(e){return typeof e==`object`&&!!e&&`social`in e&&!!e.social}function o(){return(o=e((()=>{})))()}function s(e){return y.includes(e)}function c(e){return _.includes(e.status)?`complete`:v.includes(e.status)"
+    },
+    {
+      "t": 1793632942672,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-FTylU_BaXsgcgNMZ.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942675,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1--y3rGhkl01xqGQTq.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"cd845072-758c-5f5d-9fd1-12b03c039737\")}catch(e){}}();import{a as e,n as t,o as n,s as r}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{C as i,S as a,b as o,x as s}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{xc as c}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{Ab as l,Cu as u,Cy as d,Dx as f,Dy as p,Ey as m,I_ as h,NT as g,N_ as _,Ob as v,Ox as y,Oy as b,Qb as x,RT as S,R_ as C,Rb as ee,Yd as w,Yl as T,Zd as te,_E as ne,bE as re,fa as E,gE as ie,kC as ae,ub as D,wu as O,wx as oe,xy as se}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Jc as k,Mc a"
+    },
+    {
+      "t": 1793632942736,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-IY_4OVjwilMS-Mu8.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942738,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-9GdEsJRkindCD6bg.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"17dc3fd1-4566-536f-9e4a-3d2f88c2b7e4\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as n}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";var r,i,a;function o(){return(o=t((()=>{r=e(n(),1),i=({children:e,size:t=24,ariaLabel:n,color:i,ariaHidden:a=!0,style:o,...s})=>r.createElement(`svg`,{...s,\"aria-hidden\":a,role:a?void 0:`img`,width:typeof t==`number`?`${t}px`:t,height:typeof t==`number`?`${t}px`:t,viewBox:`0 0 24 24`,fill:`none`,xmlns:`http://www.w3.org/2000/svg`,style:{color:i,...o}},n&&!a&&r.createElement(`tit"
+    },
+    {
+      "t": 1793632942740,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-v-hzHyyXOuUl0CSR.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942743,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-SJtTQCtIeyCEg1Y1.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"655dbbef-34d8-5074-b49b-1e88ca046a05\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{S as a,T as o,b as s,x as c}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Dc as l,Ec as u,Ha as d,Ho as f,Oc as p,Ro as m,Ua as h,Vo as g,Wa as _,zo as v}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{at as y,ot as b}from\"./187ac5b1-0aZIiDw_m82bdyzI.js\";import{Ar as x,Dn as S,Dy as C,Ey as w,Jp as T,Mr as E,N_ as D,Nr as O,On as k,PT as A,RT as j,Xp as ee,Yd as te,Yp as ne,Zd as M,Zp as N,ag as P,fd as re,jr as "
+    },
+    {
+      "t": 1793632942744,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-e3v_mJbfWHOtzKif.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942747,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-FTylU_BaXsgcgNMZ.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"5e9c6756-5b99-52c6-af89-0ee25579795c\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{b as a,x as o}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{AS as s,Ao as c,Ar as l,Cb as u,DS as d,Mr as f,N_ as p,Nr as m,Ox as h,PT as g,RT as _,Rb as v,Sb as y,Ts as b,Yd as x,Zd as S,do as C,fo as w,gd as T,go as E,ho as D,hx as O,jr as k,ko as A,lx as j,mx as M,pd as N,po as P,ra as F,sa as I,ux as L,vi as ee,ws as R,wx as te,yb as z,yi as ne}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Co as re,Gi as ie"
+    },
+    {
+      "t": 1793632942768,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-eZv7WJ1SdSPynynB.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942773,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-IY_4OVjwilMS-Mu8.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"357238ca-498b-5d95-a594-4eae59c25ba0\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{S as a,T as o,b as s,x as c}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{I_ as l,R_ as u,Rb as d,Xb as f,Yd as p,Zd as ee,_E as m,bE as h,gE as g,lx as _,mp as te,pp as v,ux as ne}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Co as y,So as re,_o as b,ao as ie,go as ae,io as oe,nr as se,os as x,rr as ce}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{Br as S,Ks as C,Vr as w,qs as T}from\"./187ac5b1-U7vJ3jGk5JregR_S."
+    },
+    {
+      "t": 1793632942781,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-ilvSOkETf9jZ8xJa.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942786,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-v-hzHyyXOuUl0CSR.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"55ac2d6b-2124-5543-8ff9-a98f5296d75e\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-TIVRUYS6PN4RKE0z.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./187ac5b1-U7vJ3jGk5JregR_S.js\",\"./18"
+    },
+    {
+      "t": 1793632942834,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-U3vj9S9NwNah5mRW.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942834,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-11S6oMCC_CmSUOW9.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942835,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-yoZ9rw4Hp1ZRd2q0.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942842,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-e3v_mJbfWHOtzKif.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"b996f117-99af-5e4f-a098-57be2671dbe4\")}catch(e){}}();import{a as e,n as t,o as n,s as r}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as i,qc as a}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{_ as o,b as s,v as c,y as l}from\"./187ac5b1-dWKTdU_4u1nn4K2u.js\";import{$a as u}from\"./187ac5b1-6UJeH7BLHWg4aJji.js\";import{A_ as d,k_ as f}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";e(`get-media-scroll-root-m6AtLybd`,e=>{function r(e){let t=f(e);return t!==document.documentElement&&t!==document.scrollingElement&&t.clientHeight>0&&t.clientHeight<=window.in"
+    },
+    {
+      "t": 1793632942842,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-eZv7WJ1SdSPynynB.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"00a68c1c-14f5-5c56-8d33-75f477001e69\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-TRCN-lCHAyacMT45.js\",\"./187ac5b1-6UJeH7BLHWg4aJji.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./18"
+    },
+    {
+      "t": 1793632942843,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-ilvSOkETf9jZ8xJa.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"b0acaf61-13df-5270-866d-3cf341296cac\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{qc as t}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";var n,r;function i(){return(i=e((()=>{n=t(),r=({size:e=24,...t})=>(0,n.jsx)(`svg`,{width:e,height:e,viewBox:`0 0 24 24`,fill:`none`,xmlns:`http://www.w3.org/2000/svg`,...t,children:(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,strokeLinejoin:`round`,strokeWidth:1.5,d:`M19.25 13c-5.055.438-7.812 3.195-8.25 8.25-.456-5.133-3.2-7.678-8.25-8"
+    },
+    {
+      "t": 1793632942877,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-lD1NzCJy-yTBjBIJ.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942887,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-11S6oMCC_CmSUOW9.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"2ea58653-c9c1-5529-a673-7a8d979b7bf1\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Ca as t,wa as n}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{Jc as r,fc as i,sc as a}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";import{_h as o,gh as s}from\"./187ac5b1-_4Aw3Ge-A-7Y7Zxt.js\";function c(){f.pause(),f.current=null}function l(e){let t=p.get(e);if(!t&&(t=new Audio,t.preload=`none`,t.src=e,p.set(e,t),p.size>m)){for(let[t,n]of p)if(t!==e&&n.paused){n.removeAttribute(`src`),n.load(),p.delete(t);break}}return t}function u(e,{autoL"
+    },
+    {
+      "t": 1793632942891,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-PhYA0g4fGnWyc1f9.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942899,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-U3vj9S9NwNah5mRW.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"98b1e0dd-5dfc-58bb-a0fe-eaa3852a21ca\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{B as a,C as o,L as s,M as c,N as l,P as u,S as d,U as f,W as p,b as m,k as h,q as g,x as _}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Bd as v,Dx as y,Io as b,Is as x,Lo as S,Ls as C,NT as w,N_ as T,No as E,Ox as D,PT as O,RT as k,Ro as A,Vd as j,Wp as ee,_E as M,ac as N,cc as P,cu as F,hx as I,il as L,kx as R,lc as te,ld as ne,lx as re,mx as ie,rl as ae,sc as oe,ud as z,ux as se,vE as ce,vc as le,wx as ue}"
+    },
+    {
+      "t": 1793632942900,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-U8zEUOy0kFxWKCtB.js",
+      "body": ""
+    },
+    {
+      "t": 1793632942948,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-yoZ9rw4Hp1ZRd2q0.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"072248ee-c51b-50c0-9bf8-f82bf31f4cf6\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{C as a,E as o,S as s,b as c,x as l}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{An as u,Ar as d,Bd as f,Bi as p,Cy as m,Dr as h,Dx as g,Ef as _,Er as v,Ga as y,Ja as b,Ka as x,Li as S,N_ as C,Ox as w,PT as T,RT as E,Ri as D,Uo as O,Vd as k,Xa as A,Xs as ee,Ya as te,Ys as ne,_E as j,_t as re,ar as M,bn as ie,bt as ae,cc as N,cu as oe,cv as se,g as ce,gE as P,gd as le,ht as ue,hx as de,ir as fe,jr as pe,kf as "
+    },
+    {
+      "t": 1793632942956,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-SL-JJufmLcPubTtW.css",
+      "body": ""
+    },
+    {
+      "t": 1793632942963,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-DLUpSwmxWPPQ_ZLR.css",
+      "body": ""
+    },
+    {
+      "t": 1793632942966,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-ihf1e23zHmQ9Z5Cg.css",
+      "body": ""
+    },
+    {
+      "t": 1793632942976,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-lD1NzCJy-yTBjBIJ.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"ee7d27d1-1f8a-57b7-9a72-bf1bbbccbdf5\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{C as a,S as o,T as s,b as c,x as l}from\"./187ac5b1-6k05lVg2siOGEuQe.js\";import{Eo as u,Oc as d,Ro as f,Xa as p,Ya as m,ao as h,bc as g,rc as _,so as v,tc as y,vo as b,wo as x,xc as S,yo as C,zo as w}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{AS as T,Ar as E,Bd as D,Cb as O,Cu as ee,Cy as k,DS as te,Ev as A,Gt as j,I_ as M,Kt as N,LT as ne,Mr as re,N_ as ie,Nr as ae,Ox as P,RT as oe,R_ as F,Rb as I,Sb as L,"
+    },
+    {
+      "t": 1793632942977,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-PhYA0g4fGnWyc1f9.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"d3200554-7835-5d80-bb52-35a260cf22ca\")}catch(e){}}();import{a as e,l as t,n,o as r,s as i}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Ja as a,qa as o}from\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\";import{Bf as s,Cu as c,Dx as l,Gf as u,Hf as d,Kf as f,Uf as p,Vf as m,Wf as h,Xa as g,Xf as _,Ya as ee,Zf as v,_E as y,_d as te,g as ne,gE as re,hx as ie,mx as ae,np as oe,tp as b,vd as x,vx as S,wu as se,wx as ce,yx as C,z_ as le,zf as w}from\"./187ac5b1-xYfC7ANzEnivV1Db.js\";import{as as ue,os as T}from\"./187ac5b1-yHDP1eMLhlB04JVe.js\";import{A as de,D as"
+    },
+    {
+      "t": 1793632942978,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-U8zEUOy0kFxWKCtB.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"8eddaaef-bc87-5734-a14e-70e7c27da2ab\")}catch(e){}}();import{l as e,n as t}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";import{Jc as n}from\"./187ac5b1-gGSnH4fJBFlmK_zq.js\";var r,i,a;function o(){return(o=t((()=>{r=e(n(),1),i=({children:e,size:t=24,ariaLabel:n,color:i,ariaHidden:a=!0,style:o,...s})=>r.createElement(`svg`,{...s,\"aria-hidden\":a,role:a?void 0:`img`,width:typeof t==`number`?`${t}px`:t,height:typeof t==`number`?`${t}px`:t,viewBox:`0 0 24 24`,fill:`none`,xmlns:`http://www.w3.org/2000/svg`,style:{color:i,...o}},n&&!a&&r.createElement(`tit"
+    },
+    {
+      "t": 1793632942983,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-0wWwzqwoKGJZPaSL.css",
+      "body": ""
+    },
+    {
+      "t": 1793632942988,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-SL-JJufmLcPubTtW.css",
+      "body": "@layer properties;@layer theme,base,components,utilities;.media-transparency-background,.edit-app-layer-project-transparency{--edit-layer-checker-size:16px}.media-transparency-background:before,.edit-app-layer-project-transparency{background-color:#fff;background-image:linear-gradient(45deg,#cfcfcf 25%,#0000 25%),linear-gradient(-45deg,#cfcfcf 25%,#0000 25%),linear-gradient(45deg,#0000 75%,#cfcfcf 75%),linear-gradient(-45deg,#0000 75%,#cfcfcf 75%);background-position:0 0, 0 calc(var(--edit-layer-checker-size) / 2), calc(var(--edit-layer-checker-size) / 2) calc(var(--edit-layer-checker-size) / -2), calc(var(--edit-layer-checker-size) / -2) 0;background-size:var(--edit-layer-checker-size) var(--edit-layer-checker-size)}.media-transparency-background:before{content:\"\";pointer-events:none;posi"
+    },
+    {
+      "t": 1793632942992,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-yjeKW5yIWpO8jlDn.css",
+      "body": ""
+    },
+    {
+      "t": 1793632943005,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-DLUpSwmxWPPQ_ZLR.css",
+      "body": "@layer properties;@layer theme,base,components,utilities;._card_rwncp_1{outline:1px solid var(--qc-border-subtle);outline-offset:-1px;background-color:var(--qc-background-secondary);background-image:linear-gradient(color-mix(in srgb, var(--qc-text-primary) 3%, transparent), color-mix(in srgb, var(--qc-text-primary) 3%, transparent)), radial-gradient(ellipse 74.764% 111.298% at 48.824% 122.279%, color-mix(in srgb, var(--qc-text-primary) 16%, transparent), transparent);width:16.8974rem;height:13rem;box-shadow:-.75rem 1.25rem 2rem color-mix(in srgb, var(--color-neutral-primary) 15%, transparent);position:relative}@supports not (color:color-mix(in lab, red, red)){._card_rwncp_1{background-image:linear-gradient(rgba(var(--qc-text-primary--rgb), .03), rgba(var(--qc-text-primary--rgb), .03)), rad"
+    },
+    {
+      "t": 1793632943005,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-VioB50WGyD6UA4Co.css",
+      "body": ""
+    },
+    {
+      "t": 1793632943005,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-ihf1e23zHmQ9Z5Cg.css",
+      "body": "@layer properties;@layer theme,base,components,utilities;[data-video-player]:-webkit-full-screen{background:#000;justify-content:center;align-items:center;display:flex;border-radius:0!important;width:100%!important;max-width:none!important;height:100%!important;max-height:none!important}[data-video-player]:fullscreen{background:#000;justify-content:center;align-items:center;display:flex;border-radius:0!important;width:100%!important;max-width:none!important;height:100%!important;max-height:none!important}[data-video-player]:-webkit-full-screen video{object-fit:contain!important;width:100%!important;max-width:none!important;height:100%!important;max-height:none!important}[data-video-player]:fullscreen video{object-fit:contain!important;width:100%!important;max-width:none!important;height:10"
+    },
+    {
+      "t": 1793632943034,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-eetAyAihOLshQRb6.css",
+      "body": ""
+    },
+    {
+      "t": 1793632943037,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-yjeKW5yIWpO8jlDn.css",
+      "body": "@layer properties;@layer theme,base,components,utilities;@layer components{:has(>._job_stage__card_nyzeq_2){container-type:size}@container (height<=180px){._job_stage__card__description_nyzeq_23{display:none}._job_stage__card__button_nyzeq_31{height:36px}}@container (height<=159px){._job_stage__card_nyzeq_2{padding:8px!important}._job_stage__card__container_nyzeq_9{gap:4px!important}}@container (height<=120px){._job_stage__card__button_nyzeq_31{height:auto}}@container (height<=85px){._job_stage__card_nyzeq_2{padding:4px!important}._job_stage__card__content_nyzeq_12{gap:4px!important}._job_stage__card__icon_nyzeq_16{display:none!important}}}\n"
+    },
+    {
+      "t": 1793632943039,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-9l7Zc3L0CS820hvh.js",
+      "body": ""
+    },
+    {
+      "t": 1793632943040,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-0wWwzqwoKGJZPaSL.css",
+      "body": "@layer properties;@layer theme,base,components,utilities;@supports (-webkit-hyphens:none){._safariClip_1txw0_6{clip-path:inset(0 round 1rem)}}\n"
+    },
+    {
+      "t": 1793632943049,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-5dSgZmjfh6kpzxh4.js",
+      "body": ""
+    },
+    {
+      "t": 1793632943052,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-VioB50WGyD6UA4Co.css",
+      "body": "@layer properties;@layer theme,base,components,utilities;._wavebar_group_14q1t_15{transform-origin:50%;animation:_wavebar_wave_14q1t_1 var(--wavebar-duration,1.5s) ease-in-out infinite;animation-delay:var(--wavebar-delay)}@keyframes _wavebar_wave_14q1t_1{0%,to{transform:scaleY(.55)}50%{transform:scaleY(1)}}@media (prefers-reduced-motion:reduce){._wavebar_group_14q1t_15{animation:none;transform:scaleY(.8)}}\n"
+    },
+    {
+      "t": 1793632943193,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-Fgc8n8DgrmBQ9OkK.css",
+      "body": ""
+    },
+    {
+      "t": 1793632943193,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-eeHEnrtrQE86adzr.js",
+      "body": ""
+    },
+    {
+      "t": 1793632943193,
+      "dir": "REQ",
+      "m": "GET",
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-ULVdsr2W8B9lyu48.js",
+      "body": ""
+    },
+    {
+      "t": 1793632943195,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-eetAyAihOLshQRb6.css",
+      "body": "@layer properties;@layer theme,base,components,utilities;._track_38nf1_1{background:color-mix(in srgb, var(--hf-color-grey-550) 30.769%, var(--hf-color-grey-600))}._range_38nf1_5{background:linear-gradient(90deg in oklch, var(--hf-color-green-900), var(--hf-color-green-600) 42%, var(--hf-color-lime-600) 84%, var(--hf-color-lime-500));box-shadow:inset 0 0 .625rem color-mix(in srgb, var(--hf-color-lime-500) 28%, transparent), inset 0 .0625rem .125rem var(--hf-color-transparent-light-30), inset 0 0 0 .0625rem color-mix(in srgb, var(--hf-color-grey-050) 7%, transparent)}@supports not (color:color-mix(in lab, red, red)){._range_38nf1_5{box-shadow:inset 0 0 .625rem rgba(var(--hf-color-lime-500--rgb), .28), inset 0 .0625rem .125rem var(--hf-color-transparent-light-30), inset 0 0 0 .0625rem rgba(v"
+    },
+    {
+      "t": 1793632943230,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-9l7Zc3L0CS820hvh.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"46754f77-2795-5463-882d-6a7c1e0e484a\")}catch(e){}}();const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=[\"./187ac5b1-5k-F78eBCg5Dvh7S.js\",\"./187ac5b1-ogOdE30g8Jc45kfx.js\",\"./187ac5b1-6k05lVg2siOGEuQe.js\",\"./187ac5b1-gGSnH4fJBFlmK_zq.js\",\"./187ac5b1-1_DwyLzwrWbaX6u_.js\",\"./187ac5b1-yHDP1eMLhlB04JVe.js\",\"./187ac5b1-cqgyVl6tN7J0TPp1.js\",\"./187ac5b1-dWKTdU_4u1nn4K2u.js\",\"./187ac5b1--QGDognIaoZz8zl4.js\",\"./187ac5b1-xYfC7ANzEnivV1Db.js\",\"./187ac5b1-nwtwi2Dw2X8KCfMl.js\",\"./187ac5b1-0aZIiDw_m82bdyzI.js\",\"./187ac5b1-U7vJ3jGk5JregR_S.js\",\"./18"
+    },
+    {
+      "t": 1793632943230,
+      "dir": "RES",
+      "s": 200,
+      "url": "https://assets.higgsfield.ai/tanstack/assets/187ac5b1-5dSgZmjfh6kpzxh4.js",
+      "body": "!function(){try{var e=\"undefined\"!=typeof window?window:\"undefined\"!=typeof global?global:\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]=\"8bc45978-0096-5285-a642-d485cac7e451\")}catch(e){}}();import{n as e}from\"./187ac5b1-ogOdE30g8Jc45kfx.js\";function t(){return(t=e((()=>{})))()}export{t};\n//# debugId=8bc45978-0096-5285-a642-d485cac7e451\n\n//# chunkId=8bc45978-0096-5285-a642-d485cac7e451"
+    }
+  ]
+}

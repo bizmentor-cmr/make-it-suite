@@ -1,0 +1,146 @@
+[
+  {
+    "name": "hf-tier",
+    "valuePreview": "T2",
+    "valueLen": 2,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2027-10-28T11:53:59.862Z"
+  },
+  {
+    "name": "hf-consent-regime",
+    "valuePreview": "opt-out",
+    "valueLen": 7,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2027-10-28T11:53:59.862Z"
+  },
+  {
+    "name": "hf_cm",
+    "valuePreview": "1793620020527",
+    "valueLen": 13,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2026-11-02T12:17:00.553Z"
+  },
+  {
+    "name": "hf-first-visit-at",
+    "valuePreview": "1793620020527",
+    "valueLen": 13,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2027-10-28T11:47:00.553Z"
+  },
+  {
+    "name": "$$__device-id",
+    "valuePreview": "586a4552-e1f0-4e11-87d8-1eaee9c5fdc1",
+    "valueLen": 36,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2027-10-28T11:47:00.553Z"
+  },
+  {
+    "name": "hf_version_key",
+    "valuePreview": "97d84311-a8e2-4bf1-9658-7afba63d6580",
+    "valueLen": 36,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2027-11-02T11:47:00.553Z"
+  },
+  {
+    "name": "hf_clerk_proxy",
+    "valuePreview": "1",
+    "valueLen": 1,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2027-11-02T11:47:00.923Z"
+  },
+  {
+    "name": "hf_clerk_observed",
+    "valuePreview": "1793620020589:proxy",
+    "valueLen": 19,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2026-11-02T12:17:00.923Z"
+  },
+  {
+    "name": "cf_clearance",
+    "valuePreview": "CnqHpBIvcB9wmeEjK1lFLhfP8JSmTGXM11UUfenIq1cQcQX1zQlvpLzUmEM4",
+    "valueLen": 431,
+    "domain": ".higgsfield.ai",
+    "path": "/",
+    "expires": "2027-11-02T11:47:01.762Z"
+  },
+  {
+    "name": "__client_uat",
+    "valuePreview": "0",
+    "valueLen": 1,
+    "domain": ".higgsfield.ai",
+    "path": "/",
+    "expires": "2027-12-07T11:53:57.362Z"
+  },
+  {
+    "name": "__client_uat_FQWayshe",
+    "valuePreview": "0",
+    "valueLen": 1,
+    "domain": ".higgsfield.ai",
+    "path": "/",
+    "expires": "2027-12-07T11:53:57.363Z"
+  },
+  {
+    "name": "_ga",
+    "valuePreview": "GA1.1.1356937749.1793620027",
+    "valueLen": 27,
+    "domain": ".higgsfield.ai",
+    "path": "/",
+    "expires": "2027-12-07T11:54:01.163Z"
+  },
+  {
+    "name": "gbuuid",
+    "valuePreview": "31c85605-0c18-400d-903a-1d2758ee95b6",
+    "valueLen": 36,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2027-12-07T11:54:01.000Z"
+  },
+  {
+    "name": "g_state",
+    "valuePreview": "{\"i_l\":0,\"i_ll\":1793620031768,\"i_b\":\"zUfGxWBpXdxfWPvzjGv80ZR",
+    "valueLen": 140,
+    "domain": "higgsfield.ai",
+    "path": "/",
+    "expires": "2027-05-01T11:47:11.000Z"
+  },
+  {
+    "name": "__cf_bm",
+    "valuePreview": "Pc2t9raqfOnXRJXupfinFHVGgBc95aFE9Gk.TPJfrD4-1793620434.39063",
+    "valueLen": 199,
+    "domain": ".higgsfield.ai",
+    "path": "/",
+    "expires": "2026-11-02T12:23:54.438Z"
+  },
+  {
+    "name": "ph_phc_nAcCHDBUspNpjMXoEt7RUffSwfjsVsYAPVwEeHAfsWEd_posthog",
+    "valuePreview": "%7B%22%24device_id%22%3A%22586a4552-e1f0-4e11-87d8-1eaee9c5f",
+    "valueLen": 424,
+    "domain": ".higgsfield.ai",
+    "path": "/",
+    "expires": "2027-11-02T11:53:56.000Z"
+  },
+  {
+    "name": "datadome",
+    "valuePreview": "7JXrc8YVa8kPhyw8DVA58fuy1syLQbV3FOLo~vdzktj1qUWyOHAdhoP7wysm",
+    "valueLen": 128,
+    "domain": ".higgsfield.ai",
+    "path": "/",
+    "expires": "2027-11-02T11:53:59.470Z"
+  },
+  {
+    "name": "_ga_THH13P18SS",
+    "valuePreview": "GS2.1.s1793620026$o1$g1$t1793620441$j60$l0$h0",
+    "valueLen": 45,
+    "domain": ".higgsfield.ai",
+    "path": "/",
+    "expires": "2027-12-07T11:54:01.249Z"
+  }
+]

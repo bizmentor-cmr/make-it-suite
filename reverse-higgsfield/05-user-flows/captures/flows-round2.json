@@ -1,0 +1,409 @@
+{
+ "cinemaPromptFields": [
+  {
+   "tag": "DIV",
+   "ce": "true",
+   "ph": "",
+   "w": 620,
+   "h": 52
+  }
+ ],
+ "aiVideoAfterGenerate": {
+  "url": "https://higgsfield.ai/ai/video?model=seedance_2_5",
+  "dialogs": [],
+  "body": "Get an additional discount on premium plans after signing up | Get your discount | Explore | Image | Video | Audio | MCP | API | Genjutsu | New | Content Factory | New | Playable | New | AI Influencer | Academy | New | Katana | ChatGPT Plugin | Ads Studio | Effects | Cinema Studio | Contests | Contests | Marketing Studio | Supercomputer | Edit | Co"
+ },
+ "soulUI": {
+  "tabs": [
+   "Login",
+   "Sign up",
+   "English",
+   "Cookie Settings"
+  ],
+  "presets": [
+   "MCP\nAPI",
+   "HIGGSFIELD SOUL\n",
+   "GENERAL\nDUPLICATE\nBIMBOCORE",
+   "RING SELFIE\nAFTERPARTY CAM",
+   "AMALFI SUMMER\nANGEL WINGS",
+   "ARTWORK\nAVANT-GARDE",
+   "BABYDOLL MAKEUP\nBIKE MAFIA",
+   "BIRTHDAY MESS\nBLEACHED BROWS",
+   "BURGUNDY SUIT\nCCTV",
+   "CLOUDED DREAM\nCOQUETTE CORE",
+   "CREATURES\nCROSSING THE STREET",
+   "DIGITAL CAMERA\nDMV\nDOUBLE TAKE",
+   "EATING FOOD\nELEVATOR MIRROR",
+   "ESCALATOR\nFAIRYCORE",
+   "FASHION SHOW\nFIREPROOF",
+   "FISH-EYE TWIN\nFISHEYE",
+   "FLIGHT MODE\nFOGGY MORNING",
+   "GALLERY\nGEOMINIMAL",
+   "GIANT ACCESSORY\nGIANT PEOPLE",
+   "GLAZED DOLL SKIN MAKEUP\nGLITCH",
+   "GORPCORE\nGRAFFITI",
+   "GREEN EDITORIAL\nGRILLZ SELFIE",
+   "GRUNGE\nHAIR CLIPS\nHALLWAY NOIR",
+   "INDIE SLEAZE\nINVERTETHEREAL",
+   "IPHONE",
+   "JAPANDI\nLIBRARY\nLONG LEGS",
+   "MEDIEVAL\nMIXED MEDIA\nMOVIE",
+   "NAIL CHECK\nNICOTINE GLOW",
+   "NIGHT BEACH\nNIGHT RIDER",
+   "OBJECT MAKEUP\nOFFICE BEACH"
+  ],
+  "ctas": []
+ },
+ "appsLinks": [
+  {
+   "t": "Higgsfield",
+   "h": "/"
+  },
+  {
+   "t": "Explore",
+   "h": "/"
+  },
+  {
+   "t": "Image",
+   "h": "/ai/image?model=gpt_image_2"
+  },
+  {
+   "t": "Video",
+   "h": "/ai/video"
+  },
+  {
+   "t": "Audio",
+   "h": "/audio"
+  },
+  {
+   "t": "MCP",
+   "h": "/mcp"
+  },
+  {
+   "t": "GenjutsuNew",
+   "h": "/ai/video?model=genjutsu"
+  },
+  {
+   "t": "Content FactoryNew",
+   "h": "/content-factory"
+  },
+  {
+   "t": "PlayableNew",
+   "h": "/playable"
+  },
+  {
+   "t": "AI Influencer",
+   "h": "/ai-influencer-studio"
+  },
+  {
+   "t": "AcademyNew",
+   "h": "/academy"
+  },
+  {
+   "t": "Katana",
+   "h": "/katana"
+  },
+  {
+   "t": "ChatGPT Plugin",
+   "h": "/mcp?tab=chatgpt"
+  },
+  {
+   "t": "Ads Studio",
+   "h": "/ads-studio"
+  },
+  {
+   "t": "Effects",
+   "h": "/effects/use"
+  },
+  {
+   "t": "Cinema Studio",
+   "h": "/generate"
+  },
+  {
+   "t": "ContestsContests",
+   "h": "/community/contests"
+  },
+  {
+   "t": "Marketing Studio",
+   "h": "/marketing-studio"
+  },
+  {
+   "t": "Supercomputer",
+   "h": "/supercomputer"
+  },
+  {
+   "t": "Edit",
+   "h": "/layers"
+  },
+  {
+   "t": "Community",
+   "h": "/community"
+  },
+  {
+   "t": "Plugins",
+   "h": "/plugins/after-effects"
+  },
+  {
+   "t": "Canvas",
+   "h": "/canvas"
+  },
+  {
+   "t": "Originals",
+   "h": "/original-series"
+  },
+  {
+   "t": "Pricing30% OFF",
+   "h": "/pricing"
+  },
+  {
+   "t": "All",
+   "h": "/apps"
+  },
+  {
+   "t": "Professional",
+   "h": "/apps/camera-motion"
+  },
+  {
+   "t": "Enhance & Style",
+   "h": "/apps/enhance-style"
+  },
+  {
+   "t": "Face & Identity",
+   "h": "/apps/face-identity"
+  },
+  {
+   "t": "Video Editing",
+   "h": "/apps/video-editing"
+  },
+  {
+   "t": "Ads & Products",
+   "h": "/apps/ads-products"
+  },
+  {
+   "t": "Games & Characters",
+   "h": "/apps/games-characters"
+  },
+  {
+   "t": "Extras",
+   "h": "/apps/extras"
+  },
+  {
+   "t": "Trending Templates",
+   "h": "/apps/trending-templates"
+  },
+  {
+   "t": "See all",
+   "h": "/apps/camera-motion"
+  },
+  {
+   "t": "Your browser does not support the video.",
+   "h": "/apps/virality-predictor"
+  },
+  {
+   "t": "Your browser does not support the video.",
+   "h": "/apps/expand-image"
+  },
+  {
+   "t": "ProYour browser does not support the vid",
+   "h": "/apps/angles"
+  },
+  {
+   "t": "Your browser does not support the video.",
+   "h": "/apps/shots"
+  },
+  {
+   "t": "TrendingYour browser does not support th",
+   "h": "/apps/transitions"
+  },
+  {
+   "t": "See all",
+   "h": "/apps/enhance-style"
+  },
+  {
+   "t": "ProYour browser does not support the vid",
+   "h": "/apps/skin-enhancer"
+  },
+  {
+   "t": "NewYour browser does not support the vid",
+   "h": "/apps/ai-stylist"
+  },
+  {
+   "t": "ProYour browser does not support the vid",
+   "h": "/apps/relight"
+  },
+  {
+   "t": "Your browser does not support the video.",
+   "h": "/apps/outfit-swap"
+  },
+  {
+   "t": "Your browser does not support the video.",
+   "h": "/apps/style-snap"
+  },
+  {
+   "t": "See all",
+   "h": "/apps/face-identity"
+  },
+  {
+   "t": "Your browser does not support the video.",
+   "h": "/apps/face-swap"
+  },
+  {
+   "t": "Your browser does not support the video.",
+   "h": "/apps/ai-headshot-generator"
+  },
+  {
+   "t": "Your browser does not support the video.",
+   "h": "/apps/character-swap"
+  }
+ ],
+ "mixedMedia": {
+  "headings": [
+   "404",
+   "Page not found"
+  ],
+  "cards": [
+   {
+    "t": "Higgsfield",
+    "h": "/"
+   },
+   {
+    "t": "Explore",
+    "h": "/"
+   },
+   {
+    "t": "Image",
+    "h": "/ai/image?model=gpt_image_2"
+   },
+   {
+    "t": "Video",
+    "h": "/ai/video"
+   },
+   {
+    "t": "Audio",
+    "h": "/audio"
+   },
+   {
+    "t": "MCP",
+    "h": "/mcp"
+   },
+   {
+    "t": "API",
+    "h": "https://console.higgsfield.ai"
+   },
+   {
+    "t": "GenjutsuNew",
+    "h": "/ai/video?model=genjutsu"
+   },
+   {
+    "t": "Content FactoryNew",
+    "h": "/content-factory"
+   },
+   {
+    "t": "PlayableNew",
+    "h": "/playable"
+   },
+   {
+    "t": "AI Influencer",
+    "h": "/ai-influencer-studio"
+   },
+   {
+    "t": "AcademyNew",
+    "h": "/academy"
+   },
+   {
+    "t": "Katana",
+    "h": "/katana"
+   },
+   {
+    "t": "ChatGPT Plugin",
+    "h": "/mcp?tab=chatgpt"
+   },
+   {
+    "t": "Ads Studio",
+    "h": "/ads-studio"
+   },
+   {
+    "t": "Effects",
+    "h": "/effects/use"
+   },
+   {
+    "t": "Cinema Studio",
+    "h": "/generate"
+   },
+   {
+    "t": "ContestsContests",
+    "h": "/community/contests"
+   },
+   {
+    "t": "Marketing Studio",
+    "h": "/marketing-studio"
+   },
+   {
+    "t": "Supercomputer",
+    "h": "/supercomputer"
+   },
+   {
+    "t": "Edit",
+    "h": "/layers"
+   },
+   {
+    "t": "Community",
+    "h": "/community"
+   },
+   {
+    "t": "Plugins",
+    "h": "/plugins/after-effects"
+   },
+   {
+    "t": "Canvas",
+    "h": "/canvas"
+   },
+   {
+    "t": "Originals",
+    "h": "/original-series"
+   },
+   {
+    "t": "Pricing30% OFF",
+    "h": "/pricing"
+   },
+   {
+    "t": "Enterprise",
+    "h": "https://higgsfield.ai/enterprise"
+   },
+   {
+    "t": "Back to home",
+    "h": "/"
+   },
+   {
+    "t": "Help center",
+    "h": "/creator-hub/help-center"
+   },
+   {
+    "t": "Cookie Notice",
+    "h": "/cookie-notice"
+   },
+   {
+    "t": "Terms",
+    "h": "/terms-of-use-agreement"
+   },
+   {
+    "t": "Privacy",
+    "h": "/privacy-policy"
+   },
+   {
+    "t": "Report a vulnerability",
+    "h": "https://bugcrowd.com/engagements/higgsfield-ai-vdp-pro"
+   }
+  ]
+ },
+ "pricingCTAs": [
+  "Get Starter",
+  "Get Plus−20%Save $120",
+  "Get Ultra−23%Save $360",
+  "Get Plus−20%Save $120",
+  "Get Plan",
+  "Get Plan",
+  "Get Plan",
+  "Choose your plan"
+ ]
+}

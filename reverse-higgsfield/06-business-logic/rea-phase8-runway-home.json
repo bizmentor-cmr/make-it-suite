@@ -1,0 +1,39 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "/home/z/.cache/ms-playwright/chromium_headless_shell-1200/chrome-headless-shell-linux64/chrome-headless-shell",
+    "headless": true
+  },
+  "start_url": {
+    "url": "https://runwayml.com/"
+  },
+  "actions": [
+    {
+      "step_id": "goto.home",
+      "action": "goto",
+      "destination": { "url": "https://runwayml.com/" },
+      "wait_until": "domcontentloaded",
+      "timeout_ms": 60000
+    },
+    {
+      "step_id": "wait.settle",
+      "action": "wait_for_timeout",
+      "duration_ms": 10000
+    }
+  ],
+  "capture": {
+    "events": ["console", "network", "page-errors"],
+    "network": {
+      "request_body": false,
+      "response_body": false,
+      "header_values": false
+    },
+    "after_each_step": ["url"],
+    "at_end": ["url", "screenshot", "dom", "history"],
+    "limits": {
+      "max_events": 4000,
+      "max_network_transactions": 1024
+    }
+  },
+  "command_timeout_ms": 90000
+}

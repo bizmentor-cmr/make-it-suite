@@ -1,0 +1,589 @@
+- document:
+  - dialog "cookieconsent":
+    - paragraph:
+      - text: We use cookies and similar technologies to run Higgsfield and understand how you use it. Product analytics helps us improve Higgsfield, may be linked to your account, and stays on when you decline advertising. With your permission, we and third-party providers use device and activity information to measure the effectiveness of our advertising and improve our campaigns. Manage your choices in Cookie Preferences. See our
+      - link "Cookie Notice":
+        - /url: https://higgsfield.ai/cookie-notice
+    - link "Cookie Notice visit this link to learn more about cookies. Opens in new window":
+      - /url: https://higgsfield.ai/cookie-notice
+      - text: Cookie Notice
+    - button "Accept All Cookies"
+    - button "Reject Advertising Cookies"
+    - button "Cookie Preferences"
+  - banner
+  - banner:
+    - link "Higgsfield":
+      - /url: /
+      - img "Higgsfield"
+    - navigation "Main":
+      - list:
+        - listitem:
+          - link "Explore":
+            - /url: /
+        - listitem:
+          - link "Image":
+            - /url: /ai/image?model=gpt_image_2
+        - listitem:
+          - link "Video":
+            - /url: /ai/video
+        - listitem:
+          - link "Audio":
+            - /url: /audio
+        - listitem:
+          - link "MCP":
+            - /url: /mcp
+        - listitem:
+          - link "API":
+            - /url: https://console.higgsfield.ai
+        - separator
+        - listitem:
+          - link "Genjutsu New":
+            - /url: /ai/video?model=genjutsu
+        - listitem:
+          - link "Content Factory New":
+            - /url: /content-factory
+        - listitem:
+          - link "Playable New":
+            - /url: /playable
+        - listitem:
+          - link "AI Influencer":
+            - /url: /ai-influencer-studio
+        - listitem:
+          - link "Academy New":
+            - /url: /academy
+        - listitem:
+          - link "Katana":
+            - /url: /katana
+        - listitem:
+          - link "ChatGPT Plugin":
+            - /url: /mcp?tab=chatgpt
+        - listitem:
+          - link "Ads Studio":
+            - /url: /ads-studio
+        - listitem:
+          - link "Effects":
+            - /url: /effects/use
+        - listitem:
+          - link "Cinema Studio":
+            - /url: /generate
+        - listitem:
+          - link "Contests":
+            - /url: /community/contests
+        - listitem:
+          - link "Marketing Studio":
+            - /url: /marketing-studio
+        - listitem:
+          - link "Supercomputer":
+            - /url: /supercomputer
+        - listitem:
+          - link "Edit":
+            - /url: /layers
+        - listitem:
+          - link "Community":
+            - /url: /community
+        - listitem:
+          - link "Plugins":
+            - /url: /plugins/after-effects
+        - listitem:
+          - link "Canvas":
+            - /url: /canvas
+        - listitem:
+          - link "Originals":
+            - /url: /original-series
+    - link "Pricing 30% OFF":
+      - /url: /pricing
+    - link "Enterprise":
+      - /url: https://higgsfield.ai/enterprise
+      - img
+      - text: Enterprise
+    - button "Change language"
+    - button "Login"
+    - button "Sign up"
+  - main:
+    - main:
+      - text: Try for free
+      - button "Now in ChatGPT"
+      - heading "Visual Effects" [level=1]
+      - navigation "Effects":
+        - link "Floating fall":
+          - /url: /effects/examples/floating-fall
+        - link "Studio slide":
+          - /url: /effects/examples/studio-slide
+        - link "Eyes in":
+          - /url: /effects/examples/eyes-in
+        - link "Wild ride":
+          - /url: /effects/examples/wild-ride
+        - link "Smash and grab":
+          - /url: /effects/examples/smash-and-grab
+        - link "Incline":
+          - /url: /effects/examples/incline
+        - link "High flip":
+          - /url: /effects/examples/high-flip
+        - link "Street colossus":
+          - /url: /effects/examples/street-colossus
+        - link "Cutout":
+          - /url: /effects/examples/cutout
+        - link "Selfception":
+          - /url: /effects/examples/selfception
+        - link "Act natural":
+          - /url: /effects/examples/act-natural
+        - link "World morphing":
+          - /url: /effects/examples/world-morphing
+        - link "Lacewalker":
+          - /url: /effects/examples/lacewalker
+        - link "Burning man":
+          - /url: /effects/examples/burning-man
+        - link "Melting":
+          - /url: /effects/examples/melting
+        - link "boarding pass":
+          - /url: /effects/examples/boarding-pass
+        - link "Monster dab":
+          - /url: /effects/examples/monster-dab
+        - link "Floating fall":
+          - /url: /effects/examples/floating-fall
+        - link "Lidar transition":
+          - /url: /effects/examples/lidar
+        - link "Architecture wave":
+          - /url: /effects/examples/architecture-wave
+        - link "Clones":
+          - /url: /effects/examples/clones
+        - link "Scrapbook collage":
+          - /url: /effects/examples/scrapbook-collage
+        - link "Stop world":
+          - /url: /effects/examples/stop-world
+        - link "Agamemnon new":
+          - /url: /effects/examples/agamemnon
+        - link "Earth zoom":
+          - /url: /effects/examples/earth-zoom-exported
+        - link "Fallen angel new":
+          - /url: /effects/examples/fallen-angel
+        - link "Bullet time new":
+          - /url: /effects/examples/bullet-time
+        - link "Comic":
+          - /url: /effects/examples/comic
+        - link "Cyclope new":
+          - /url: /effects/examples/cyclope
+        - link "Infinite clones":
+          - /url: /effects/examples/infinite-clones
+        - link "Frozen in motion":
+          - /url: /effects/examples/frozen-in-motion
+        - link "Cutout":
+          - /url: /effects/examples/cutout
+        - link "Infinite clones":
+          - /url: /effects/examples/infinite-clones
+        - link "Eyes in":
+          - /url: /effects/examples/eyes-in
+        - link "Vanish":
+          - /url: /effects/examples/vanish
+        - link "Particles":
+          - /url: /effects/examples/particles
+        - link "Mighty fighter":
+          - /url: /effects/examples/mighty-fighter-exported
+        - link "Windows":
+          - /url: /effects/examples/windows
+        - link "Canvas":
+          - /url: /effects/examples/canvas
+        - link "Pigeons new":
+          - /url: /effects/examples/pigeons
+        - link "Fairytale castle":
+          - /url: /effects/examples/fairytale-castle-exported
+        - link "Tracking":
+          - /url: /effects/examples/tracking
+        - link "Superstar":
+          - /url: /effects/examples/superstar
+        - link "Pearl earring new":
+          - /url: /effects/examples/pearl-earring
+        - link "LSD":
+          - /url: /effects/examples/lsd
+        - link "Vanish":
+          - /url: /effects/examples/vanish
+        - link "Skatedog new":
+          - /url: /effects/examples/skatedog
+        - link "Blue depth":
+          - /url: /effects/examples/blue-depth-exported
+        - link "Palette":
+          - /url: /effects/examples/palette
+        - link "Moonwalk":
+          - /url: /effects/examples/moonwalk-exported
+      - region "VFX gallery":
+        - list:
+          - listitem:
+            - figure:
+              - link "View Floating fall":
+                - /url: /effects/examples/floating-fall
+              - heading "Floating fall" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/floating-fall
+          - listitem:
+            - figure:
+              - link "View High flip":
+                - /url: /effects/examples/high-flip
+              - heading "High flip" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/high-flip
+          - listitem:
+            - figure:
+              - link "View Burning man":
+                - /url: /effects/examples/burning-man
+              - heading "Burning man" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/burning-man
+          - listitem:
+            - figure:
+              - link "View Scrapbook collage":
+                - /url: /effects/examples/scrapbook-collage
+              - heading "Scrapbook collage" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/scrapbook-collage
+          - listitem:
+            - figure:
+              - link "View Comic":
+                - /url: /effects/examples/comic
+              - heading "Comic" [level=2]
+              - link "Generate":
+                - /url: /effects/use/comic
+          - listitem:
+            - figure:
+              - link "View Frozen in motion":
+                - /url: /effects/examples/frozen-in-motion
+              - heading "Frozen in motion" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/frozen-in-motion
+          - listitem:
+            - figure:
+              - link "View Particles":
+                - /url: /effects/examples/particles
+              - heading "Particles" [level=2]
+              - link "Generate":
+                - /url: /effects/use/particles
+          - listitem:
+            - figure:
+              - link "View Pigeons":
+                - /url: /effects/examples/pigeons
+              - heading "Pigeons" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/pigeons
+          - listitem:
+            - figure:
+              - link "View Pearl earring":
+                - /url: /effects/examples/pearl-earring
+              - heading "Pearl earring" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/pearl-earring
+          - listitem:
+            - figure:
+              - link "View Studio slide":
+                - /url: /effects/examples/studio-slide
+              - heading "Studio slide" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/studio-slide
+          - listitem:
+            - figure:
+              - link "View Incline":
+                - /url: /effects/examples/incline
+              - heading "Incline" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/incline
+          - listitem:
+            - figure:
+              - link "View Act natural":
+                - /url: /effects/examples/act-natural
+              - heading "Act natural" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/act-natural
+          - listitem:
+            - figure:
+              - link "View Monster dab":
+                - /url: /effects/examples/monster-dab
+              - heading "Monster dab" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/monster-dab
+          - listitem:
+            - figure:
+              - link "View Clones":
+                - /url: /effects/examples/clones
+              - heading "Clones" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/clones
+          - listitem:
+            - figure:
+              - link "View Earth zoom":
+                - /url: /effects/examples/earth-zoom-exported
+              - heading "Earth zoom" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/earth-zoom-exported
+          - listitem:
+            - figure:
+              - link "View Cutout":
+                - /url: /effects/examples/cutout
+              - heading "Cutout" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/cutout
+          - listitem:
+            - figure:
+              - link "View Mighty fighter":
+                - /url: /effects/examples/mighty-fighter-exported
+              - heading "Mighty fighter" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/mighty-fighter-exported
+          - listitem:
+            - figure:
+              - link "View Vanish":
+                - /url: /effects/examples/vanish
+              - heading "Vanish" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/vanish
+          - listitem:
+            - figure:
+              - link "View Moonwalk":
+                - /url: /effects/examples/moonwalk-exported
+              - heading "Moonwalk" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/moonwalk-exported
+          - listitem:
+            - figure:
+              - link "View Eyes in":
+                - /url: /effects/examples/eyes-in
+              - heading "Eyes in" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/eyes-in
+          - listitem:
+            - figure:
+              - link "View Street colossus":
+                - /url: /effects/examples/street-colossus
+              - heading "Street colossus" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/street-colossus
+          - listitem:
+            - figure:
+              - link "View Melting":
+                - /url: /effects/examples/melting
+              - heading "Melting" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/melting
+          - listitem:
+            - figure:
+              - link "View Architecture wave":
+                - /url: /effects/examples/architecture-wave
+              - heading "Architecture wave" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/architecture-wave
+          - listitem:
+            - figure:
+              - link "View Agamemnon":
+                - /url: /effects/examples/agamemnon
+              - heading "Agamemnon" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/agamemnon
+          - listitem:
+            - figure:
+              - link "View Cyclope":
+                - /url: /effects/examples/cyclope
+              - heading "Cyclope" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/cyclope
+          - listitem:
+            - figure:
+              - link "View Eyes in":
+                - /url: /effects/examples/eyes-in
+              - heading "Eyes in" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/eyes-in
+          - listitem:
+            - figure:
+              - link "View Canvas":
+                - /url: /effects/examples/canvas
+              - heading "Canvas" [level=2]
+              - link "Generate":
+                - /url: /effects/use/canvas
+          - listitem:
+            - figure:
+              - link "View Tracking":
+                - /url: /effects/examples/tracking
+              - heading "Tracking" [level=2]
+              - link "Generate":
+                - /url: /effects/use/tracking
+          - listitem:
+            - figure:
+              - link "View LSD":
+                - /url: /effects/examples/lsd
+              - heading "LSD" [level=2]
+              - link "Generate":
+                - /url: /effects/use/lsd
+          - listitem:
+            - figure:
+              - link "View Blue depth":
+                - /url: /effects/examples/blue-depth-exported
+              - heading "Blue depth" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/blue-depth-exported
+          - listitem:
+            - figure:
+              - link "View Wild ride":
+                - /url: /effects/examples/wild-ride
+              - heading "Wild ride" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/wild-ride
+          - listitem:
+            - figure:
+              - link "View Cutout":
+                - /url: /effects/examples/cutout
+              - heading "Cutout" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/cutout
+          - listitem:
+            - figure:
+              - link "View World morphing":
+                - /url: /effects/examples/world-morphing
+              - heading "World morphing" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/world-morphing
+          - listitem:
+            - figure:
+              - link "View Floating fall":
+                - /url: /effects/examples/floating-fall
+              - heading "Floating fall" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/floating-fall
+          - listitem:
+            - figure:
+              - link "View Stop world":
+                - /url: /effects/examples/stop-world
+              - heading "Stop world" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/stop-world
+          - listitem:
+            - figure:
+              - link "View Bullet time":
+                - /url: /effects/examples/bullet-time
+              - heading "Bullet time" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/bullet-time
+          - listitem:
+            - figure:
+              - link "View Infinite clones":
+                - /url: /effects/examples/infinite-clones
+              - heading "Infinite clones" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/infinite-clones
+          - listitem:
+            - figure:
+              - link "View Vanish":
+                - /url: /effects/examples/vanish
+              - heading "Vanish" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/vanish
+          - listitem:
+            - figure:
+              - link "View Superstar":
+                - /url: /effects/examples/superstar
+              - heading "Superstar" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/superstar
+          - listitem:
+            - figure:
+              - link "View Skatedog":
+                - /url: /effects/examples/skatedog
+              - heading "Skatedog" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/skatedog
+          - listitem:
+            - figure:
+              - link "View Smash and grab":
+                - /url: /effects/examples/smash-and-grab
+              - heading "Smash and grab" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/smash-and-grab
+          - listitem:
+            - figure:
+              - link "View Selfception":
+                - /url: /effects/examples/selfception
+              - heading "Selfception" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/selfception
+          - listitem:
+            - figure:
+              - link "View Lacewalker":
+                - /url: /effects/examples/lacewalker
+              - heading "Lacewalker" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/lacewalker
+          - listitem:
+            - figure:
+              - link "View boarding pass":
+                - /url: /effects/examples/boarding-pass
+              - heading "boarding pass" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/boarding-pass
+          - listitem:
+            - figure:
+              - link "View Lidar transition":
+                - /url: /effects/examples/lidar
+              - heading "Lidar transition" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/lidar
+          - listitem:
+            - figure:
+              - link "View Fallen angel":
+                - /url: /effects/examples/fallen-angel
+              - heading "Fallen angel" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/fallen-angel
+          - listitem:
+            - figure:
+              - link "View Infinite clones":
+                - /url: /effects/examples/infinite-clones
+              - heading "Infinite clones" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/infinite-clones
+          - listitem:
+            - figure:
+              - link "View Windows":
+                - /url: /effects/examples/windows
+              - heading "Windows" [level=2]
+              - link "Generate":
+                - /url: /effects/use/windows
+          - listitem:
+            - figure:
+              - link "View Fairytale castle":
+                - /url: /effects/examples/fairytale-castle-exported
+              - heading "Fairytale castle" [level=2]
+              - link "Try for free":
+                - /url: /effects/use/fairytale-castle-exported
+          - listitem:
+            - figure:
+              - link "View Palette":
+                - /url: /effects/examples/palette
+              - heading "Palette" [level=2]
+              - link "Generate":
+                - /url: /effects/use/palette
+  - contentinfo:
+    - navigation:
+      - paragraph: © 2026 Higgsfield, Inc. All rights reserved.
+      - list:
+        - listitem:
+          - button "Change language":
+            - img "English flag"
+            - text: English
+            - img
+        - listitem:
+          - link "Help center":
+            - /url: /creator-hub/help-center
+        - listitem:
+          - link "Cookie Notice":
+            - /url: /cookie-notice
+        - listitem:
+          - button "Cookie Settings"
+        - listitem:
+          - link "Terms":
+            - /url: /terms-of-use-agreement
+        - listitem:
+          - link "Privacy":
+            - /url: /privacy-policy
+        - listitem:
+          - link "Report a vulnerability":
+            - /url: https://bugcrowd.com/engagements/higgsfield-ai-vdp-pro
+  - region "Notifications Alt+T"
+  - region "Notifications alt+T"
+  - region "Notifications alt+T"
+  - region "Notifications"

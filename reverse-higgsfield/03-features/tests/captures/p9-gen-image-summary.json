@@ -1,0 +1,26 @@
+{
+  "tool": "image",
+  "prompt": "A majestic golden eagle soaring over snowy mountains at sunrise, cinematic lighting, ultra detailed, 4k",
+  "success": true,
+  "creditsBefore": null,
+  "clickedVia": "any:Generate8.56.5",
+  "elapsedSec": 5,
+  "output": {
+    "src": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=16,quality=85/https://static.higgsfield.ai/public/asset/empty/folder/folder-brand.webp",
+    "w": 1440,
+    "h": 1170
+  },
+  "creditsAfter": "200",
+  "lastState": {
+    "imgs": [
+      {
+        "src": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=16,quality=85/https://static.higgsfield.ai/public/asset/empty/folder/folder-brand.webp",
+        "w": 1440,
+        "h": 1170
+      }
+    ],
+    "videos": [],
+    "progress": "30",
+    "errs": []
+  }
+}

@@ -1,0 +1,209 @@
+- - - - - - - - - - - - - - - How Do Promo Codes Work on Higgsfield?- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Higgsfield- Explore
+- Image
+- Video
+- Audio
+- MCP
+- API
+-
+- GenjutsuNew
+- Content FactoryNew
+- PlayableNew
+- AI Influencer
+- AcademyNew
+- Katana
+- ChatGPT Plugin
+- Ads Studio
+- Effects
+- Cinema Studio
+- ContestsContests
+- Marketing Studio
+- Supercomputer
+- Edit
+- Community
+- Plugins
+- Canvas
+- Originals
+- - Creator Hub
+Creator HubHelp centerBlogChangelogCustomer StoriesSearch Creator HubOn this page
+- How do I activate a promocode?
+- How long do promo credits last?
+- Where do I get a promocode?
+- Help center
+- /
+- Credits
+- /
+- How do promocodes work?
+BackCopy page
+How do promocodes work?
+Copy page
+HiggsfieldAug 3, 20262 min
+A promocode gives you a discount on a plan or bonus credits. To activate one, go to Manage Account → Promocode, select Enter code, and type it in: the benefit is applied instantly. Promo credits are valid until the expiry date shown when they're added, and stay available even if you cancel your subscription. For how promo pricing affects your renewal, see How do promo prices work?
+How do I activate a promocode?
+- Click your avatar and select Manage Account.
+- Open Promocode in the left sidebar.
+- Select Enter code and type in your promocode.
+The promo is applied instantly. After activation, the page shows what you received: the discount applied and how many credits were added.
+How long do promo credits last?
+Promo credits are valid until the expiry date shown when they're added to your account. If you cancel your subscription, they stay available on the free plan: you can spend them on the models the free plan includes until their expiry date passes. See Do my top-up credits expire, and what happens if I cancel?
+Where do I get a promocode?
+Marketing promos are announced on Higgsfield's official social media channels first, so follow them to catch new offers. The Higgsfield Discord community is another source: streams and community events run there, and active participants can receive promocodes. Support promos are issued by the Support team case by case, as compensation or a goodwill gesture: they aren't guaranteed and can't be requested.
+Got any questions left?
+Where can I enter my promocode?In Manage Account → Promocode → Enter code. The benefit is applied instantly.
+Why isn't my promocode working?Some promocodes are limited by time or number of uses, and Support promos expire if not activated within 7 days of being issued. Make sure the code is still valid and entered correctly, with no extra spaces.
+Can I activate the same promocode twice?No. One promocode means one activation, unless the promotion's terms say otherwise.
+Do promo credits expire?Yes. Promo credits expire on the date shown when they're added to your account. The exact validity period is stated with each promo.
+Where can I find new promo offers?On Higgsfield's official social media channels: marketing promos are always announced there first. Community events in the Higgsfield Discord are another way to catch them.
+Share Feedback
+Was this article helpful?
+YesNo
+by Higgsfield
+Share Feedback
+Was this article helpful?
+YesNo
+How does Concurrency Boost work?
+AI-native creative suite
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+Create
+- AI Video
+- AI Video Effects
+- AI Image
+- Edit Image
+- Inpaint
+- Upscale
+- Sora 2 Upscale
+- Mixed Media
+- AI Face Swap
+- AI Influencer
+- Apps
+Video Models
+- Seedance 2.5
+- Seedance 2.0
+- Kling 3.0
+- Sora 2 Introduction
+- Veo 3.1 Introduction
+- WAN 2.6
+- Grok Imagine 1.5
+- Gemini Omni Flash
+Image Models
+- Nano Banana
+- Flux 2
+- Seedream 5
+- GPT Image 2
+- Ideogram 4.5
+Studios
+- Cinema Studio
+- Marketing Studio
+- Lipsync Studio
+- Higgsfield Popcorn
+- Higgsfield Canvas
+Soul
+- Soul 2.0
+- Soul ID Character
+- Soul Cinema
+Platform
+- Supercomputer
+- AI Motion Designer
+- MCP/CLI
+- API
+- Collab
+- Games
+- Reference Extension
+Resources
+- Blog
+- Help Center
+- Academy
+- Prompt Guide
+Company
+- About
+- Trust
+- Report a vulnerability
+- Enterprise
+- Team
+- Pricing
+- Careers
+- Contact
+Community
+- Community
+- Contests
+- Creative Partners
+535 Mission St, 14th floor, San Francisco, CA, 94105
+- X / Twitter
+- Youtube
+- LinkedIn
+- Tiktok
+- Discord
+© 2026 Higgsfield, Inc. All rights reserved.
+-
+- Help center
+- Cookie Notice
+- Terms
+- Privacy
+- Report a vulnerability
